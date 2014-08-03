@@ -1,0 +1,18 @@
+#include <psp2.1/dataFile.txt>
+= Data for /Project/Proyecto3PC/Cruce Bolsa/P1: Permitir hacer cruce entre varias bolsas e informar a los clientes/BPEL
+Base_Parts/0/Base=0.0
+Base_Parts/0/Deleted=0.0
+Base_Parts/0/Modified=14.0
+EV_Task_IDs=="hyegb1b9:6849898
+Estimated Base LOC_Last_Synced_Val=0.0
+Estimated Deleted LOC_Last_Synced_Val=0.0
+Estimated Modified LOC_Last_Synced_Val=14.0
+Estimated New & Changed LOC=16.0
+Estimated New & Changed LOC_Last_Synced_Val=16.0
+Estimated Time=600.0
+Estimated Time_Last_Synced_Val=600.0
+New Objects/0/LOC=2.0
+New Objects/0/LOC_Last_Synced_Val=2.0
+Reused Objects/0/LOC_Last_Synced_Val=0.0
+WBS_Unique_ID="6849898
+Workflow_Source_ID="6849898
