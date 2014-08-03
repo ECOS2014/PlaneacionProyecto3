@@ -12,8 +12,8 @@
 # directory.  Thus, we change the cwd to point to the selected data
 # directory.
 #
-cd '$DATA_PATH/teaminstance'
+cd '/Users/CarlosRoa/Library/Process Dashboard/data/teaminstance'
 
 # Runs the Process Dashboard
 #
-java -Xmx${MAX_MEMORY}m -jar '$INSTALL_PATH/pspdash.jar' 'Team Dashboard'
+java -Xmx800m -jar '/Users/CarlosRoa/Documents/Documents/Process Dashboard/pspdash.jar' 'Team Dashboard'
