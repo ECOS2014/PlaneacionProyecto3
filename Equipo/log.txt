@@ -36,3 +36,7 @@ INFO: Using local working directory /Users/CarlosRoa/Documents/ECOS/5200/Planeac
 Saved /Users/CarlosRoa/Documents/ECOS/5200/PlaneacionProyecto3/Equipo/1.dat
 Aug 3, 2014 11:12:03 AM com.tuma_solutions.tpidw.client.addon.TpidwAddOnDataLoader$DatasetLoaderThread loadDatasetImpl
 INFO: Refreshed database with project data (took 84 ms)
+Aug 3, 2014 11:13:42 AM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+Completed user-scheduled data export.
+Saved /Users/CarlosRoa/Documents/ECOS/5200/PlaneacionProyecto3/Equipo/global.dat
