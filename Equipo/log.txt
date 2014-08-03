@@ -1,17 +1,17 @@
-Process Dashboard - logging started at Sun Aug 03 10:20:02 COT 2014
-Oracle Corporation JRE 1.7.0_60-ea; Windows 8.1
-Using LocalWorkingDirectory[C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\Equipo]
+Process Dashboard - logging started at Sun Aug 03 10:35:53 COT 2014
+Oracle Corporation JRE 1.7.0_17; Windows 7
+Using LocalWorkingDirectory[G:\Documents\GitHub\PlaneacionProyecto3\Equipo]
 Created default translation engine.
-ago 03, 2014 10:20:04 AM net.sourceforge.processdash.ProcessDashboard <init>
-INFORMACIÓN: Process Dashboard version 2.0
-ago 03, 2014 10:20:04 AM com.tuma_solutions.tpidw.client.addon.TpidwAddOnContext createContextImpl
-INFORMACIÓN: Creating TPIDW database
-ago 03, 2014 10:20:08 AM com.tuma_solutions.tpidw.client.addon.TpidwAddOnContext createContextImpl
-INFORMACIÓN: TPIDW database created
-ago 03, 2014 10:20:08 AM com.tuma_solutions.tpidw.client.addon.TpidwAddOnDataLoader$DatasetLoaderThread loadDatasetImpl
-INFORMACIÓN: Refreshed database with project data (took 114 ms)
-ago 03, 2014 10:25:25 AM net.sourceforge.processdash.ProcessDashboard quit
-INFORMACIÓN: Successfully saved all data.
+ago 03, 2014 10:35:56 AM net.sourceforge.processdash.ProcessDashboard <init>
+INFO: Process Dashboard version 2.0
+ago 03, 2014 10:35:56 AM com.tuma_solutions.tpidw.client.addon.TpidwAddOnContext createContextImpl
+INFO: Creating TPIDW database
+ago 03, 2014 10:36:03 AM com.tuma_solutions.tpidw.client.addon.TpidwAddOnContext createContextImpl
+INFO: TPIDW database created
+ago 03, 2014 10:36:03 AM com.tuma_solutions.tpidw.client.addon.TpidwAddOnDataLoader$DatasetLoaderThread loadDatasetImpl
+INFO: Refreshed database with project data (took 161 ms)
+ago 03, 2014 10:37:27 AM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
 java.io.FileNotFoundException: \Users\CarlosRoa\Documents\ECOS\5200\PlaneacionProyecto3\Equipo\data\hyegb1b9\disseminate\team-data.pdash
 	at net.sourceforge.processdash.tool.export.impl.ExportFileStream.validateTarget(ExportFileStream.java:139)
 	at net.sourceforge.processdash.tool.export.impl.ExportFileStream.getOutputStream(ExportFileStream.java:90)
@@ -24,4 +24,4 @@ java.io.FileNotFoundException: \Users\CarlosRoa\Documents\ECOS\5200\PlaneacionPr
 	at net.sourceforge.processdash.ProcessDashboard.access$700(ProcessDashboard.java:182)
 	at net.sourceforge.processdash.ProcessDashboard$5.run(ProcessDashboard.java:1568)
 Completed user-scheduled data export.
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\Equipo\global.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\Equipo\global.dat
