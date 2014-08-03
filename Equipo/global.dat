@@ -1,3 +1,11 @@
 #include <dataFile.txt>
+Current_Exported_Filenames=="/Users/CarlosRoa/Documents/ECOS/5200/PlaneacionProyecto3/Equipo/data/hyegb1b9/disseminate/team-data.pdash
+Historically_Exported_Filenames=="/Users/CarlosRoa/Documents/ECOS/5200/PlaneacionProyecto3/Equipo/data/hyegb1b9/disseminate/team-data.pdash
 Non Project/Time==0.0
-Project/Time==0.0
+Non Project/leaf==TAG
+Non Project/node==TAG
+Project/node==TAG
+Task-Schedule/Proyecto3/Task List ID="lyth0i.hyegb1vz
+Task-Schedule/Proyecto3/Task Lists=="
+ev /Proyecto3/PW_STOR=" none 
+ev /Proyecto3/_Password_==1.0

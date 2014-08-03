@@ -1,0 +1,17 @@
+<wbsModel>
+  <wbsNode name='Project Milestones' id='15036109' type='Milestone List' indentLevel='0' expanded='true'>
+    <attr name='createdWithVersion' value='4.0.0'/>
+  </wbsNode>
+    <wbsNode name='Ciclo1' id='15036106' type='Milestone' indentLevel='1'>
+      <attr name='Commit Date' value='2014-08-31'/>
+      <attr name='Color' value='#00ffff'/>
+    </wbsNode>
+    <wbsNode name='Ciclo2' id='15036107' type='Milestone' indentLevel='1'>
+      <attr name='Commit Date' value='2014-10-13'/>
+      <attr name='Color' value='#e2931d'/>
+    </wbsNode>
+    <wbsNode name='Ciclo3' id='15036108' type='Milestone' indentLevel='1'>
+      <attr name='Commit Date' value='2014-11-26'/>
+      <attr name='Color' value='#b400b4'/>
+    </wbsNode>
+</wbsModel>

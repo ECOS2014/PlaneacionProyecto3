@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project name='Common Workflows' id='6849907' tid='hyegb1b9:6849907' dumpFileVersion='4.0.0' dumpTimestamp='@1407078207800'>
+	<workflow name='Marketplace' id='6849884' tid='hyegb1b9:6849884'>
+		<component name='Portal' id='6849906' tid='hyegb1b9:6849906'>
+			<psp name='Portlet' id='6849893' tid='hyegb1b9:6849893'/>
+			<psp name='Bean Session' id='6849894' tid='hyegb1b9:6849894'/>
+			<psp name='Proxy' id='6849895' tid='hyegb1b9:6849895'/>
+			<psp name='JSPX' id='6849896' tid='hyegb1b9:6849896'/>
+		</component>
+		<psp name='OSB Front' id='6849897' tid='hyegb1b9:6849897'/>
+		<psp name='BPEL' id='6849898' tid='hyegb1b9:6849898'/>
+		<psp name='BAM-Entidad' id='6849899' tid='hyegb1b9:6849899'/>
+		<psp name='BAM- KPI' id='6849900' tid='hyegb1b9:6849900'/>
+		<psp name='CRM' id='6849901' tid='hyegb1b9:6849901'/>
+		<psp name='OSB Back' id='6849902' tid='hyegb1b9:6849902'/>
+		<psp name='Aplicaciones' id='6849903' tid='hyegb1b9:6849903'/>
+		<psp name='Base de datos-Atributos' id='6849904' tid='hyegb1b9:6849904'/>
+		<psp name='Base de datos-Relacion' id='6849905' tid='hyegb1b9:6849905'/>
+	</workflow>
+</project>

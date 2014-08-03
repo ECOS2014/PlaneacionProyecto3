@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<dashboard-process-template>
+  <template name="TSP-Common-Team-Workflow-Template:!*!:Proyecto3 - Marketplace" defineRollup="no" href="none" autoData="none" ID="TSP/IndivEmptyNode" defectLog="true" dataFile="TSP/indiv_empty_dataFile.txt" size="New &amp; Changed LOC" constraints="{PSP0.1{PSP1{PSP1.1{PSP2{PSP2.1{TSP/PHASE/Misc{TSP/IndivTask/Misc{TSP/PHASE/Strategy{TSP/IndivTask/Strategy{TSP/PHASE/Planning{TSP/IndivTask/Planning{TSP/PHASE/Reqts{TSP/IndivTask/Reqts{TSP/PHASE/Sys_Test_Plan{TSP/IndivTask/Sys_Test_Plan{TSP/PHASE/Reqts_Review{TSP/IndivTask/Reqts_Review{TSP/PHASE/Reqts_Inspect{TSP/IndivTask/Reqts_Inspect{TSP/PHASE/HLD{TSP/IndivTask/HLD{TSP/PHASE/Int_Test_Plan{TSP/IndivTask/Int_Test_Plan{TSP/PHASE/HLD_Review{TSP/IndivTask/HLD_Review{TSP/PHASE/HLD_Inspect{TSP/IndivTask/HLD_Inspect{TSP/PHASE/Design{TSP/IndivTask/Design{TSP/PHASE/Design_Review{TSP/IndivTask/Design_Review{TSP/PHASE/Test_Devel{TSP/IndivTask/Test_Devel{TSP/PHASE/Design_Inspect{TSP/IndivTask/Design_Inspect{TSP/PHASE/Code{TSP/IndivTask/Code{TSP/PHASE/Code_Review{TSP/IndivTask/Code_Review{TSP/PHASE/Compile{TSP/IndivTask/Compile{TSP/PHASE/Code_Inspect{TSP/IndivTask/Code_Inspect{TSP/PHASE/Test{TSP/IndivTask/Test{TSP/PHASE/Int_Test{TSP/IndivTask/Int_Test{TSP/PHASE/Sys_Test{TSP/IndivTask/Sys_Test{TSP/PHASE/Documentation{TSP/IndivTask/Documentation{TSP/PHASE/Accept_Test{TSP/IndivTask/Accept_Test{TSP/PHASE/Postmortem{TSP/IndivTask/Postmortem{TSP/PHASE/Product_Life{TSP/IndivTask/Product_Life{TSP/IndivEmptyNode{TSP/Rollup}TSP/IndivTask/Misc}TSP/IndivTask/Strategy}TSP/IndivTask/Planning}TSP/IndivTask/Reqts}TSP/IndivTask/Sys_Test_Plan}TSP/IndivTask/Reqts_Review}TSP/IndivTask/Reqts_Inspect}TSP/IndivTask/HLD}TSP/IndivTask/Int_Test_Plan}TSP/IndivTask/HLD_Review}TSP/IndivTask/HLD_Inspect}TSP/IndivTask/Design}TSP/IndivTask/Design_Review}TSP/IndivTask/Test_Devel}TSP/IndivTask/Design_Inspect}TSP/IndivTask/Code}TSP/IndivTask/Code_Review}TSP/IndivTask/Compile}TSP/IndivTask/Code_Inspect}TSP/IndivTask/Test}TSP/IndivTask/Int_Test}TSP/IndivTask/Sys_Test}TSP/IndivTask/Documentation}TSP/IndivTask/Accept_Test}TSP/IndivTask/Postmortem}TSP/IndivTask/Product_Life}TSP/IndivRoot}TSP/IndivReadOnlyNode}TSP/IndivFullNode}TSP/IndivEmptyNode">
+    <node name="Portal" ID="TSP/IndivEmptyNode" defectLog="true" dataFile="TSP/indiv_empty_dataFile.txt" constraints="{PSP0.1{PSP1{PSP1.1{PSP2{PSP2.1{TSP/PHASE/Misc{TSP/IndivTask/Misc{TSP/PHASE/Strategy{TSP/IndivTask/Strategy{TSP/PHASE/Planning{TSP/IndivTask/Planning{TSP/PHASE/Reqts{TSP/IndivTask/Reqts{TSP/PHASE/Sys_Test_Plan{TSP/IndivTask/Sys_Test_Plan{TSP/PHASE/Reqts_Review{TSP/IndivTask/Reqts_Review{TSP/PHASE/Reqts_Inspect{TSP/IndivTask/Reqts_Inspect{TSP/PHASE/HLD{TSP/IndivTask/HLD{TSP/PHASE/Int_Test_Plan{TSP/IndivTask/Int_Test_Plan{TSP/PHASE/HLD_Review{TSP/IndivTask/HLD_Review{TSP/PHASE/HLD_Inspect{TSP/IndivTask/HLD_Inspect{TSP/PHASE/Design{TSP/IndivTask/Design{TSP/PHASE/Design_Review{TSP/IndivTask/Design_Review{TSP/PHASE/Test_Devel{TSP/IndivTask/Test_Devel{TSP/PHASE/Design_Inspect{TSP/IndivTask/Design_Inspect{TSP/PHASE/Code{TSP/IndivTask/Code{TSP/PHASE/Code_Review{TSP/IndivTask/Code_Review{TSP/PHASE/Compile{TSP/IndivTask/Compile{TSP/PHASE/Code_Inspect{TSP/IndivTask/Code_Inspect{TSP/PHASE/Test{TSP/IndivTask/Test{TSP/PHASE/Int_Test{TSP/IndivTask/Int_Test{TSP/PHASE/Sys_Test{TSP/IndivTask/Sys_Test{TSP/PHASE/Documentation{TSP/IndivTask/Documentation{TSP/PHASE/Accept_Test{TSP/IndivTask/Accept_Test{TSP/PHASE/Postmortem{TSP/IndivTask/Postmortem{TSP/PHASE/Product_Life{TSP/IndivTask/Product_Life{TSP/IndivEmptyNode{TSP/Rollup}TSP/IndivTask/Misc}TSP/IndivTask/Strategy}TSP/IndivTask/Planning}TSP/IndivTask/Reqts}TSP/IndivTask/Sys_Test_Plan}TSP/IndivTask/Reqts_Review}TSP/IndivTask/Reqts_Inspect}TSP/IndivTask/HLD}TSP/IndivTask/Int_Test_Plan}TSP/IndivTask/HLD_Review}TSP/IndivTask/HLD_Inspect}TSP/IndivTask/Design}TSP/IndivTask/Design_Review}TSP/IndivTask/Test_Devel}TSP/IndivTask/Design_Inspect}TSP/IndivTask/Code}TSP/IndivTask/Code_Review}TSP/IndivTask/Compile}TSP/IndivTask/Code_Inspect}TSP/IndivTask/Test}TSP/IndivTask/Int_Test}TSP/IndivTask/Sys_Test}TSP/IndivTask/Documentation}TSP/IndivTask/Accept_Test}TSP/IndivTask/Postmortem}TSP/IndivTask/Product_Life}TSP/IndivRoot}TSP/IndivReadOnlyNode}TSP/IndivFullNode}TSP/IndivEmptyNode">
+      <node name="Portlet" ID="PSP2.1" defectLog="true" autoData="none" dataFile="psp2.1/dataFile.txt" constraints="{Design Inspection(3){Code Inspection(-2)">
+        <phase name="Planning" />
+        <phase name="Design" />
+        <phase name="Design Review" />
+        <phase name="Code" />
+        <phase name="Code Review" />
+        <phase name="Compile" />
+        <phase name="Test" />
+        <phase name="Postmortem" />
+      </node>
+      <node name="Bean Session" ID="PSP2.1" defectLog="true" autoData="none" dataFile="psp2.1/dataFile.txt" constraints="{Design Inspection(3){Code Inspection(-2)">
+        <phase name="Planning" />
+        <phase name="Design" />
+        <phase name="Design Review" />
+        <phase name="Code" />
+        <phase name="Code Review" />
+        <phase name="Compile" />
+        <phase name="Test" />
+        <phase name="Postmortem" />
+      </node>
+      <node name="Proxy" ID="PSP2.1" defectLog="true" autoData="none" dataFile="psp2.1/dataFile.txt" constraints="{Design Inspection(3){Code Inspection(-2)">
+        <phase name="Planning" />
+        <phase name="Design" />
+        <phase name="Design Review" />
+        <phase name="Code" />
+        <phase name="Code Review" />
+        <phase name="Compile" />
+        <phase name="Test" />
+        <phase name="Postmortem" />
+      </node>
+      <node name="JSPX" ID="PSP2.1" defectLog="true" autoData="none" dataFile="psp2.1/dataFile.txt" constraints="{Design Inspection(3){Code Inspection(-2)">
+        <phase name="Planning" />
+        <phase name="Design" />
+        <phase name="Design Review" />
+        <phase name="Code" />
+        <phase name="Code Review" />
+        <phase name="Compile" />
+        <phase name="Test" />
+        <phase name="Postmortem" />
+      </node>
+    </node>
+    <node name="OSB Front" ID="PSP2.1" defectLog="true" autoData="none" dataFile="psp2.1/dataFile.txt" constraints="{Design Inspection(3){Code Inspection(-2)">
+      <phase name="Planning" />
+      <phase name="Design" />
+      <phase name="Design Review" />
+      <phase name="Code" />
+      <phase name="Code Review" />
+      <phase name="Compile" />
+      <phase name="Test" />
+      <phase name="Postmortem" />
+    </node>
+    <node name="BPEL" ID="PSP2.1" defectLog="true" autoData="none" dataFile="psp2.1/dataFile.txt" constraints="{Design Inspection(3){Code Inspection(-2)">
+      <phase name="Planning" />
+      <phase name="Design" />
+      <phase name="Design Review" />
+      <phase name="Code" />
+      <phase name="Code Review" />
+      <phase name="Compile" />
+      <phase name="Test" />
+      <phase name="Postmortem" />
+    </node>
+    <node name="BAM-Entidad" ID="PSP2.1" defectLog="true" autoData="none" dataFile="psp2.1/dataFile.txt" constraints="{Design Inspection(3){Code Inspection(-2)">
+      <phase name="Planning" />
+      <phase name="Design" />
+      <phase name="Design Review" />
+      <phase name="Code" />
+      <phase name="Code Review" />
+      <phase name="Compile" />
+      <phase name="Test" />
+      <phase name="Postmortem" />
+    </node>
+    <node name="BAM- KPI" ID="PSP2.1" defectLog="true" autoData="none" dataFile="psp2.1/dataFile.txt" constraints="{Design Inspection(3){Code Inspection(-2)">
+      <phase name="Planning" />
+      <phase name="Design" />
+      <phase name="Design Review" />
+      <phase name="Code" />
+      <phase name="Code Review" />
+      <phase name="Compile" />
+      <phase name="Test" />
+      <phase name="Postmortem" />
+    </node>
+    <node name="CRM" ID="PSP2.1" defectLog="true" autoData="none" dataFile="psp2.1/dataFile.txt" constraints="{Design Inspection(3){Code Inspection(-2)">
+      <phase name="Planning" />
+      <phase name="Design" />
+      <phase name="Design Review" />
+      <phase name="Code" />
+      <phase name="Code Review" />
+      <phase name="Compile" />
+      <phase name="Test" />
+      <phase name="Postmortem" />
+    </node>
+    <node name="OSB Back" ID="PSP2.1" defectLog="true" autoData="none" dataFile="psp2.1/dataFile.txt" constraints="{Design Inspection(3){Code Inspection(-2)">
+      <phase name="Planning" />
+      <phase name="Design" />
+      <phase name="Design Review" />
+      <phase name="Code" />
+      <phase name="Code Review" />
+      <phase name="Compile" />
+      <phase name="Test" />
+      <phase name="Postmortem" />
+    </node>
+    <node name="Aplicaciones" ID="PSP2.1" defectLog="true" autoData="none" dataFile="psp2.1/dataFile.txt" constraints="{Design Inspection(3){Code Inspection(-2)">
+      <phase name="Planning" />
+      <phase name="Design" />
+      <phase name="Design Review" />
+      <phase name="Code" />
+      <phase name="Code Review" />
+      <phase name="Compile" />
+      <phase name="Test" />
+      <phase name="Postmortem" />
+    </node>
+    <node name="Base de datos-Atributos" ID="PSP2.1" defectLog="true" autoData="none" dataFile="psp2.1/dataFile.txt" constraints="{Design Inspection(3){Code Inspection(-2)">
+      <phase name="Planning" />
+      <phase name="Design" />
+      <phase name="Design Review" />
+      <phase name="Code" />
+      <phase name="Code Review" />
+      <phase name="Compile" />
+      <phase name="Test" />
+      <phase name="Postmortem" />
+    </node>
+    <node name="Base de datos-Relacion" ID="PSP2.1" defectLog="true" autoData="none" dataFile="psp2.1/dataFile.txt" constraints="{Design Inspection(3){Code Inspection(-2)">
+      <phase name="Planning" />
+      <phase name="Design" />
+      <phase name="Design Review" />
+      <phase name="Code" />
+      <phase name="Code Review" />
+      <phase name="Compile" />
+      <phase name="Test" />
+      <phase name="Postmortem" />
+    </node>
+  </template>
+  <template name="TSP-Common-Team-Workflow-Template2:!*!:Proyecto3 - Marketplace" defineRollup="no" href="none" autoData="none" ID="TSP/Indiv2Task" defectLog="true" dataFile="TSP/indiv2_empty_dataFile.txt" constraints="{PSP0.1{PSP1{PSP1.1{PSP2{PSP2.1{TSP/Indiv2Task}TSP/Indiv2Root}TSP/Indiv2ReadOnlyNode}TSP/Indiv2Task">
+    <node name="Portal" ID="TSP/Indiv2Task" defectLog="true" dataFile="TSP/indiv2_empty_dataFile.txt" constraints="{PSP0.1{PSP1{PSP1.1{PSP2{PSP2.1{TSP/Indiv2Task}TSP/Indiv2Root}TSP/Indiv2ReadOnlyNode}TSP/Indiv2Task">
+      <node name="Portlet" ID="PSP2.1" defectLog="true" autoData="none" dataFile="psp2.1/dataFile.txt" constraints="{Design Inspection(3){Code Inspection(-2)">
+        <phase name="Planning" />
+        <phase name="Design" />
+        <phase name="Design Review" />
+        <phase name="Code" />
+        <phase name="Code Review" />
+        <phase name="Compile" />
+        <phase name="Test" />
+        <phase name="Postmortem" />
+      </node>
+      <node name="Bean Session" ID="PSP2.1" defectLog="true" autoData="none" dataFile="psp2.1/dataFile.txt" constraints="{Design Inspection(3){Code Inspection(-2)">
+        <phase name="Planning" />
+        <phase name="Design" />
+        <phase name="Design Review" />
+        <phase name="Code" />
+        <phase name="Code Review" />
+        <phase name="Compile" />
+        <phase name="Test" />
+        <phase name="Postmortem" />
+      </node>
+      <node name="Proxy" ID="PSP2.1" defectLog="true" autoData="none" dataFile="psp2.1/dataFile.txt" constraints="{Design Inspection(3){Code Inspection(-2)">
+        <phase name="Planning" />
+        <phase name="Design" />
+        <phase name="Design Review" />
+        <phase name="Code" />
+        <phase name="Code Review" />
+        <phase name="Compile" />
+        <phase name="Test" />
+        <phase name="Postmortem" />
+      </node>
+      <node name="JSPX" ID="PSP2.1" defectLog="true" autoData="none" dataFile="psp2.1/dataFile.txt" constraints="{Design Inspection(3){Code Inspection(-2)">
+        <phase name="Planning" />
+        <phase name="Design" />
+        <phase name="Design Review" />
+        <phase name="Code" />
+        <phase name="Code Review" />
+        <phase name="Compile" />
+        <phase name="Test" />
+        <phase name="Postmortem" />
+      </node>
+    </node>
+    <node name="OSB Front" ID="PSP2.1" defectLog="true" autoData="none" dataFile="psp2.1/dataFile.txt" constraints="{Design Inspection(3){Code Inspection(-2)">
+      <phase name="Planning" />
+      <phase name="Design" />
+      <phase name="Design Review" />
+      <phase name="Code" />
+      <phase name="Code Review" />
+      <phase name="Compile" />
+      <phase name="Test" />
+      <phase name="Postmortem" />
+    </node>
+    <node name="BPEL" ID="PSP2.1" defectLog="true" autoData="none" dataFile="psp2.1/dataFile.txt" constraints="{Design Inspection(3){Code Inspection(-2)">
+      <phase name="Planning" />
+      <phase name="Design" />
+      <phase name="Design Review" />
+      <phase name="Code" />
+      <phase name="Code Review" />
+      <phase name="Compile" />
+      <phase name="Test" />
+      <phase name="Postmortem" />
+    </node>
+    <node name="BAM-Entidad" ID="PSP2.1" defectLog="true" autoData="none" dataFile="psp2.1/dataFile.txt" constraints="{Design Inspection(3){Code Inspection(-2)">
+      <phase name="Planning" />
+      <phase name="Design" />
+      <phase name="Design Review" />
+      <phase name="Code" />
+      <phase name="Code Review" />
+      <phase name="Compile" />
+      <phase name="Test" />
+      <phase name="Postmortem" />
+    </node>
+    <node name="BAM- KPI" ID="PSP2.1" defectLog="true" autoData="none" dataFile="psp2.1/dataFile.txt" constraints="{Design Inspection(3){Code Inspection(-2)">
+      <phase name="Planning" />
+      <phase name="Design" />
+      <phase name="Design Review" />
+      <phase name="Code" />
+      <phase name="Code Review" />
+      <phase name="Compile" />
+      <phase name="Test" />
+      <phase name="Postmortem" />
+    </node>
+    <node name="CRM" ID="PSP2.1" defectLog="true" autoData="none" dataFile="psp2.1/dataFile.txt" constraints="{Design Inspection(3){Code Inspection(-2)">
+      <phase name="Planning" />
+      <phase name="Design" />
+      <phase name="Design Review" />
+      <phase name="Code" />
+      <phase name="Code Review" />
+      <phase name="Compile" />
+      <phase name="Test" />
+      <phase name="Postmortem" />
+    </node>
+    <node name="OSB Back" ID="PSP2.1" defectLog="true" autoData="none" dataFile="psp2.1/dataFile.txt" constraints="{Design Inspection(3){Code Inspection(-2)">
+      <phase name="Planning" />
+      <phase name="Design" />
+      <phase name="Design Review" />
+      <phase name="Code" />
+      <phase name="Code Review" />
+      <phase name="Compile" />
+      <phase name="Test" />
+      <phase name="Postmortem" />
+    </node>
+    <node name="Aplicaciones" ID="PSP2.1" defectLog="true" autoData="none" dataFile="psp2.1/dataFile.txt" constraints="{Design Inspection(3){Code Inspection(-2)">
+      <phase name="Planning" />
+      <phase name="Design" />
+      <phase name="Design Review" />
+      <phase name="Code" />
+      <phase name="Code Review" />
+      <phase name="Compile" />
+      <phase name="Test" />
+      <phase name="Postmortem" />
+    </node>
+    <node name="Base de datos-Atributos" ID="PSP2.1" defectLog="true" autoData="none" dataFile="psp2.1/dataFile.txt" constraints="{Design Inspection(3){Code Inspection(-2)">
+      <phase name="Planning" />
+      <phase name="Design" />
+      <phase name="Design Review" />
+      <phase name="Code" />
+      <phase name="Code Review" />
+      <phase name="Compile" />
+      <phase name="Test" />
+      <phase name="Postmortem" />
+    </node>
+    <node name="Base de datos-Relacion" ID="PSP2.1" defectLog="true" autoData="none" dataFile="psp2.1/dataFile.txt" constraints="{Design Inspection(3){Code Inspection(-2)">
+      <phase name="Planning" />
+      <phase name="Design" />
+      <phase name="Design Review" />
+      <phase name="Code" />
+      <phase name="Code Review" />
+      <phase name="Compile" />
+      <phase name="Test" />
+      <phase name="Postmortem" />
+    </node>
+  </template>
+</dashboard-process-template>

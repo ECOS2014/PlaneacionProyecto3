@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project name='Proyecto3' id='14645787' tid='hyegb1b9:14645787' labels='none' dumpFileVersion='4.0.0' dumpTimestamp='@1407078207786'>
+  <teamMember name='Carlos Felipe Roa' tmid='463994169' initials='CR' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
+  <teamMember name='Ingrid Echavarria' tmid='298886272' initials='IE' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
+  <teamMember name='Paula Castellanos' tmid='1760066510' initials='PC' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
+  <teamMember name='David Abril' tmid='922002177' initials='DA' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
+  <teamMember name='Felipe Fagua' tmid='1110217376' initials='FF' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
+  <teamMember name='Gabriel Matinez' tmid='18071183' initials='GM' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
+	<component name='Encuestas' id='14645561' tid='hyegb1b9:14645561' labels='Ciclo1'>
+		<component name='P3: Implementación módulo de encuestas del AP_CRM' id='14645568' tid='hyegb1b9:14645568' labels='Ciclo1' wid='6849884'>
+			<psp name='InterfazMVC' id='14645663' tid='hyegb1b9:14645663' labels='Ciclo1' time=',DA=23,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='250' sizeReu='0' sizeNC='250'/>
+			<psp name='Logica de negocio' id='14645678' tid='hyegb1b9:14645678' labels='Ciclo1' time=',FF=23,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='250' sizeReu='0' sizeNC='250'/>
+			<psp name='CRM' id='14645679' tid='hyegb1b9:14645679' labels='Ciclo1' time=',DA=10,FF=10,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='3' sizeReu='0' sizeNC='3'/>
+			<psp name='Base de datos' id='14645680' tid='hyegb1b9:14645680' labels='Ciclo1' time=',CR=6,PC=6,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='9' sizeReu='0' sizeNC='9'/>
+		</component>
+		<component name='P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA' id='14645569' tid='hyegb1b9:14645569' labels='Ciclo1' wid='6849884'>
+			<psp name='Interfaz MVC' id='14645681' tid='hyegb1b9:14645681' labels='Ciclo1' time=',GM=30,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='400' sizeReu='0' sizeNC='400'/>
+			<psp name='Logica de negocio' id='14645682' tid='hyegb1b9:14645682' labels='Ciclo1' time=',PC=27,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='370' sizeReu='0' sizeNC='370'/>
+			<psp name='Base de datos' id='14645683' tid='hyegb1b9:14645683' labels='Ciclo1' time=',IE=12,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='9' sizeReu='0' sizeNC='9'/>
+		</component>
+		<component name='P5: Integración de sistemas de información para activar proceso de envío de encuestas' id='14645570' tid='hyegb1b9:14645570' labels='Ciclo1' wid='6849884'>
+			<psp name='BPEL' id='14645690' tid='hyegb1b9:14645690' labels='Ciclo1' wid='6849898' time=',CR=16,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='64' sizeReu='0' sizeNC='64'/>
+			<psp name='BAM-Entidad' id='14645691' tid='hyegb1b9:14645691' labels='Ciclo1' wid='6849899' time=',CR=3,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='3' sizeReu='0' sizeNC='3'/>
+			<psp name='BAM- KPI' id='14645692' tid='hyegb1b9:14645692' labels='Ciclo1' wid='6849900' time=',CR=6,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='3' sizeReu='0' sizeNC='3'/>
+			<psp name='OSB Back' id='14645694' tid='hyegb1b9:14645694' labels='Ciclo1' wid='6849902' time=',IE=8,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+			<psp name='Aplicaciones' id='14645695' tid='hyegb1b9:14645695' labels='Ciclo1' wid='6849903' time=',IE=13.5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='130' sizeReu='0' sizeNC='130'/>
+		</component>
+	</component>
+	<component name='Conocimiento de Cliente' id='14645562' tid='hyegb1b9:14645562' labels='Ciclo2'>
+		<component name='P6: Crear servicio de consulta de transacciones en AP_BCS' id='14645571' tid='hyegb1b9:14645571' labels='Ciclo2' wid='6849884'>
+			<component name='Portal' id='14645698' tid='hyegb1b9:14645698' labels='Ciclo2' wid='6849906'>
+				<psp name='Portlet' id='14645699' tid='hyegb1b9:14645699' labels='Ciclo2' wid='6849893' time=',DA=2,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
+				<psp name='Bean Session' id='14645700' tid='hyegb1b9:14645700' labels='Ciclo2' wid='6849894' time=',DA=4,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
+				<psp name='Proxy' id='14645701' tid='hyegb1b9:14645701' labels='Ciclo2' wid='6849895' time=',DA=3,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
+				<psp name='JSPX' id='14645702' tid='hyegb1b9:14645702' labels='Ciclo2' wid='6849896' time=',DA=4,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
+			</component>
+			<psp name='OSB Front' id='14645703' tid='hyegb1b9:14645703' labels='Ciclo2' wid='6849897' time=',PC=4,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
+			<psp name='BPEL' id='14645704' tid='hyegb1b9:14645704' labels='Ciclo2' wid='6849898' time=',CR=12.5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='16' sizeAdd='4' sizeReu='0' sizeNC='20'/>
+			<psp name='BAM-Entidad' id='14645705' tid='hyegb1b9:14645705' labels='Ciclo2' wid='6849899' time=',FF=2,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+			<psp name='BAM- KPI' id='14645706' tid='hyegb1b9:14645706' labels='Ciclo2' wid='6849900' time=',PC=4,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+			<psp name='OSB Back' id='14645708' tid='hyegb1b9:14645708' labels='Ciclo2' wid='6849902' time=',IE=20,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='4' sizeAdd='1' sizeReu='0' sizeNC='5'/>
+			<psp name='Aplicaciones' id='14645709' tid='hyegb1b9:14645709' labels='Ciclo2' wid='6849903' time=',FF=12,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='120' sizeReu='0' sizeNC='120'/>
+			<psp name='Base de datos-Atributos' id='14645710' tid='hyegb1b9:14645710' labels='Ciclo2' wid='6849904' time=',GM=3,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+		</component>
+		<component name='P7: Crear campañas enfocadas a clientes con baja actividad.' id='14645572' tid='hyegb1b9:14645572' labels='Ciclo2' wid='6849884'>
+			<component name='Portal' id='14645712' tid='hyegb1b9:14645712' labels='Ciclo2' wid='6849906'>
+				<psp name='Portlet' id='14645713' tid='hyegb1b9:14645713' labels='Ciclo2' wid='6849893' time=',DA=2,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
+				<psp name='Bean Session' id='14645714' tid='hyegb1b9:14645714' labels='Ciclo2' wid='6849894' time=',DA=2,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
+				<psp name='Proxy' id='14645715' tid='hyegb1b9:14645715' labels='Ciclo2' wid='6849895' time=',DA=1.5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
+				<psp name='JSPX' id='14645716' tid='hyegb1b9:14645716' labels='Ciclo2' wid='6849896' time=',DA=3,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
+			</component>
+			<psp name='OSB Front' id='14645717' tid='hyegb1b9:14645717' labels='Ciclo2' wid='6849897' time=',PC=6,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
+			<psp name='BPEL' id='14645718' tid='hyegb1b9:14645718' labels='Ciclo2' wid='6849898' time=',CR=8,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='16' sizeReu='0' sizeNC='16'/>
+			<psp name='CRM-Relacion' id='14645721' tid='hyegb1b9:14645721' labels='Ciclo2' wid='6849901' time=',IE=3.75,GM=3.75,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='3' sizeReu='0' sizeNC='3'/>
+			<psp name='CRM-Atributos' id='14645726' tid='hyegb1b9:14645726' labels='Ciclo2' time=',GM=10,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='60' sizeAdd='40' sizeReu='0' sizeNC='100'/>
+			<psp name='OSB Back' id='14645722' tid='hyegb1b9:14645722' labels='Ciclo2' wid='6849902' time=',IE=6,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
+			<psp name='Aplicaciones' id='14645723' tid='hyegb1b9:14645723' labels='Ciclo2' wid='6849903' time=',FF=4,GM=4,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='120' sizeReu='0' sizeNC='120'/>
+			<psp name='Base de datos-Atributos' id='14645724' tid='hyegb1b9:14645724' labels='Ciclo2' wid='6849904' time=',GM=1.5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+		</component>
+		<component name='P8: Integrar el subproceso de confirmar transacción' id='14645573' tid='hyegb1b9:14645573' labels='Ciclo2' wid='6849884'>
+			<psp name='BPEL' id='14645733' tid='hyegb1b9:14645733' labels='Ciclo2' wid='6849898' time=',CR=16,PC=16,DA=16,GM=16,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='128' sizeAdd='0' sizeReu='128' sizeNC='128'/>
+			<psp name='OSB Back' id='14645737' tid='hyegb1b9:14645737' labels='Ciclo2' wid='6849902' time=',IE=6,PC=6,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='2' sizeAdd='1' sizeReu='2' sizeNC='3'/>
+			<psp name='Aplicaciones' id='14645738' tid='hyegb1b9:14645738' labels='Ciclo2' wid='6849903' time=',FF=19.5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='200' sizeReu='0' sizeNC='200'/>
+			<psp name='Base de datos-Atributos' id='14645739' tid='hyegb1b9:14645739' labels='Ciclo2' wid='6849904' time=',GM=2,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+		</component>
+	</component>
+	<component name='Reputacion' id='14645564' tid='hyegb1b9:14645564' labels='Ciclo3'>
+		<component name='P11: Modificación de información de las  cuentas del cliente para que soporten el campo de &quot;Reputación&quot; (CRM)' id='14645576' tid='hyegb1b9:14645576' labels='Ciclo3' wid='6849884'>
+			<component name='Portal' id='14645770' tid='hyegb1b9:14645770' labels='Ciclo3' wid='6849906'>
+				<psp name='Portlet' id='14645771' tid='hyegb1b9:14645771' labels='Ciclo3' wid='6849893' time=',DA=2,GM=2,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='2' sizeAdd='0' sizeReu='0' sizeNC='2'/>
+				<psp name='Bean Session' id='14645772' tid='hyegb1b9:14645772' labels='Ciclo3' wid='6849894' time=',IE=2,DA=2,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='2' sizeAdd='0' sizeReu='0' sizeNC='2'/>
+				<psp name='Proxy' id='14645773' tid='hyegb1b9:14645773' labels='Ciclo3' wid='6849895' time=',GM=3,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='2' sizeAdd='0' sizeReu='0' sizeNC='2'/>
+				<psp name='JSPX' id='14645774' tid='hyegb1b9:14645774' labels='Ciclo3' wid='6849896' time=',DA=3,GM=3,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='2' sizeAdd='0' sizeReu='0' sizeNC='2'/>
+			</component>
+			<psp name='OSB Front' id='14645775' tid='hyegb1b9:14645775' labels='Ciclo3' wid='6849897' time=',IE=4,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
+			<psp name='BPEL' id='14645776' tid='hyegb1b9:14645776' labels='Ciclo3' wid='6849898' time=',CR=12,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='24' sizeAdd='1' sizeReu='0' sizeNC='25'/>
+			<psp name='BAM-Entidad' id='14645777' tid='hyegb1b9:14645777' labels='Ciclo3' wid='6849899' time=',CR=2,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+			<psp name='BAM- KPI' id='14645778' tid='hyegb1b9:14645778' labels='Ciclo3' wid='6849900' time=',IE=4,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+			<psp name='CRM' id='14645779' tid='hyegb1b9:14645779' labels='Ciclo3' wid='6849901' time=',GM=11,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='100' sizeAdd='20' sizeReu='0' sizeNC='120'/>
+			<psp name='OSB Back' id='14645780' tid='hyegb1b9:14645780' labels='Ciclo3' wid='6849902' time=',IE=4,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
+			<psp name='Aplicaciones' id='14645781' tid='hyegb1b9:14645781' labels='Ciclo3' wid='6849903' time=',PC=4.166666666666666,DA=4.166666666666666,FF=4.166666666666666,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='120' sizeReu='0' sizeNC='120'/>
+			<psp name='Base de datos-Atributos' id='14645782' tid='hyegb1b9:14645782' labels='Ciclo3' wid='6849904' time=',GM=1,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
+		</component>
+	</component>
+	<component name='Promociones fabricantes' id='14645563' tid='hyegb1b9:14645563' labels='Ciclo3'>
+		<component name='P9: Actualización del Portal del MarketPlace de los Alpes' id='14645574' tid='hyegb1b9:14645574' labels='Ciclo3' wid='6849884'>
+			<component name='Portal' id='14645741' tid='hyegb1b9:14645741' labels='Ciclo3' wid='6849906'>
+				<psp name='Portlet' id='14645742' tid='hyegb1b9:14645742' labels='Ciclo3' wid='6849893' time=',GM=7,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='3' sizeReu='0' sizeNC='3'/>
+				<psp name='Bean Session' id='14645743' tid='hyegb1b9:14645743' labels='Ciclo3' wid='6849894' time=',GM=4,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+				<psp name='Proxy' id='14645744' tid='hyegb1b9:14645744' labels='Ciclo3' wid='6849895' time=',GM=1.5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
+				<psp name='JSPX' id='14645745' tid='hyegb1b9:14645745' labels='Ciclo3' wid='6849896' time=',IE=6,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+			</component>
+			<psp name='OSB Front' id='14645746' tid='hyegb1b9:14645746' labels='Ciclo3' wid='6849897' time=',IE=8,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+			<psp name='BPEL' id='14645747' tid='hyegb1b9:14645747' labels='Ciclo3' wid='6849898' time=',CR=26,DA=26,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='104' sizeReu='0' sizeNC='104'/>
+			<psp name='CRM-Realicaion' id='14645750' tid='hyegb1b9:14645750' labels='Ciclo3' wid='6849901' time=',GM=1,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
+			<psp name='CRM' id='14645755' tid='hyegb1b9:14645755' labels='Ciclo3' time=',GM=2,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
+			<psp name='OSB Back' id='14645751' tid='hyegb1b9:14645751' labels='Ciclo3' wid='6849902' time=',IE=8,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+			<psp name='Base de datos-Atributos' id='14645753' tid='hyegb1b9:14645753' labels='Ciclo3' wid='6849904' time=',GM=2,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+		</component>
+		<component name='P10: Permitir Promocionar de manera automática a fabricantes' id='14645575' tid='hyegb1b9:14645575' labels='Ciclo3' wid='6849884'>
+			<psp name='BAM-Entidad' id='14645763' tid='hyegb1b9:14645763' labels='Ciclo3' wid='6849899' time=',IE=2,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+			<psp name='BAM- KPI' id='14645764' tid='hyegb1b9:14645764' labels='Ciclo3' wid='6849900' time=',FF=4,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+			<psp name='OSB Back' id='14645766' tid='hyegb1b9:14645766' labels='Ciclo3' wid='6849902' time=',PC=36,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='6' sizeAdd='0' sizeReu='0' sizeNC='6'/>
+			<psp name='Aplicaciones' id='14645767' tid='hyegb1b9:14645767' labels='Ciclo3' wid='6849903' time=',FF=31,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='300' sizeAdd='0' sizeReu='0' sizeNC='300'/>
+			<psp name='Base de datos-Atributos' id='14645768' tid='hyegb1b9:14645768' labels='Ciclo3' wid='6849904' time=',GM=2,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='3' sizeReu='0' sizeNC='3'/>
+		</component>
+	</component>
+	<component name='EntregaFinal' id='14645784' tid='hyegb1b9:14645784' labels='Ciclo3'>
+		<task name='Postmortem' id='14645786' tid='hyegb1b9:14645786' labels='Ciclo3' phaseName='Postmortem' phaseType='PM' time=',CR=3,IE=3,PC=3,DA=3,FF=3,GM=3,'/>
+	</component>
+	<component name='Cruce Bolsa' id='14645560' tid='hyegb1b9:14645560' labels='none'>
+		<component name='P1: Permitir hacer cruce entre varias bolsas e informar a los clientes' id='14645578' tid='hyegb1b9:14645578' labels='none' wid='6849884'>
+			<component name='Portal' id='6849906' tid='hyegb1b9:6849906' labels='none' wid='6849906'>
+				<psp name='Portlet' id='6849893' tid='hyegb1b9:6849893' labels='none' wid='6849893' time=',CR=4,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
+				<psp name='Bean Session' id='6849894' tid='hyegb1b9:6849894' labels='none' wid='6849894' time=',CR=2,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
+				<psp name='Proxy' id='6849895' tid='hyegb1b9:6849895' labels='none' wid='6849895' time=',CR=1.5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
+				<psp name='JSPX' id='6849896' tid='hyegb1b9:6849896' labels='none' wid='6849896' time=',CR=3,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
+			</component>
+			<psp name='OSB Front' id='6849897' tid='hyegb1b9:6849897' labels='none' wid='6849897' time=',FF=4,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
+			<psp name='BPEL' id='6849898' tid='hyegb1b9:6849898' labels='none' wid='6849898' time=',PC=10,GM=10,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='28' sizeAdd='4' sizeReu='0' sizeNC='32'/>
+			<psp name='BAM-Entidad' id='6849899' tid='hyegb1b9:6849899' labels='none' wid='6849899' time=',DA=1,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
+			<psp name='BAM- KPI' id='6849900' tid='hyegb1b9:6849900' labels='none' wid='6849900' time=',CR=2,DA=2,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+			<psp name='OSB Back' id='6849902' tid='hyegb1b9:6849902' labels='none' wid='6849902' time=',IE=4,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
+			<psp name='Aplicaciones' id='6849903' tid='hyegb1b9:6849903' labels='none' wid='6849903' time=',DA=7,GM=7,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='40' sizeAdd='100' sizeReu='0' sizeNC='140'/>
+			<psp name='Base de datos-Atributos' id='6849904' tid='hyegb1b9:6849904' labels='none' wid='6849904' time=',IE=1.5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='3' sizeReu='0' sizeNC='3'/>
+			<psp name='Base de datos-Relacion' id='6849905' tid='hyegb1b9:6849905' labels='none' wid='6849905' time=',GM=3,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='3' sizeAdd='0' sizeReu='0' sizeNC='3'/>
+		</component>
+		<component name='P2: Permitir que una orden de compra sea solucionada por varios fabricantes' id='14645566' tid='hyegb1b9:14645566' labels='none' wid='6849884'>
+			<component name='Portal' id='14645649' tid='hyegb1b9:14645649' labels='none' wid='6849906'>
+				<psp name='Portlet' id='14645650' tid='hyegb1b9:14645650' labels='none' wid='6849893' time=',DA=4,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
+				<psp name='Bean Session' id='14645651' tid='hyegb1b9:14645651' labels='none' wid='6849894' time=',IE=2,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
+				<psp name='JSPX' id='14645653' tid='hyegb1b9:14645653' labels='none' wid='6849896' time=',CR=3,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
+			</component>
+			<psp name='OSB Front' id='14645654' tid='hyegb1b9:14645654' labels='none' wid='6849897' time=',DA=6,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
+			<psp name='BPEL' id='14645655' tid='hyegb1b9:14645655' labels='none' wid='6849898' time=',IE=8,PC=8,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='32' sizeAdd='0' sizeReu='0' sizeNC='32'/>
+			<psp name='BAM-Entidad' id='14645656' tid='hyegb1b9:14645656' labels='none' wid='6849899' time=',CR=2,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+			<psp name='BAM- KPI' id='14645657' tid='hyegb1b9:14645657' labels='none' wid='6849900' time=',CR=4,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+			<psp name='OSB Back' id='14645659' tid='hyegb1b9:14645659' labels='none' wid='6849902' time=',IE=6,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
+			<psp name='Aplicaciones' id='14645660' tid='hyegb1b9:14645660' labels='none' wid='6849903' time=',FF=15.5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='150' sizeAdd='0' sizeReu='0' sizeNC='150'/>
+			<psp name='Base de datos-Atributos' id='14645661' tid='hyegb1b9:14645661' labels='none' wid='6849904' time=',DA=2,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='0' sizeReu='0' sizeNC='0'/>
+		</component>
+	</component>
+</project>

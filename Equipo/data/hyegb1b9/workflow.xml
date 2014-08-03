@@ -1,0 +1,70 @@
+<wbsModel>
+  <wbsNode name='Common Workflows' id='6849907' type='Project' indentLevel='0' expanded='true'>
+    <attr name='createdWithVersion' value='4.0.0'/>
+  </wbsNode>
+    <wbsNode name='Marketplace' id='6849884' type='Software Component' indentLevel='1'/>
+      <wbsNode name='Portal' id='6849906' type='Component' indentLevel='2'/>
+        <wbsNode name='Portlet' id='6849893' type='PSP Task' indentLevel='3'>
+          <attr name='Workflow Rate' value='1.0'/>
+          <attr name='Task Size Units' value='Portlet'/>
+          <attr name='Rate' value='1.0'/>
+        </wbsNode>
+        <wbsNode name='Bean Session' id='6849894' type='PSP Task' indentLevel='3'>
+          <attr name='Workflow Rate' value='1.0'/>
+          <attr name='Task Size Units' value='Bean'/>
+          <attr name='Rate' value='1.0'/>
+        </wbsNode>
+        <wbsNode name='Proxy' id='6849895' type='PSP Task' indentLevel='3'>
+          <attr name='Workflow Rate' value='1.0'/>
+          <attr name='Task Size Units' value='Proxy'/>
+          <attr name='Rate' value='1.0'/>
+        </wbsNode>
+        <wbsNode name='JSPX' id='6849896' type='PSP Task' indentLevel='3'>
+          <attr name='Workflow Rate' value='1.0'/>
+          <attr name='Task Size Units' value='JSPX'/>
+          <attr name='Rate' value='1.0'/>
+        </wbsNode>
+      <wbsNode name='OSB Front' id='6849897' type='PSP Task' indentLevel='2'>
+        <attr name='Workflow Rate' value='1.0'/>
+        <attr name='Task Size Units' value='Transf'/>
+        <attr name='Rate' value='1.0'/>
+      </wbsNode>
+      <wbsNode name='BPEL' id='6849898' type='PSP Task' indentLevel='2'>
+        <attr name='Workflow Rate' value='1.0'/>
+        <attr name='Task Size Units' value='Bloque'/>
+        <attr name='Rate' value='1.0'/>
+      </wbsNode>
+      <wbsNode name='BAM-Entidad' id='6849899' type='PSP Task' indentLevel='2'>
+        <attr name='Workflow Rate' value='1.0'/>
+        <attr name='Task Size Units' value='entidad'/>
+        <attr name='Rate' value='1.0'/>
+      </wbsNode>
+      <wbsNode name='BAM- KPI' id='6849900' type='PSP Task' indentLevel='2'>
+        <attr name='Workflow Rate' value='1.0'/>
+        <attr name='Task Size Units' value='KPI'/>
+        <attr name='Rate' value='1.0'/>
+      </wbsNode>
+      <wbsNode name='CRM' id='6849901' type='PSP Task' indentLevel='2'>
+        <attr name='Workflow Rate' value='1.0'/>
+        <attr name='Rate' value='1.0'/>
+      </wbsNode>
+      <wbsNode name='OSB Back' id='6849902' type='PSP Task' indentLevel='2'>
+        <attr name='Workflow Rate' value='1.0'/>
+        <attr name='Task Size Units' value='Transf'/>
+        <attr name='Rate' value='1.0'/>
+      </wbsNode>
+      <wbsNode name='Aplicaciones' id='6849903' type='PSP Task' indentLevel='2'>
+        <attr name='Workflow Rate' value='1.0'/>
+        <attr name='Rate' value='1.0'/>
+      </wbsNode>
+      <wbsNode name='Base de datos-Atributos' id='6849904' type='PSP Task' indentLevel='2'>
+        <attr name='Workflow Rate' value='1.0'/>
+        <attr name='Task Size Units' value='Atributos'/>
+        <attr name='Rate' value='1.0'/>
+      </wbsNode>
+      <wbsNode name='Base de datos-Relacion' id='6849905' type='PSP Task' indentLevel='2'>
+        <attr name='Workflow Rate' value='1.0'/>
+        <attr name='Task Size Units' value='Relación'/>
+        <attr name='Rate' value='1.0'/>
+      </wbsNode>
+</wbsModel>
