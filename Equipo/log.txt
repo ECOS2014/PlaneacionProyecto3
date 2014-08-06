@@ -54,3 +54,8 @@ Aug 6, 2014 12:01:22 AM net.sourceforge.processdash.tool.export.DataImporter imp
 INFO: importing /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/data/hyegb1b9/CR-data.pdash
 Aug 6, 2014 12:01:23 AM com.tuma_solutions.tpidw.client.addon.TpidwAddOnDataLoader$DatasetLoaderThread loadDatasetImpl
 INFO: Refreshed database with project data (took 152 ms)
+Aug 6, 2014 12:06:25 AM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+Completed user-scheduled data export.
+Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/1.dat
+Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/global.dat
