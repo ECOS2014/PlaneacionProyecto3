@@ -1,9 +1,0 @@
-Process Dashboard - logging started at Sat Aug 02 17:08:31 COT 2014
-Sun Microsystems Inc. JRE 1.6.0_18; Windows NT (unknown)
-Using LocalWorkingDirectory[C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE]
-Created default translation engine.
-2/08/2014 05:08:41 PM net.sourceforge.processdash.ProcessDashboard <init>
-INFO: Process Dashboard version 2.0
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\global.dat
-2/08/2014 05:08:55 PM net.sourceforge.processdash.ProcessDashboard quit
-INFO: Successfully saved all data.
