@@ -1,11 +1,13 @@
 #include <TSP/indiv2_root_dataFile.txt>
 = Data for /Project/Proyecto3PC
+Data_Activity_Timestamp=@1407898796879
 EV_Task_IDs=="hyegb1b9:root
-EXPORT_FILE/Last_Export_Timestamp=@1407080578890
+EXPORT_FILE/Last_Export_Timestamp=@1407992631346
 Indiv_Initials="PC
 Project_ID="hyegb1b9
 Project_Schedule_ID="nqvoq4.hyejfkpg
 Project_Schedule_Name="Proyecto3PC
+Started=@1407898796879
 Synchronized_Task_ID_WBS_Order=="hyegb1b9:roothyegb1b9:14645561hyegb1b9:14645568hyegb1b9:14645663hyegb1b9:14645678hyegb1b9:14645679hyegb1b9:14645680hyegb1b9:14645569hyegb1b9:14645681hyegb1b9:14645682hyegb1b9:14645683hyegb1b9:14645570hyegb1b9:14645690hyegb1b9:14645691hyegb1b9:14645692hyegb1b9:14645694hyegb1b9:14645695hyegb1b9:14645562hyegb1b9:14645571hyegb1b9:14645698hyegb1b9:14645699hyegb1b9:14645700hyegb1b9:14645701hyegb1b9:14645702hyegb1b9:14645703hyegb1b9:14645704hyegb1b9:14645705hyegb1b9:14645706hyegb1b9:14645708hyegb1b9:14645709hyegb1b9:14645710hyegb1b9:14645572hyegb1b9:14645712hyegb1b9:14645713hyegb1b9:14645714hyegb1b9:14645715hyegb1b9:14645716hyegb1b9:14645717hyegb1b9:14645718hyegb1b9:14645721hyegb1b9:14645726hyegb1b9:14645722hyegb1b9:14645723hyegb1b9:14645724hyegb1b9:14645573hyegb1b9:14645733hyegb1b9:14645737hyegb1b9:14645738hyegb1b9:14645739hyegb1b9:14645564hyegb1b9:14645576hyegb1b9:14645770hyegb1b9:14645771hyegb1b9:14645772hyegb1b9:14645773hyegb1b9:14645774hyegb1b9:14645775hyegb1b9:14645776hyegb1b9:14645777hyegb1b9:14645778hyegb1b9:14645779hyegb1b9:14645780hyegb1b9:14645781hyegb1b9:14645782hyegb1b9:14645563hyegb1b9:14645574hyegb1b9:14645741hyegb1b9:14645742hyegb1b9:14645743hyegb1b9:14645744hyegb1b9:14645745hyegb1b9:14645746hyegb1b9:14645747hyegb1b9:14645750hyegb1b9:14645755hyegb1b9:14645751hyegb1b9:14645753hyegb1b9:14645575hyegb1b9:14645763hyegb1b9:14645764hyegb1b9:14645766hyegb1b9:14645767hyegb1b9:14645768hyegb1b9:14645784hyegb1b9:14645786hyegb1b9:14645560hyegb1b9:14645578hyegb1b9:6849906hyegb1b9:6849893hyegb1b9:6849894hyegb1b9:6849895hyegb1b9:6849896hyegb1b9:6849897hyegb1b9:6849898hyegb1b9:6849899hyegb1b9:6849900hyegb1b9:6849902hyegb1b9:6849903hyegb1b9:6849904hyegb1b9:6849905hyegb1b9:14645566hyegb1b9:14645649hyegb1b9:14645650hyegb1b9:14645651hyegb1b9:14645653hyegb1b9:14645654hyegb1b9:14645655hyegb1b9:14645656hyegb1b9:14645657hyegb1b9:14645659hyegb1b9:14645660hyegb1b9:14645661
 Synchronized_Task_Labels=="label:label:Ciclo1hyegb1b9:14645561hyegb1b9:14645568hyegb1b9:14645569hyegb1b9:14645680hyegb1b9:14645682label:Ciclo2hyegb1b9:14645562hyegb1b9:14645571hyegb1b9:14645572hyegb1b9:14645573hyegb1b9:14645703hyegb1b9:14645706hyegb1b9:14645717hyegb1b9:14645733hyegb1b9:14645737label:Ciclo3hyegb1b9:14645563hyegb1b9:14645564hyegb1b9:14645575hyegb1b9:14645576hyegb1b9:14645766hyegb1b9:14645781hyegb1b9:14645784hyegb1b9:14645786label:nonehyegb1b9:14645560hyegb1b9:14645566hyegb1b9:14645578hyegb1b9:14645655hyegb1b9:6849898hyegb1b9:root
 TSP /Project_Workflow_URL_List=="
@@ -13,4 +15,4 @@ TST_Proyecto3PC==0.0
 Team_Data_Directory_URL="
 Team_Directory="/Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/Equipo
 Team_URL="http://macbook-pro-de-paula.local:3000/Project/Proyecto3//TSP/teamIndex.shtm
-WBS_Last_Sync_Timestamp=@1407080562301
+WBS_Last_Sync_Timestamp=@1407992631328
