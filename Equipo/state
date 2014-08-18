@@ -6,5 +6,7 @@
   <node name="Project" selected="true">
     <node name="Proyecto3" templateID="TSP/TeamRoot" dataFile="1.dat" selected="true"/>
   </node>
-  <node name="Non Project"/>
+  <node name="Non Project">
+    <node name="LAb2" templateID="TSP/TeamRoot" dataFile="3.dat" selected="true"/>
+  </node>
 </node>
