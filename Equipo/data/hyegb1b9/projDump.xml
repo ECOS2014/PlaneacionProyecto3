@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<project name='Proyecto3' id='14645787' tid='hyegb1b9:14645787' labels='none' dumpFileVersion='4.0.0' dumpTimestamp='@1407993271728'>
+<project name='Proyecto3' id='14645788' tid='hyegb1b9:14645788' labels='none' dumpFileVersion='4.0.0' dumpTimestamp='@1408233440089'>
   <teamMember name='Carlos Felipe Roa' tmid='463994169' initials='CR' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
   <teamMember name='Ingrid Echavarria' tmid='298886272' initials='IE' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
   <teamMember name='Paula Castellanos' tmid='1760066510' initials='PC' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
   <teamMember name='David Abril' tmid='922002177' initials='DA' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
   <teamMember name='Felipe Fagua' tmid='1110217376' initials='FF' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
   <teamMember name='Gabriel Matinez' tmid='18071183' initials='GM' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
+	<task name='Manteniemiento del sistema' id='14645787' tid='hyegb1b9:14645787' labels='none' phaseName='Compile' phaseType='COMP' time=',CR=5,IE=5,PC=5,DA=5,FF=5,GM=5,'/>
 	<component name='Encuestas' id='14645561' tid='hyegb1b9:14645561' labels='Ciclo1'>
 		<component name='P3: Implementación módulo de encuestas del AP_CRM' id='14645568' tid='hyegb1b9:14645568' labels='Ciclo1' wid='6849884'>
 			<psp name='InterfazMVC' id='14645663' tid='hyegb1b9:14645663' labels='Ciclo1' time=',DA=23,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='250' sizeReu='0' sizeNC='250'/>
