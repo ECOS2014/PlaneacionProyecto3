@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<project name='Proyecto3' id='14645788' tid='hyegb1b9:14645788' labels='none' dumpFileVersion='4.0.0' dumpTimestamp='@1408233440089'>
+<project name='Proyecto3' id='14645789' tid='hyegb1b9:14645789' labels='none' dumpFileVersion='4.0.0' dumpTimestamp='@1408803042097'>
   <teamMember name='Carlos Felipe Roa' tmid='463994169' initials='CR' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
   <teamMember name='Ingrid Echavarria' tmid='298886272' initials='IE' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
   <teamMember name='Paula Castellanos' tmid='1760066510' initials='PC' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
@@ -26,6 +26,7 @@
 			<psp name='OSB Back' id='14645694' tid='hyegb1b9:14645694' labels='Ciclo1' wid='6849902' time=',IE=8,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
 			<psp name='Aplicaciones' id='14645695' tid='hyegb1b9:14645695' labels='Ciclo1' wid='6849903' time=',IE=13.5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='130' sizeReu='0' sizeNC='130'/>
 		</component>
+		<psp name='Integracion' id='14645788' tid='hyegb1b9:14645788' labels='Ciclo1' time=',CR=5,IE=5,PC=5,DA=5,FF=5,GM=5,'/>
 	</component>
 	<component name='Conocimiento de Cliente' id='14645562' tid='hyegb1b9:14645562' labels='Ciclo2'>
 		<component name='P6: Crear servicio de consulta de transacciones en AP_BCS' id='14645571' tid='hyegb1b9:14645571' labels='Ciclo2' wid='6849884'>
