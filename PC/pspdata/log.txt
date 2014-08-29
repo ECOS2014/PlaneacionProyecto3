@@ -1,14 +1,39 @@
-Process Dashboard - logging started at Wed Aug 13 23:59:36 COT 2014
+Process Dashboard - logging started at Thu Aug 28 23:13:09 COT 2014
 Apple Inc. JRE 1.6.0_65; Mac OS X
 Using LocalWorkingDirectory[/Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata]
-Aug 13, 2014 11:59:39 PM net.sourceforge.processdash.ProcessDashboard <init>
+Aug 28, 2014 11:13:11 PM net.sourceforge.processdash.ProcessDashboard <init>
 INFO: Process Dashboard version 2.0
-Aug 13, 2014 11:59:40 PM net.sourceforge.processdash.tool.export.DataImporter importData
+Aug 28, 2014 11:13:12 PM net.sourceforge.processdash.tool.export.DataImporter importData
 INFO: importing /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/Equipo/data/hyegb1b9/disseminate/team-data.pdash
 Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/0.dat
 Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/global.dat
-Aug 14, 2014 12:03:51 AM net.sourceforge.processdash.ProcessDashboard quit
-INFO: Successfully saved all data.
-Completed user-scheduled data export.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/30.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/31.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/3.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/30.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/31.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/29.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/3.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/2.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/28.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/32.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/global.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/4.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/29.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/3.dat
 Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/0.dat
 Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/global.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/3.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/30.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/30.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/31.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/31.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/31.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/31.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/31.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/32.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/32.dat
+schedule simulation took 42 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/30.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/31.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/32.dat
