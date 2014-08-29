@@ -1,18 +1,14 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="1" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/CRM/Planning" start="@1407114602000" delta="90" comment="Integracion / investigacion de integracion GestionConsultaJSONCampanias al php" flag="A" />
-  <time id="2" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/CRM/Design" start="@1407078000000" delta="30" comment="GestionConsultaJSONCampanias" flag="A" />
-  <time id="3" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/CRM/Design" start="@1408204800000" delta="60" comment="diseño funcionalidades de soporte getCampaniaActiva" flag="A" />
-  <time id="4" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/CRM/Code" start="@1407088800000" delta="120" comment="generacion de servicio GestionConsultaJSONCampanias 2.5" flag="A" />
-  <time id="5" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/CRM/Code" start="@1407046715000" delta="50" comment="servicio back GestionConsultaJSONCampanias" flag="A" />
-  <time id="6" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/CRM/Code" start="@1408209675000" delta="60" comment="getCampaniaActiva" flag="A" />
-  <time id="7" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/CRM/Code" start="@1408170158000" delta="60" comment="Cambios getCampaniaActiva con funcionalidad  darIdCampaniaGenerica(), activarCampaniaPorDefecto() y ActivarCampania(idCampania)" flag="A" />
-  <time id="8" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/CRM/Code" start="@1408170267000" delta="90" comment="Funcionalidades desactivarCampaniasExcepto(idCampania) " flag="A" />
-  <time id="9" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/CRM/Code" start="@1408170293000" delta="30" comment="Cambios a metodos de actualizar campania y crear campania para permitir solo una campaña activa" flag="A" />
-  <time id="10" flag="D" />
-  <time id="11" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/CRM/Test" start="@1407133552000" delta="240" comment="prueba en máquina C de consulta desde php a la url http://157.253.238.25:7001/marketPlace/proxy/GestionConsultaJSONCampanias/GestionConsultaJSONCampanias" flag="A" />
-  <time id="12" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/Base de datos/Design" start="@1407047238000" delta="15" flag="A" />
-  <time id="13" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/Base de datos/Code" start="@1407047279000" delta="60" comment="consulta sql" flag="A" />
-  <time id="14" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/Base de datos/Postmortem" start="@1409380116000" delta="60" flag="A" />
-  <time id="15" path="/Proyecto/Proyecto3GM/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Logica de negocio/Planning" start="@1409293750008" flag="A" />
+  <time id="15" start="@1407047350000" delta="210" comment="Solucionando problemas de apache (máquina personal)" flag="M" />
+  <time id="16" path="/Proyecto/Proyecto3GM/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Logica de negocio/Planning" start="@1407081852000" delta="45" comment="Tutorial componente front end de Joomla" flag="A" />
+  <time id="17" path="/Proyecto/Proyecto3GM/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Logica de negocio/Planning" start="@1407081885000" delta="240" comment="Tutorial componente back end de Joomla" flag="A" />
+  <time id="18" path="/Proyecto/Proyecto3GM/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Logica de negocio/Design Review" start="@1407600320000" delta="150" flag="A" />
+  <time id="19" path="/Proyecto/Proyecto3GM/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Logica de negocio/Design Review" start="@1407686732000" delta="120" flag="A" />
+  <time id="20" path="/Proyecto/Proyecto3GM/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Logica de negocio/Design Review" start="@1407773139000" delta="120" flag="A" />
+  <time id="21" path="/Proyecto/Proyecto3GM/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Logica de negocio/Design Review" start="@1407859545000" delta="120" flag="A" />
+  <time id="22" path="/Proyecto/Proyecto3GM/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Logica de negocio/Design Review" start="@1408032457000" delta="60" flag="A" />
+  <time id="23" path="/Proyecto/Proyecto3GM/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Logica de negocio/Postmortem" start="@1409328493542" delta="45" flag="A" />
+  <time id="24" path="/Proyecto/Proyecto3GM/Encuestas/Integracion/Planning" start="@1409328545901" delta="60" comment="solucionar problemas de integracion nusoap con oracle" flag="A" />
+  <time id="25" path="/Proyecto/Proyecto3GM/Encuestas/Integracion/Planning" start="@1408723838000" delta="60" comment="plan de pruebas integracion" flag="A" />
 </timeLogEntries>

@@ -1,3 +1,17 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
+  <time id="1" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/CRM/Planning" start="@1407114602000" delta="90" comment="Integracion / investigacion de integracion GestionConsultaJSONCampanias al php" />
+  <time id="2" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/CRM/Design" start="@1407078000000" delta="30" comment="GestionConsultaJSONCampanias" />
+  <time id="3" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/CRM/Design" start="@1408204800000" delta="60" comment="diseño funcionalidades de soporte getCampaniaActiva" />
+  <time id="4" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/CRM/Code" start="@1407088800000" delta="120" comment="generacion de servicio GestionConsultaJSONCampanias 2.5" />
+  <time id="5" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/CRM/Code" start="@1407046715000" delta="50" comment="servicio back GestionConsultaJSONCampanias" />
+  <time id="6" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/CRM/Code" start="@1408209675000" delta="60" comment="getCampaniaActiva" />
+  <time id="7" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/CRM/Code" start="@1408170158000" delta="60" comment="Cambios getCampaniaActiva con funcionalidad  darIdCampaniaGenerica(), activarCampaniaPorDefecto() y ActivarCampania(idCampania)" />
+  <time id="8" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/CRM/Code" start="@1408170267000" delta="90" comment="Funcionalidades desactivarCampaniasExcepto(idCampania) " />
+  <time id="9" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/CRM/Code" start="@1408170293000" delta="30" comment="Cambios a metodos de actualizar campania y crear campania para permitir solo una campaña activa" />
+  <time id="11" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/CRM/Test" start="@1407133552000" delta="240" comment="prueba en máquina C de consulta desde php a la url http://157.253.238.25:7001/marketPlace/proxy/GestionConsultaJSONCampanias/GestionConsultaJSONCampanias" />
+  <time id="12" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/Base de datos/Design" start="@1407047238000" delta="15" />
+  <time id="13" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/Base de datos/Code" start="@1407047279000" delta="60" comment="consulta sql" />
+  <time id="14" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/Base de datos/Postmortem" start="@1409380116000" delta="60" />
+  <time id="15" path="/Proyecto/Proyecto3GM/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Logica de negocio/Planning" start="@1409293750008" />
 </timeLogEntries>

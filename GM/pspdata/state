@@ -9,13 +9,13 @@
       <node name="Encuestas" templateID="TSP/Indiv2ReadOnlyNode" dataFile="1.dat" defectLog="0.def" selected="true">
         <node name="P3: Implementación módulo de encuestas del AP_CRM" templateID="TSP/Indiv2ReadOnlyNode" dataFile="41.dat" defectLog="40.def" selected="true">
           <node name="CRM" templateID="PSP2.1" dataFile="42.dat" defectLog="41.def" selected="true">
-            <node name="Planning" selected="true"/>
+            <node name="Planning"/>
             <node name="Design"/>
             <node name="Design Review"/>
             <node name="Code"/>
             <node name="Code Review"/>
             <node name="Compile"/>
-            <node name="Test"/>
+            <node name="Test" selected="true"/>
             <node name="Postmortem"/>
           </node>
           <node name="Base de datos" templateID="PSP2.1" dataFile="43.dat" defectLog="42.def">
@@ -31,13 +31,13 @@
         </node>
         <node name="P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA" templateID="TSP/Indiv2ReadOnlyNode" dataFile="2.dat" defectLog="1.def">
           <node name="Logica de negocio" templateID="PSP2.1" dataFile="44.dat" defectLog="43.def" selected="true">
-            <node name="Planning" selected="true"/>
+            <node name="Planning"/>
             <node name="Design"/>
             <node name="Design Review"/>
             <node name="Code"/>
             <node name="Code Review"/>
             <node name="Compile"/>
-            <node name="Test"/>
+            <node name="Test" selected="true"/>
             <node name="Postmortem"/>
           </node>
         </node>
