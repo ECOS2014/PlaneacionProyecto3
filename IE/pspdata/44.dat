@@ -1,6 +1,13 @@
 #include <psp2.1/dataFile.txt>
 = Data for /Proyecto/Proyecto3_IE/Encuestas/Integracion
+Code Review/Time==60.0
+Code/Time==60.0
+Design Review/Time==120.0
+Design/Time==180.0
 EV_Task_IDs=="hyegb1b9:14645788
 Estimated Time=300.0
 Estimated Time_Last_Synced_Val=300.0
+Planning/Time==264.0
+Postmortem/Time==15.0
+Test/Time==20.0
 WBS_Unique_ID="14645788
