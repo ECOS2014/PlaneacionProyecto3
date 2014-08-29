@@ -8,7 +8,7 @@
       <node name="Manteniemiento del sistema" templateID="TSP/Indiv2Task" dataFile="45.dat" defectLog="44.def"/>
       <node name="Encuestas" templateID="TSP/Indiv2ReadOnlyNode" dataFile="1.dat" defectLog="0.def" selected="true">
         <node name="P3: Implementación módulo de encuestas del AP_CRM" templateID="TSP/Indiv2ReadOnlyNode" dataFile="41.dat" defectLog="40.def" selected="true">
-          <node name="CRM" templateID="PSP2.1" dataFile="42.dat" defectLog="41.def" selected="true">
+          <node name="CRM" templateID="PSP2.1" dataFile="42.dat" defectLog="41.def">
             <node name="Planning"/>
             <node name="Design"/>
             <node name="Design Review"/>
@@ -18,11 +18,11 @@
             <node name="Test" selected="true"/>
             <node name="Postmortem"/>
           </node>
-          <node name="Base de datos" templateID="PSP2.1" dataFile="43.dat" defectLog="42.def">
-            <node name="Planning" selected="true"/>
+          <node name="Base de datos" templateID="PSP2.1" dataFile="43.dat" defectLog="42.def" selected="true">
+            <node name="Planning"/>
             <node name="Design"/>
             <node name="Design Review"/>
-            <node name="Code"/>
+            <node name="Code" selected="true"/>
             <node name="Code Review"/>
             <node name="Compile"/>
             <node name="Test"/>
@@ -42,14 +42,14 @@
           </node>
         </node>
         <node name="Integracion" templateID="PSP2.1" dataFile="46.dat" defectLog="45.def">
-          <node name="Planning" selected="true"/>
+          <node name="Planning"/>
           <node name="Design"/>
           <node name="Design Review"/>
           <node name="Code"/>
           <node name="Code Review"/>
           <node name="Compile"/>
           <node name="Test"/>
-          <node name="Postmortem"/>
+          <node name="Postmortem" selected="true"/>
         </node>
       </node>
       <node name="Conocimiento de Cliente" templateID="TSP/Indiv2ReadOnlyNode" dataFile="4.dat" defectLog="3.def">

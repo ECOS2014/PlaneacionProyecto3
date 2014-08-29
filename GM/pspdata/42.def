@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="Syntax" inj="Code" rem="Code" ft="10.0" fd="" desc="Variable mal nombrada. La llamada al metodo no funcionaba al implementar la funcion  GestionConsultaJSONCampanias." date="@1407086737285" />
+</defectLog>

@@ -81,6 +81,7 @@ Code/Defect Density To Date==#Infinity=DEFAULT
 Code/Defect Injection Density To Date==#Infinity=DEFAULT
 Code/Defects Injected To Date==#0.0=DEFAULT
 Code/Defects Injected per Hour To Date==#0.0=DEFAULT
+Code/Defects Injected==3.0
 Code/Defects Removed To Date==#0.0=DEFAULT
 Code/Defects Removed per Hour To Date==#0.0=DEFAULT
 Code/Estimated Defect Density To Date==#4.999999999999999=DEFAULT
@@ -125,6 +126,7 @@ Compile/Estimated Time To Date==#15.0=DEFAULT
 Compile/Estimated Time==#0.0=DEFAULT
 Compile/Time To Date==#0.0=DEFAULT
 Completed To Date==#null=DEFAULT
+Conceptual Design Filename="P4/PruebasComponente.docx
 Defect Density To Date==#Infinity=DEFAULT
 Defect Injection Density To Date==#Infinity=DEFAULT
 Defects Injected To Date==#0.0=DEFAULT
@@ -183,6 +185,7 @@ Design/Defect Density To Date==#Infinity=DEFAULT
 Design/Defect Injection Density To Date==#Infinity=DEFAULT
 Design/Defects Injected To Date==#0.0=DEFAULT
 Design/Defects Injected per Hour To Date==#0.0=DEFAULT
+Design/Defects Injected==1.0
 Design/Defects Removed To Date==#0.0=DEFAULT
 Design/Defects Removed per Hour To Date==#0.0=DEFAULT
 Design/Estimated Defect Density To Date==#0.0=DEFAULT
@@ -409,6 +412,7 @@ PQI To Date==#0.0=DEFAULT
 PROBE_Input_Mismatch To Date==#0.0=DEFAULT
 PROBE_Size_Output_Mismatch To Date==#0.0=DEFAULT
 PROBE_Time_Output_Mismatch To Date==#0.0=DEFAULT
+PSP Project Document Directory="G:\\Documents\\GitHub\\PlaneacionProyecto3\\GM\\
 PSP3_Cycle_Count To Date==#0.0=DEFAULT
 PSP3_Cycle_Est_Time To Date==#1984.3373493975903=DEFAULT
 PSP3_Cycle_Even_Time To Date==#Infinity=DEFAULT
@@ -500,6 +504,7 @@ Test/Defects Injected per Hour To Date==#0.0=DEFAULT
 Test/Defects Removed To Date==#0.0=DEFAULT
 Test/Defects Removed per Hour To Date==#0.0=DEFAULT
 Test/Defects Removed per KLOC To Date==#Infinity=DEFAULT
+Test/Defects Removed==4.0
 Test/Estimated Defect Density To Date==#4.999999999999999=DEFAULT
 Test/Estimated Defect Density==#NaN=DEFAULT
 Test/Estimated Defect Injection Density To Date==#0.0=DEFAULT
