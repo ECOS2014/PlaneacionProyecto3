@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="Checking" inj="Before Development" rem="Sys Test" ft="75.8" fd="" desc="Error en el marketplace cuando un fabricante intenta responder una cotizacion de un comercio" date="@1409026337317" />
+</defectLog>

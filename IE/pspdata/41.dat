@@ -1,0 +1,12 @@
+#include <TSP/indiv2_empty_dataFile.txt>
+= Data for /Proyecto/Proyecto3_IE/Manteniemiento del sistema
+EV_Task_IDs=="hyegb1b9:14645787
+Estimated Time=900.0
+Estimated Time_Last_Synced_Val=300.0
+Started=@1408380631349
+TSP /Before Development/Defects Injected==1.0
+TSP /Effective_Phase="Compile
+TSP /Effective_Phase_Last_Synced_Val="Compile
+TSP /Sys Test/Defects Removed==1.0
+Time==0.0
+WBS_Unique_ID="14645787
