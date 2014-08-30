@@ -1,13 +1,21 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="10" path="/Proyecto/Proyecto3_IE/Encuestas/Integracion/Planning" start="@1407047029000" delta="84" flag="A" />
-  <time id="11" path="/Proyecto/Proyecto3_IE/Encuestas/Integracion/Planning" start="@1407133469000" delta="120" flag="A" />
-  <time id="12" path="/Proyecto/Proyecto3_IE/Encuestas/Integracion/Design" start="@1407133518000" delta="90" flag="A" />
-  <time id="13" path="/Proyecto/Proyecto3_IE/Encuestas/Integracion/Design Review" start="@1407219966000" delta="120" flag="A" />
-  <time id="14" path="/Proyecto/Proyecto3_IE/Encuestas/Integracion/Code" start="@1407392810000" delta="60" flag="A" />
-  <time id="15" path="/Proyecto/Proyecto3_IE/Encuestas/Integracion/Test" start="@1407392834000" delta="20" flag="A" />
-  <time id="16" path="/Proyecto/Proyecto3_IE/Encuestas/Integracion/Postmortem" start="@1407652064000" delta="15" flag="A" />
-  <time id="17" path="/Proyecto/Proyecto3_IE/Encuestas/Integracion/Code Review" start="@1407824903000" delta="60" flag="A" />
-  <time id="18" path="/Proyecto/Proyecto3_IE/Encuestas/Integracion/Planning" start="@1407824925000" delta="60" flag="A" />
-  <time id="19" path="/Proyecto/Proyecto3_IE/Encuestas/Integracion/Design" start="@1408084143000" delta="90" flag="A" />
+  <time id="20" path="/Proyecto/Proyecto3_IE/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/OSB Back/Postmortem" start="@1409437178996" delta="22" flag="A" />
+  <time id="21" path="/Proyecto/Proyecto3_IE/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/OSB Back/Planning" start="@1408230486000" delta="56" flag="A" />
+  <time id="22" path="/Proyecto/Proyecto3_IE/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/OSB Back/Design" start="@1408230528000" delta="31" flag="A" />
+  <time id="23" path="/Proyecto/Proyecto3_IE/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/OSB Back/Design Review" start="@1408230560000" delta="49" flag="A" />
+  <time id="24" path="/Proyecto/Proyecto3_IE/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/OSB Back/Design Review" start="@1408317004000" delta="13" flag="A" />
+  <time id="25" path="/Proyecto/Proyecto3_IE/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/OSB Back/Design Review" start="@1408403433000" delta="124" flag="A" />
+  <time id="26" path="/Proyecto/Proyecto3_IE/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/OSB Back/Code" start="@1408230646000" delta="44" flag="A" />
+  <time id="27" path="/Proyecto/Proyecto3_IE/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/OSB Back/Code" start="@1408317068000" delta="78" flag="A" />
+  <time id="28" path="/Proyecto/Proyecto3_IE/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/OSB Back/Code Review" start="@1408317105000" delta="59" flag="A" />
+  <time id="29" path="/Proyecto/Proyecto3_IE/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/OSB Back/Test" start="@1408489937000" delta="12" flag="A" />
+  <time id="30" path="/Proyecto/Proyecto3_IE/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/Aplicaciones/Planning" start="@1408403577000" delta="91" flag="A" />
+  <time id="31" path="/Proyecto/Proyecto3_IE/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/Aplicaciones/Design" start="@1408403753000" delta="32" flag="A" />
+  <time id="32" path="/Proyecto/Proyecto3_IE/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/Aplicaciones/Design Review" start="@1408403780000" delta="64" flag="A" />
+  <time id="33" path="/Proyecto/Proyecto3_IE/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/Aplicaciones/Code" start="@1408403806000" delta="20" flag="A" />
+  <time id="34" path="/Proyecto/Proyecto3_IE/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/Aplicaciones/Code" start="@1408490222000" delta="16" flag="A" />
+  <time id="35" path="/Proyecto/Proyecto3_IE/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/Aplicaciones/Code Review" start="@1408403844000" delta="9" flag="A" />
+  <time id="36" path="/Proyecto/Proyecto3_IE/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/Aplicaciones/Code Review" start="@1408490277000" delta="12" flag="A" />
+  <time id="37" path="/Proyecto/Proyecto3_IE/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/Aplicaciones/Test" start="@1408403944000" delta="38" flag="A" />
 </timeLogEntries>

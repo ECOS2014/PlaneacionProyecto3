@@ -9,4 +9,14 @@
   <time id="7" path="/Proyecto/Proyecto3_IE/Manteniemiento del sistema" start="@1408942800000" delta="110" />
   <time id="8" path="/Proyecto/Proyecto3_IE/Manteniemiento del sistema" start="@1409029200000" delta="28" />
   <time id="9" path="/Proyecto/Proyecto3_IE/Manteniemiento del sistema" start="@1409206766000" delta="89" />
+  <time id="10" path="/Proyecto/Proyecto3_IE/Encuestas/Integracion/Planning" start="@1407047029000" delta="84" />
+  <time id="11" path="/Proyecto/Proyecto3_IE/Encuestas/Integracion/Planning" start="@1407133469000" delta="120" />
+  <time id="12" path="/Proyecto/Proyecto3_IE/Encuestas/Integracion/Design" start="@1407133518000" delta="90" />
+  <time id="13" path="/Proyecto/Proyecto3_IE/Encuestas/Integracion/Design Review" start="@1407219966000" delta="120" />
+  <time id="14" path="/Proyecto/Proyecto3_IE/Encuestas/Integracion/Code" start="@1407392810000" delta="60" />
+  <time id="15" path="/Proyecto/Proyecto3_IE/Encuestas/Integracion/Test" start="@1407392834000" delta="20" />
+  <time id="16" path="/Proyecto/Proyecto3_IE/Encuestas/Integracion/Postmortem" start="@1407652064000" delta="15" />
+  <time id="17" path="/Proyecto/Proyecto3_IE/Encuestas/Integracion/Code Review" start="@1407824903000" delta="60" />
+  <time id="18" path="/Proyecto/Proyecto3_IE/Encuestas/Integracion/Planning" start="@1407824925000" delta="60" />
+  <time id="19" path="/Proyecto/Proyecto3_IE/Encuestas/Integracion/Design" start="@1408084143000" delta="90" />
 </timeLogEntries>
