@@ -10,3 +10,9 @@ Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyec
 Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/28.dat
 Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/0.dat
 Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/global.dat
+Aug 30, 2014 5:09:57 PM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+schedule simulation took 37 ms.
+Completed user-scheduled data export.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/0.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/global.dat
