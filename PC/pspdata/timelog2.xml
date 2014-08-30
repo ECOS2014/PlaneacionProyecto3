@@ -1,32 +1,4 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="1" start="@1407466796000" flag="M" />
-  <time id="2" path="/Project/Proyecto3PC/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/Base de datos/Design" start="@1407472554000" delta="45" flag="A" />
-  <time id="3" path="/Project/Proyecto3PC/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/Base de datos/Design Review" start="@1407472601000" delta="45" flag="A" />
-  <time id="4" path="/Project/Proyecto3PC/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/Base de datos/Code" start="@1407472610000" delta="90" flag="A" />
-  <time id="5" path="/Project/Proyecto3PC/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/Base de datos/Code Review" start="@1407472620000" delta="30" flag="A" />
-  <time id="6" path="/Project/Proyecto3PC/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/Base de datos/Test" start="@1407472635000" delta="60" flag="A" />
-  <time id="7" path="/Project/Proyecto3PC/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/Base de datos/Postmortem" start="@1407472658000" delta="60" flag="A" />
-  <time id="8" path="/Project/Proyecto3PC/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/Base de datos/Compile" start="@1407472709000" flag="A" />
-  <time id="9" path="/Project/Proyecto3PC/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/BAM-Entidad/Planning" start="@1407645720000" delta="36" flag="A" />
-  <time id="10" path="/Project/Proyecto3PC/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/BAM-Entidad/Design" start="@1407645742000" delta="60" flag="A" />
-  <time id="11" path="/Project/Proyecto3PC/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/BAM-Entidad/Design" start="@1407904942000" delta="39" flag="A" />
-  <time id="12" path="/Project/Proyecto3PC/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/BAM-Entidad/Design Review" start="@1407904993000" delta="40" flag="A" />
-  <time id="13" path="/Project/Proyecto3PC/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/BAM-Entidad/Code" start="@1407905015000" delta="60" flag="A" />
-  <time id="14" path="/Project/Proyecto3PC/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/BAM-Entidad/Code Review" start="@1407905066000" delta="32" flag="A" />
-  <time id="15" path="/Project/Proyecto3PC/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/BAM-Entidad/Test" start="@1408250678000" delta="30" flag="A" />
-  <time id="16" path="/Project/Proyecto3PC/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/BAM-Entidad/Postmortem" start="@1408250693000" delta="60" flag="A" />
-  <time id="17" path="/Project/Proyecto3PC/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/BAM- KPI/Planning" start="@1408250768000" delta="50" flag="A" />
-  <time id="18" path="/Project/Proyecto3PC/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/BAM- KPI/Design" start="@1408337216000" delta="50" flag="A" />
-  <time id="19" path="/Project/Proyecto3PC/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/BAM- KPI/Design Review" start="@1408337245000" delta="40" flag="A" />
-  <time id="20" path="/Project/Proyecto3PC/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/BAM- KPI/Code" start="@1408337255000" delta="90" flag="A" />
-  <time id="21" path="/Project/Proyecto3PC/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/BAM- KPI/Code Review" start="@1408337276000" delta="20" flag="A" />
-  <time id="22" path="/Project/Proyecto3PC/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/BAM- KPI/Test" start="@1408423686000" delta="60" flag="A" />
-  <time id="23" path="/Project/Proyecto3PC/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/BAM- KPI/Postmortem" start="@1408855701000" delta="60" flag="A" />
-  <time id="24" path="/Project/Proyecto3PC/Encuestas/Integracion/Planning" start="@1408855766000" delta="39" flag="A" />
-  <time id="25" path="/Project/Proyecto3PC/Encuestas/Integracion/Design" start="@1408855869000" delta="30" flag="A" />
-  <time id="26" path="/Project/Proyecto3PC/Encuestas/Integracion/Design Review" start="@1408855876000" delta="30" flag="A" />
-  <time id="27" path="/Project/Proyecto3PC/Encuestas/Integracion/Code" start="@1408855889000" delta="70" flag="A" />
-  <time id="28" path="/Project/Proyecto3PC/Encuestas/Integracion/Code Review" start="@1408855899000" delta="30" flag="A" />
-  <time id="29" path="/Project/Proyecto3PC/Encuestas/Integracion/Test" start="@1408855909000" delta="110" flag="A" />
+  <time id="30" path="/Project/Proyecto3PC/Manteniemiento del sistema" start="@1409429214000" delta="60" flag="A" />
 </timeLogEntries>
