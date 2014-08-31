@@ -1,4 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="23" start="@1409457960000" delta="45" flag="M" />
+  <time id="32" path="/Proyecto/Proyecto3GM/Encuestas/Integracion/Postmortem" start="@1409497725884" delta="360" comment="Tiempo de documentaion y postmortem" flag="A" />
+  <time id="33" flag="D" />
+  <time id="34" flag="D" />
 </timeLogEntries>

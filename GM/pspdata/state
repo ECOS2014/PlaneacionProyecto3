@@ -29,7 +29,7 @@
             <node name="Postmortem"/>
           </node>
         </node>
-        <node name="P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA" templateID="TSP/Indiv2ReadOnlyNode" dataFile="2.dat" defectLog="1.def" selected="true">
+        <node name="P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA" templateID="TSP/Indiv2ReadOnlyNode" dataFile="2.dat" defectLog="1.def">
           <node name="Logica de negocio" templateID="PSP2.1" dataFile="44.dat" defectLog="43.def" selected="true">
             <node name="Planning"/>
             <node name="Design"/>
@@ -41,7 +41,7 @@
             <node name="Postmortem" selected="true"/>
           </node>
         </node>
-        <node name="Integracion" templateID="PSP2.1" dataFile="46.dat" defectLog="45.def">
+        <node name="Integracion" templateID="PSP2.1" dataFile="46.dat" defectLog="45.def" selected="true">
           <node name="Planning"/>
           <node name="Design"/>
           <node name="Design Review"/>
