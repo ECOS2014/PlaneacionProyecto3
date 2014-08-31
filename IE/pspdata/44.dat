@@ -152,7 +152,7 @@ Postmortem/Estimated Defects Removed per Hour==#NaN=DEFAULT
 Postmortem/Estimated Defects Removed==#NaN=DEFAULT
 Postmortem/Estimated Time==#13.524590163934427=DEFAULT
 Postmortem/Started=@1409458260769
-Postmortem/Time==45.0
+Postmortem/Time==144.0
 Reqts Inspect/Defects Removed==1.0
 Started=@1409458260769
 Test/Completed=@1409440924923
