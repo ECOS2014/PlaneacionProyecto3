@@ -1,37 +1,4 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="1" path="/Proyecto/Proyecto3FF/Manteniemiento del sistema" start="@1407716593000" delta="60" interrupt="23" flag="A" />
-  <time id="2" path="/Proyecto/Proyecto3FF/Manteniemiento del sistema" start="@1408062225000" delta="120" interrupt="45" flag="A" />
-  <time id="3" path="/Proyecto/Proyecto3FF/Manteniemiento del sistema" start="@1408148652000" delta="120" interrupt="12" flag="A" />
-  <time id="4" path="/Proyecto/Proyecto3FF/Manteniemiento del sistema" start="@1409444683000" delta="90" flag="A" />
-  <time id="5" flag="D" />
-  <time id="6" flag="D" />
-  <time id="7" path="/Proyecto/Proyecto3FF/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Base de datos/Planning" start="@1407025579000" delta="40" interrupt="15" flag="A" />
-  <time id="8" path="/Proyecto/Proyecto3FF/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Base de datos/Design" start="@1407371213000" delta="120" interrupt="22" flag="A" />
-  <time id="9" path="/Proyecto/Proyecto3FF/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Base de datos/Design" start="@1407544014000" delta="60" interrupt="50" flag="A" />
-  <time id="10" path="/Proyecto/Proyecto3FF/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Base de datos/Design" start="@1407630414000" delta="75" flag="A" />
-  <time id="11" path="/Proyecto/Proyecto3FF/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Base de datos/Design Review" start="@1407630650000" delta="75" interrupt="30" flag="A" />
-  <time id="12" path="/Proyecto/Proyecto3FF/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Base de datos/Design Review" start="@1407717050000" delta="50" interrupt="25" flag="A" />
-  <time id="13" path="/Proyecto/Proyecto3FF/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Base de datos/Code" start="@1407803545000" delta="90" interrupt="5" flag="A" />
-  <time id="14" path="/Proyecto/Proyecto3FF/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Base de datos/Code" start="@1408062745000" delta="120" interrupt="50" flag="A" />
-  <time id="15" path="/Proyecto/Proyecto3FF/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Base de datos/Code" start="@1408149146000" delta="75" interrupt="20" flag="A" />
-  <time id="16" path="/Proyecto/Proyecto3FF/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Base de datos/Code" start="@1408235546000" delta="50" interrupt="4" flag="A" />
-  <time id="17" path="/Proyecto/Proyecto3FF/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Base de datos/Code Review" start="@1408322052000" delta="75" flag="A" />
-  <time id="18" path="/Proyecto/Proyecto3FF/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Base de datos/Compile" start="@1408322093000" delta="30" flag="A" />
-  <time id="19" path="/Proyecto/Proyecto3FF/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Base de datos/Test" start="@1408322114000" delta="105" interrupt="38" flag="A" />
-  <time id="20" path="/Proyecto/Proyecto3FF/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Base de datos/Test" start="@1408408514000" delta="105" interrupt="5" flag="A" />
-  <time id="21" path="/Proyecto/Proyecto3FF/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Base de datos/Postmortem" start="@1409445434000" delta="30" flag="A" />
-  <time id="22" path="/Proyecto/Proyecto3FF/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Base de datos/Postmortem" start="@1409531854000" delta="15" flag="A" />
-  <time id="23" path="/Proyecto/Proyecto3FF/Encuestas/Integracion/Planning" start="@1408581607000" delta="20" flag="A" />
-  <time id="24" path="/Proyecto/Proyecto3FF/Encuestas/Integracion/Design" start="@1408668025000" delta="45" interrupt="6" flag="A" />
-  <time id="25" path="/Proyecto/Proyecto3FF/Encuestas/Integracion/Design" start="@1408754425000" delta="50" interrupt="15" flag="A" />
-  <time id="26" path="/Proyecto/Proyecto3FF/Encuestas/Integracion/Design Review" start="@1408840913000" delta="10" flag="A" />
-  <time id="27" path="/Proyecto/Proyecto3FF/Encuestas/Integracion/Code" start="@1408840942000" delta="70" flag="A" />
-  <time id="28" path="/Proyecto/Proyecto3FF/Encuestas/Integracion/Code" start="@1408840942000" delta="60" interrupt="15" flag="A" />
-  <time id="29" path="/Proyecto/Proyecto3FF/Encuestas/Integracion/Code" start="@1408927343000" delta="65" interrupt="23" flag="A" />
-  <time id="30" path="/Proyecto/Proyecto3FF/Encuestas/Integracion/Code Review" start="@1408927417000" delta="10" interrupt="10" flag="A" />
-  <time id="31" path="/Proyecto/Proyecto3FF/Encuestas/Integracion/Compile" start="@1408927452000" delta="10" flag="A" />
-  <time id="32" path="/Proyecto/Proyecto3FF/Encuestas/Integracion/Test" start="@1408927499000" delta="75" flag="A" />
-  <time id="33" path="/Proyecto/Proyecto3FF/Encuestas/Integracion/Test" start="@1409013899000" delta="95" interrupt="35" flag="A" />
-  <time id="34" path="/Proyecto/Proyecto3FF/Encuestas/Integracion/Postmortem" start="@1409532345000" delta="15" flag="A" />
+  <time id="35" path="/Proyecto/Proyecto3FF/Encuestas/Integracion/Postmortem" start="@1409493416316" delta="480" flag="A" />
 </timeLogEntries>

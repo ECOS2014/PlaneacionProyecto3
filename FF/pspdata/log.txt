@@ -1,42 +1,16 @@
-Process Dashboard - logging started at Sat Aug 30 18:09:39 COT 2014
+Process Dashboard - logging started at Sun Aug 31 08:56:18 COT 2014
 Oracle Corporation JRE 1.7.0_60-ea; Windows 8.1
 Using LocalWorkingDirectory[C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata]
 Created default translation engine.
-ago 30, 2014 6:09:41 PM net.sourceforge.processdash.ProcessDashboard <init>
+ago 31, 2014 8:56:20 AM net.sourceforge.processdash.ProcessDashboard <init>
 INFORMACIÓN: Process Dashboard version 2.0
-ago 30, 2014 6:09:42 PM net.sourceforge.processdash.tool.export.DataImporter importData
+ago 31, 2014 8:56:21 AM net.sourceforge.processdash.tool.export.DataImporter importData
 INFORMACIÓN: importing C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\Equipo\data\hyegb1b9\disseminate\team-data.pdash
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\0.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\global.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\29.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\2.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\29.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\28.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\27.dat
 Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\30.dat
 Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\0.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\global.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\27.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\29.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\global.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\29.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\29.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\29.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\29.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\29.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\30.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\30.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\30.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\29.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\30.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\29.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\27.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\30.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\30.dat
-schedule simulation took 51 ms.
-ago 30, 2014 7:47:53 PM net.sourceforge.processdash.ProcessDashboard quit
+ago 31, 2014 8:57:26 AM net.sourceforge.processdash.ProcessDashboard quit
 INFORMACIÓN: Successfully saved all data.
-schedule simulation took 28 ms.
+schedule simulation took 136 ms.
 Completed user-scheduled data export.
 Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\0.dat
 Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\global.dat
