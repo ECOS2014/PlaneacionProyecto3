@@ -1,4 +1,9 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="38" path="/Proyecto/Proyecto3_IE/Manteniemiento del sistema" start="@1409263853000" delta="50" flag="A" />
+  <time id="39" path="/Proyecto/Proyecto3_IE/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/Aplicaciones/Postmortem" start="@1409447872313" delta="31" flag="A" />
+  <time id="40" path="/Proyecto/Proyecto3_IE/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/Aplicaciones/Postmortem" start="@1409452163370" delta="18" flag="A" />
+  <time id="41" path="/Proyecto/Proyecto3_IE/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/Aplicaciones/Postmortem" start="@1409453754091" delta="26" flag="A" />
+  <time id="42" path="/Proyecto/Proyecto3_IE/Encuestas/P5: Integración de sistemas de información para activar proceso de envío de encuestas/Aplicaciones/Postmortem" start="@1409455950739" delta="38" flag="A" />
+  <time id="43" path="/Proyecto/Proyecto3_IE/Encuestas/Integracion/Postmortem" start="@1409458260769" delta="20" flag="A" />
+  <time id="44" path="/Proyecto/Proyecto3_IE/Encuestas/Integracion/Postmortem" start="@1409460891687" delta="10" flag="A" />
 </timeLogEntries>
