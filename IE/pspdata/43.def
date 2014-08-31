@@ -2,4 +2,5 @@
 <defectLog>
   <defect num="1" type="Syntax" inj="Before Development" rem="Reqts Inspect" ft="31.6" fd="" desc="La operación de CRM campaniaActiva, no tenia el formato adecuado para la conexion con el bus back." date="@1408251417263" />
   <defect num="2" type="Data" inj="Design" rem="Int Test" ft="122.1" fd="" desc="El formato generado por el web services de la aplicacion de encuestas no es compatible con el bus back, por lo que no permite realizar un enlace correcto." date="@1407646860465" />
+  <defect num="3" type="Build, package" inj="Before Development" rem="Planning" ft="60.8" fd="" desc="Algunos servicios existentes presentaban errores en su funcionamiento" date="@1408888685816" />
 </defectLog>
