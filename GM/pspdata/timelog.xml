@@ -29,4 +29,5 @@
   <time id="28" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/CRM/Planning" start="@1407682800000" comment="Reunion de equipo" />
   <time id="30" path="/Proyecto/Proyecto3GM/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Logica de negocio/Planning" start="@1408287600000" delta="60" comment="Reunion de equipo" />
   <time id="31" path="/Proyecto/Proyecto3GM/Encuestas/P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA/Logica de negocio/Planning" start="@1408892400000" delta="60" comment="Reunion de equipo" />
+  <time id="32" path="/Proyecto/Proyecto3GM/Encuestas/Integracion/Postmortem" start="@1409497725884" delta="360" comment="Tiempo de documentaion y postmortem" />
 </timeLogEntries>
