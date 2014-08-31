@@ -203,6 +203,7 @@ Design/Estimated Defects Removed==#NaN=DEFAULT
 Design/Estimated Time To Date==#150.0=DEFAULT
 Design/Estimated Time==#175.66265060240966=DEFAULT
 Design/Time To Date==#90.0=DEFAULT
+Design/Time==120.0
 Design/Total Time To Date==#660.0=DEFAULT
 ESTIMATED Time To Date==#2220.0=DEFAULT
 EV_Task_IDs=="hyegb1b9:14645682
@@ -440,7 +441,7 @@ Planning/Estimated Defects Removed==#NaN=DEFAULT
 Planning/Estimated Time To Date==#30.0=DEFAULT
 Planning/Estimated Time==#175.66265060240966=DEFAULT
 Planning/Time To Date==#585.0=DEFAULT
-Planning/Time==495.0
+Planning/Time==615.0
 Planning_Is_Done To Date==#1.0=DEFAULT
 Postmortem/Completed=@1409328699891
 Postmortem/Defect Density To Date==#Infinity=DEFAULT
@@ -464,7 +465,7 @@ Postmortem/Estimated Defects Removed==#NaN=DEFAULT
 Postmortem/Estimated Time To Date==#30.0=DEFAULT
 Postmortem/Estimated Time==#0.0=DEFAULT
 Postmortem/Time To Date==#45.0=DEFAULT
-Postmortem/Time==45.0
+Postmortem/Time==90.0
 Productivity To Date==#0.0=DEFAULT
 Project_WBS_ID To Date==#null=DEFAULT
 Proxy Size To Date==#0.0=DEFAULT

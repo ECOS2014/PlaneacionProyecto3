@@ -437,7 +437,7 @@ Planning/Estimated Defects Removed==#0.0=DEFAULT
 Planning/Estimated Time To Date==#0.0=DEFAULT
 Planning/Estimated Time==#30.0=DEFAULT
 Planning/Time To Date==#90.0=DEFAULT
-Planning/Time==90.0
+Planning/Time==150.0
 Planning_Is_Done To Date==#1.0=DEFAULT
 Postmortem/Completed=@1409328688508
 Postmortem/Defect Density To Date==#NaN=DEFAULT

@@ -128,6 +128,7 @@ Compile/Estimated Time To Date==#15.0=DEFAULT
 Compile/Estimated Time==#0.0=DEFAULT
 Compile/Time To Date==#0.0=DEFAULT
 Completed To Date==#null=DEFAULT
+Conceptual Design Filename="P4\\PruebasComponente.docx
 Defect Density To Date==#Infinity=DEFAULT
 Defect Injection Density To Date==#Infinity=DEFAULT
 Defects Injected To Date==#0.0=DEFAULT
@@ -412,6 +413,7 @@ PQI To Date==#0.0=DEFAULT
 PROBE_Input_Mismatch To Date==#0.0=DEFAULT
 PROBE_Size_Output_Mismatch To Date==#0.0=DEFAULT
 PROBE_Time_Output_Mismatch To Date==#0.0=DEFAULT
+PSP Project Document Directory="GM\\
 PSP3_Cycle_Count To Date==#0.0=DEFAULT
 PSP3_Cycle_Est_Time To Date==#2227.4301329027453=DEFAULT
 PSP3_Cycle_Even_Time To Date==#Infinity=DEFAULT

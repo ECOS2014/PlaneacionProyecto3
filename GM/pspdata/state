@@ -7,7 +7,7 @@
     <node name="Proyecto3GM" templateID="TSP/Indiv2Root" dataFile="0.dat" selected="true">
       <node name="Manteniemiento del sistema" templateID="TSP/Indiv2Task" dataFile="45.dat" defectLog="44.def"/>
       <node name="Encuestas" templateID="TSP/Indiv2ReadOnlyNode" dataFile="1.dat" defectLog="0.def" selected="true">
-        <node name="P3: Implementación módulo de encuestas del AP_CRM" templateID="TSP/Indiv2ReadOnlyNode" dataFile="41.dat" defectLog="40.def" selected="true">
+        <node name="P3: Implementación módulo de encuestas del AP_CRM" templateID="TSP/Indiv2ReadOnlyNode" dataFile="41.dat" defectLog="40.def">
           <node name="CRM" templateID="PSP2.1" dataFile="42.dat" defectLog="41.def">
             <node name="Planning"/>
             <node name="Design"/>
@@ -19,17 +19,17 @@
             <node name="Postmortem"/>
           </node>
           <node name="Base de datos" templateID="PSP2.1" dataFile="43.dat" defectLog="42.def" selected="true">
-            <node name="Planning"/>
+            <node name="Planning" selected="true"/>
             <node name="Design"/>
             <node name="Design Review"/>
-            <node name="Code" selected="true"/>
+            <node name="Code"/>
             <node name="Code Review"/>
             <node name="Compile"/>
             <node name="Test"/>
             <node name="Postmortem"/>
           </node>
         </node>
-        <node name="P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA" templateID="TSP/Indiv2ReadOnlyNode" dataFile="2.dat" defectLog="1.def">
+        <node name="P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA" templateID="TSP/Indiv2ReadOnlyNode" dataFile="2.dat" defectLog="1.def" selected="true">
           <node name="Logica de negocio" templateID="PSP2.1" dataFile="44.dat" defectLog="43.def" selected="true">
             <node name="Planning"/>
             <node name="Design"/>
@@ -37,8 +37,8 @@
             <node name="Code"/>
             <node name="Code Review"/>
             <node name="Compile"/>
-            <node name="Test" selected="true"/>
-            <node name="Postmortem"/>
+            <node name="Test"/>
+            <node name="Postmortem" selected="true"/>
           </node>
         </node>
         <node name="Integracion" templateID="PSP2.1" dataFile="46.dat" defectLog="45.def">
