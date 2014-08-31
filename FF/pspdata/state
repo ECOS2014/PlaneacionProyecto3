@@ -5,31 +5,32 @@
 <node name="top">
   <node name="Proyecto" selected="true">
     <node name="Proyecto3FF" templateID="TSP/Indiv2Root" dataFile="0.dat" selected="true">
-      <node name="Encuestas" templateID="TSP/Indiv2ReadOnlyNode" dataFile="1.dat" defectLog="0.def" selected="true">
-        <node name="P3: Implementación módulo de encuestas del AP_CRM" templateID="TSP/Indiv2ReadOnlyNode" dataFile="2.dat" defectLog="1.def" selected="true">
-          <node name="Logica de negocio" templateID="PSP2.1" dataFile="3.dat" defectLog="2.def" selected="true">
-            <node name="Planning" selected="true"/>
+      <node name="Manteniemiento del sistema" templateID="TSP/Indiv2Task" dataFile="27.dat" defectLog="26.def"/>
+      <node name="Encuestas" templateID="TSP/Indiv2ReadOnlyNode" dataFile="1.dat" defectLog="0.def">
+        <node name="P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA" templateID="TSP/Indiv2ReadOnlyNode" dataFile="28.dat" defectLog="27.def">
+          <node name="Base de datos" templateID="PSP2.1" dataFile="29.dat" defectLog="28.def" selected="true">
+            <node name="Planning"/>
             <node name="Design"/>
             <node name="Design Review"/>
             <node name="Code"/>
             <node name="Code Review"/>
             <node name="Compile"/>
             <node name="Test"/>
-            <node name="Postmortem"/>
-          </node>
-          <node name="CRM" templateID="PSP2.1" dataFile="4.dat" defectLog="3.def">
-            <node name="Planning" selected="true"/>
-            <node name="Design"/>
-            <node name="Design Review"/>
-            <node name="Code"/>
-            <node name="Code Review"/>
-            <node name="Compile"/>
-            <node name="Test"/>
-            <node name="Postmortem"/>
+            <node name="Postmortem" selected="true"/>
           </node>
         </node>
+        <node name="Integracion" templateID="PSP2.1" dataFile="30.dat" defectLog="29.def" selected="true">
+          <node name="Planning"/>
+          <node name="Design"/>
+          <node name="Design Review"/>
+          <node name="Code"/>
+          <node name="Code Review"/>
+          <node name="Compile"/>
+          <node name="Test"/>
+          <node name="Postmortem" selected="true"/>
+        </node>
       </node>
-      <node name="Conocimiento de Cliente" templateID="TSP/Indiv2ReadOnlyNode" dataFile="5.dat" defectLog="4.def">
+      <node name="Conocimiento de Cliente" templateID="TSP/Indiv2ReadOnlyNode" dataFile="5.dat" defectLog="4.def" selected="true">
         <node name="P6: Crear servicio de consulta de transacciones en AP_BCS" templateID="TSP/Indiv2ReadOnlyNode" dataFile="6.dat" defectLog="5.def" selected="true">
           <node name="BAM-Entidad" templateID="PSP2.1" dataFile="7.dat" defectLog="6.def" selected="true">
             <node name="Planning" selected="true"/>
