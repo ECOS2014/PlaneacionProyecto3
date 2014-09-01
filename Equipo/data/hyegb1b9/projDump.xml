@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<project name='Proyecto3' id='14645789' tid='hyegb1b9:14645789' labels='none' dumpFileVersion='4.0.0' dumpTimestamp='@1408803042097'>
+<project name='Proyecto3' id='14645789' tid='hyegb1b9:14645789' labels='none' dumpFileVersion='4.0.0' dumpTimestamp='@1409537337023'>
   <teamMember name='Carlos Felipe Roa' tmid='463994169' initials='CR' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
   <teamMember name='Ingrid Echavarria' tmid='298886272' initials='IE' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
   <teamMember name='Paula Castellanos' tmid='1760066510' initials='PC' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
   <teamMember name='David Abril' tmid='922002177' initials='DA' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
   <teamMember name='Felipe Fagua' tmid='1110217376' initials='FF' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
   <teamMember name='Gabriel Matinez' tmid='18071183' initials='GM' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
-	<task name='Manteniemiento del sistema' id='14645787' tid='hyegb1b9:14645787' labels='none' phaseName='Compile' phaseType='COMP' time=',CR=5,IE=5,PC=5,DA=5,FF=5,GM=5,'/>
+	<task name='Manteniemiento del sistema' id='14645787' tid='hyegb1b9:14645787' labels='none' phaseName='Compile' phaseType='COMP' time=',CR=15,IE=5,PC=5,DA=5,FF=5,GM=5,' syncTime=',CR=15.0,'/>
 	<component name='Encuestas' id='14645561' tid='hyegb1b9:14645561' labels='Ciclo1'>
 		<component name='P3: Implementación módulo de encuestas del AP_CRM' id='14645568' tid='hyegb1b9:14645568' labels='Ciclo1' wid='6849884'>
 			<psp name='InterfazMVC' id='14645663' tid='hyegb1b9:14645663' labels='Ciclo1' time=',DA=23,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='250' sizeReu='0' sizeNC='250'/>
@@ -15,20 +15,21 @@
 			<psp name='Base de datos' id='14645680' tid='hyegb1b9:14645680' labels='Ciclo1' time=',GM=6,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='9' sizeReu='0' sizeNC='9'/>
 		</component>
 		<component name='P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA' id='14645569' tid='hyegb1b9:14645569' labels='Ciclo1' wid='6849884'>
-			<psp name='Interfaz MVC' id='14645681' tid='hyegb1b9:14645681' labels='Ciclo1' time=',DA=30,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='400' sizeReu='0' sizeNC='400'/>
+			<psp name='Interfaz MVC' id='14645681' tid='hyegb1b9:14645681' labels='Ciclo1' time=',DA=10,' syncTime=',DA=10.0,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='400' sizeReu='0' sizeNC='400'/>
 			<psp name='Logica de negocio' id='14645682' tid='hyegb1b9:14645682' labels='Ciclo1' time=',GM=27,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='370' sizeReu='0' sizeNC='370'/>
 			<psp name='Base de datos' id='14645683' tid='hyegb1b9:14645683' labels='Ciclo1' time=',FF=15,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='9' sizeReu='0' sizeNC='9'/>
 		</component>
 		<component name='P5: Integración de sistemas de información para activar proceso de envío de encuestas' id='14645570' tid='hyegb1b9:14645570' labels='Ciclo1' wid='6849884'>
 			<psp name='BPEL' id='14645690' tid='hyegb1b9:14645690' labels='Ciclo1' wid='6849898' time=',CR=12,' syncTime=',CR=12.0,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='64' sizeReu='0' sizeNC='64'/>
 			<psp name='BAM-Entidad' id='14645691' tid='hyegb1b9:14645691' labels='Ciclo1' wid='6849899' time=',PC=3,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='3' sizeReu='0' sizeNC='3'/>
-			<psp name='BAM- KPI' id='14645692' tid='hyegb1b9:14645692' labels='Ciclo1' wid='6849900' time=',PC=6,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='3' sizeReu='0' sizeNC='3'/>
-			<psp name='OSB Back' id='14645694' tid='hyegb1b9:14645694' labels='Ciclo1' wid='6849902' time=',IE=8,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+			<psp name='BAM- KPI' id='14645692' tid='hyegb1b9:14645692' labels='Ciclo1' wid='6849900' time=',PC=10,' syncTime=',PC=10.0,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='3' sizeReu='0' sizeNC='3'/>
+			<psp name='OSB Back' id='14645694' tid='hyegb1b9:14645694' labels='Ciclo1' wid='6849902' time=',IE=30,' syncTime=',IE=30.0,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
 			<psp name='Aplicaciones' id='14645695' tid='hyegb1b9:14645695' labels='Ciclo1' wid='6849903' time=',IE=13.5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='130' sizeReu='0' sizeNC='130'/>
 		</component>
-		<psp name='Integracion' id='14645788' tid='hyegb1b9:14645788' labels='Ciclo1' time=',CR=5,IE=5,PC=5,DA=5,FF=5,GM=5,'/>
+		<psp name='Integracion' id='14645788' tid='hyegb1b9:14645788' labels='Ciclo1' time=',CR=15,IE=5,PC=5,DA=5,FF=5,GM=5,' syncTime=',CR=15.0,'/>
 	</component>
 	<component name='Conocimiento de Cliente' id='14645562' tid='hyegb1b9:14645562' labels='Ciclo2'>
+		<dependency name='/Proyecto3/Encuestas' tid='hyegb1b9:14645561' source='wbs'/>
 		<component name='P6: Crear servicio de consulta de transacciones en AP_BCS' id='14645571' tid='hyegb1b9:14645571' labels='Ciclo2' wid='6849884'>
 			<component name='Portal' id='14645698' tid='hyegb1b9:14645698' labels='Ciclo2' wid='6849906'>
 				<psp name='Portlet' id='14645699' tid='hyegb1b9:14645699' labels='Ciclo2' wid='6849893' time=',DA=2,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
@@ -53,7 +54,7 @@
 			</component>
 			<psp name='OSB Front' id='14645717' tid='hyegb1b9:14645717' labels='Ciclo2' wid='6849897' time=',PC=6,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
 			<psp name='BPEL' id='14645718' tid='hyegb1b9:14645718' labels='Ciclo2' wid='6849898' time=',CR=8,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='16' sizeReu='0' sizeNC='16'/>
-			<psp name='CRM-Relacion' id='14645721' tid='hyegb1b9:14645721' labels='Ciclo2' wid='6849901' time=',IE=3.75,GM=3.75,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='3' sizeReu='0' sizeNC='3'/>
+			<psp name='CRM-Relacion' id='14645721' tid='hyegb1b9:14645721' labels='Ciclo2' wid='6849901' time=',IE=7.5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='3' sizeReu='0' sizeNC='3'/>
 			<psp name='CRM-Atributos' id='14645726' tid='hyegb1b9:14645726' labels='Ciclo2' time=',GM=10,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='60' sizeAdd='40' sizeReu='0' sizeNC='100'/>
 			<psp name='OSB Back' id='14645722' tid='hyegb1b9:14645722' labels='Ciclo2' wid='6849902' time=',IE=6,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
 			<psp name='Aplicaciones' id='14645723' tid='hyegb1b9:14645723' labels='Ciclo2' wid='6849903' time=',FF=4,GM=4,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='120' sizeReu='0' sizeNC='120'/>
@@ -67,6 +68,7 @@
 		</component>
 	</component>
 	<component name='Reputacion' id='14645564' tid='hyegb1b9:14645564' labels='Ciclo3'>
+		<dependency name='/Proyecto3/Conocimiento de Cliente' tid='hyegb1b9:14645562' source='wbs'/>
 		<component name='P11: Modificación de información de las  cuentas del cliente para que soporten el campo de &quot;Reputación&quot; (CRM)' id='14645576' tid='hyegb1b9:14645576' labels='Ciclo3' wid='6849884'>
 			<component name='Portal' id='14645770' tid='hyegb1b9:14645770' labels='Ciclo3' wid='6849906'>
 				<psp name='Portlet' id='14645771' tid='hyegb1b9:14645771' labels='Ciclo3' wid='6849893' time=',DA=2,GM=2,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='2' sizeAdd='0' sizeReu='0' sizeNC='2'/>
@@ -85,6 +87,7 @@
 		</component>
 	</component>
 	<component name='Promociones fabricantes' id='14645563' tid='hyegb1b9:14645563' labels='Ciclo3'>
+		<dependency name='/Proyecto3/Conocimiento de Cliente' tid='hyegb1b9:14645562' source='wbs'/>
 		<component name='P9: Actualización del Portal del MarketPlace de los Alpes' id='14645574' tid='hyegb1b9:14645574' labels='Ciclo3' wid='6849884'>
 			<component name='Portal' id='14645741' tid='hyegb1b9:14645741' labels='Ciclo3' wid='6849906'>
 				<psp name='Portlet' id='14645742' tid='hyegb1b9:14645742' labels='Ciclo3' wid='6849893' time=',GM=7,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='3' sizeReu='0' sizeNC='3'/>
@@ -108,6 +111,7 @@
 		</component>
 	</component>
 	<component name='EntregaFinal' id='14645784' tid='hyegb1b9:14645784' labels='Ciclo3'>
+		<dependency name='/Proyecto3/Conocimiento de Cliente' tid='hyegb1b9:14645562' source='wbs'/>
 		<task name='Postmortem' id='14645786' tid='hyegb1b9:14645786' labels='Ciclo3' phaseName='Postmortem' phaseType='PM' time=',CR=3,IE=3,PC=3,DA=3,FF=3,GM=3,'/>
 	</component>
 	<component name='Cruce Bolsa' id='14645560' tid='hyegb1b9:14645560' labels='none'>
