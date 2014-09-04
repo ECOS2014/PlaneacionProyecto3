@@ -1,42 +1,181 @@
-Process Dashboard - logging started at Tue Sep 02 00:12:57 COT 2014
+Process Dashboard - logging started at Wed Sep 03 23:10:26 COT 2014
 Apple Inc. JRE 1.6.0_65; Mac OS X
 Using LocalWorkingDirectory[/Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo]
-Sep 2, 2014 12:12:59 AM net.sourceforge.processdash.ProcessDashboard <init>
+Sep 3, 2014 11:10:28 PM net.sourceforge.processdash.ProcessDashboard <init>
 INFO: Process Dashboard version 2.0
-Sep 2, 2014 12:12:59 AM com.tuma_solutions.tpidw.client.addon.TpidwAddOnContext createContextImpl
+Sep 3, 2014 11:10:28 PM com.tuma_solutions.tpidw.client.addon.TpidwAddOnContext createContextImpl
 INFO: Creating TPIDW database
-Sep 2, 2014 12:13:02 AM com.tuma_solutions.tpidw.client.addon.TpidwAddOnContext createContextImpl
+Sep 3, 2014 11:10:31 PM com.tuma_solutions.tpidw.client.addon.TpidwAddOnContext createContextImpl
 INFO: TPIDW database created
-Sep 2, 2014 12:13:03 AM net.sourceforge.processdash.tool.export.DataImporter importData
+Sep 3, 2014 11:10:32 PM net.sourceforge.processdash.tool.export.DataImporter importData
 INFO: importing /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/data/hyegb1b9/FF-data.pdash
-Sep 2, 2014 12:13:03 AM net.sourceforge.processdash.tool.export.DataImporter importData
+Sep 3, 2014 11:10:32 PM net.sourceforge.processdash.tool.export.DataImporter importData
 INFO: importing /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/data/hyegb1b9/PC-data.pdash
-Sep 2, 2014 12:13:03 AM net.sourceforge.processdash.tool.export.DataImporter importData
+Sep 3, 2014 11:10:32 PM net.sourceforge.processdash.tool.export.DataImporter importData
 INFO: importing /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/data/hyegb1b9/CR-data.pdash
-Sep 2, 2014 12:13:03 AM net.sourceforge.processdash.tool.export.DataImporter importData
+Sep 3, 2014 11:10:32 PM net.sourceforge.processdash.tool.export.DataImporter importData
 INFO: importing /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/data/hyegb1b9/GM-data.pdash
-Sep 2, 2014 12:13:03 AM net.sourceforge.processdash.tool.export.DataImporter importData
+Sep 3, 2014 11:10:32 PM net.sourceforge.processdash.tool.export.DataImporter importData
 INFO: importing /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/data/hyegb1b9/IE-data.pdash
-Sep 2, 2014 12:13:03 AM net.sourceforge.processdash.tool.export.DataImporter importData
+Sep 3, 2014 11:10:32 PM net.sourceforge.processdash.tool.export.DataImporter importData
 INFO: importing /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/data/hyegb1b9/DA-data.pdash
-Sep 2, 2014 12:13:03 AM net.sourceforge.processdash.tool.export.DataImporter importData
+Sep 3, 2014 11:10:32 PM net.sourceforge.processdash.tool.export.DataImporter importData
 INFO: importing /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/ECOS/Componentes/LAB2/data/hyzus3lv/CR-data.pdash
-Sep 2, 2014 12:13:04 AM com.tuma_solutions.tpidw.client.addon.TpidwAddOnDataLoader$DatasetLoaderThread loadDatasetImpl
-INFO: Refreshed database with project data (took 1883 ms)
-schedule simulation took 93 ms.
+Sep 3, 2014 11:10:33 PM com.tuma_solutions.tpidw.client.addon.TpidwAddOnDataLoader$DatasetLoaderThread loadDatasetImpl
+INFO: Refreshed database with project data (took 1672 ms)
+schedule simulation took 82 ms.
 Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/1.dat
 Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/3.dat
 Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/global.dat
-Sep 2, 2014 12:13:08 AM com.tuma_solutions.tpidw.client.addon.TpidwAddOnDataLoader$DatasetLoaderThread loadDatasetImpl
-INFO: Refreshed database with project data (took 149 ms)
-schedule simulation took 58 ms.
-schedule simulation took 62 ms.
-Completed user-scheduled data export.
-schedule simulation took 60 ms.
+Sep 3, 2014 11:10:38 PM com.tuma_solutions.tpidw.client.addon.TpidwAddOnDataLoader$DatasetLoaderThread loadDatasetImpl
+INFO: Refreshed database with project data (took 144 ms)
+Sep 3, 2014 11:10:41 PM net.sourceforge.processdash.tool.bridge.client.WorkingDirectoryFactory get
+INFO: Using local working directory /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/data/hyegb1b9
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(2.0)
+setValueAt(2.0)
+setValueAt(2.0)
+setValueAt(2.0)
+setValueAt(2.0)
+setValueAt(2.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(5.0)
+setValueAt(5.0)
+setValueAt(5.0)
+setValueAt(5.0)
+setValueAt(5.0)
+setValueAt(5.0)
+setValueAt(5.0)
+setValueAt(5.0)
+setValueAt(5.0)
+setValueAt(5.0)
+setValueAt(5.0)
+setValueAt(5.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(2.0)
+setValueAt(2.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(0.0)
+setValueAt(2.0)
+setValueAt(2.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+setValueAt(1.0)
+schedule simulation took 66 ms.
 Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/1.dat
-Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/3.dat
-Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/global.dat
-Sep 2, 2014 10:12:42 PM net.sourceforge.processdash.ProcessDashboard quit
-INFO: Successfully saved all data.
-Completed user-scheduled data export.
-Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/global.dat
+schedule simulation took 83 ms.
+Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/1.dat
+Sep 3, 2014 11:54:21 PM com.tuma_solutions.tpidw.client.addon.TpidwAddOnDataLoader$DatasetLoaderThread loadDatasetImpl
+INFO: Refreshed database with project data (took 340 ms)

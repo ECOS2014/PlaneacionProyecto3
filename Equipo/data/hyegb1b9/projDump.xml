@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<project name='Proyecto3' id='14645789' tid='hyegb1b9:14645789' labels='none' dumpFileVersion='4.0.0' dumpTimestamp='@1409537337023'>
-  <teamMember name='Carlos Felipe Roa' tmid='463994169' initials='CR' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
-  <teamMember name='Ingrid Echavarria' tmid='298886272' initials='IE' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
-  <teamMember name='Paula Castellanos' tmid='1760066510' initials='PC' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
-  <teamMember name='David Abril' tmid='922002177' initials='DA' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
-  <teamMember name='Felipe Fagua' tmid='1110217376' initials='FF' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
-  <teamMember name='Gabriel Matinez' tmid='18071183' initials='GM' startDate='@1406419200000' startCalendarDate='2014-07-27' hoursPerWeek='6.5'/>
+<project name='Proyecto3' id='14645805' tid='hyegb1b9:14645805' labels='none' dumpFileVersion='4.0.0' dumpTimestamp='@1409806370091'>
+  <teamMember name='Carlos Felipe Roa' tmid='463994169' initials='CR' startDate='@1406505600000' startCalendarDate='2014-07-28' hoursPerWeek='6.5'/>
+  <teamMember name='Ingrid Echavarria' tmid='298886272' initials='IE' startDate='@1406505600000' startCalendarDate='2014-07-28' hoursPerWeek='6.5'/>
+  <teamMember name='Paula Castellanos' tmid='1760066510' initials='PC' startDate='@1406505600000' startCalendarDate='2014-07-28' hoursPerWeek='6.5'/>
+  <teamMember name='David Abril' tmid='922002177' initials='DA' startDate='@1406505600000' startCalendarDate='2014-07-28' hoursPerWeek='6.5'/>
+  <teamMember name='Felipe Fagua' tmid='1110217376' initials='FF' startDate='@1406505600000' startCalendarDate='2014-07-28' hoursPerWeek='6.5'/>
+  <teamMember name='Gabriel Matinez' tmid='18071183' initials='GM' startDate='@1406505600000' startCalendarDate='2014-07-28' hoursPerWeek='6.5'/>
 	<task name='Manteniemiento del sistema' id='14645787' tid='hyegb1b9:14645787' labels='none' phaseName='Compile' phaseType='COMP' time=',CR=15,IE=5,PC=5,DA=5,FF=5,GM=5,' syncTime=',CR=15.0,'/>
 	<component name='Encuestas' id='14645561' tid='hyegb1b9:14645561' labels='Ciclo1'>
 		<component name='P3: Implementación módulo de encuestas del AP_CRM' id='14645568' tid='hyegb1b9:14645568' labels='Ciclo1' wid='6849884'>
@@ -30,6 +30,21 @@
 	</component>
 	<component name='Conocimiento de Cliente' id='14645562' tid='hyegb1b9:14645562' labels='Ciclo2'>
 		<dependency name='/Proyecto3/Encuestas' tid='hyegb1b9:14645561' source='wbs'/>
+		<component name='Lanzamiento' id='14645789' tid='hyegb1b9:14645789' labels='Ciclo2'>
+			<task name='Asignar roles y tareas' id='14645792' tid='hyegb1b9:14645792' labels='Ciclo2' phaseName='Planning' phaseType='PLAN' time=',CR=1,IE=1,PC=1,DA=1,FF=1,GM=1,'/>
+			<task name='Metas del producto' id='14645791' tid='hyegb1b9:14645791' labels='Ciclo2' phaseName='Planning' phaseType='PLAN' time=',CR=1,IE=1,'/>
+			<task name='Plan de calidad' id='14645793' tid='hyegb1b9:14645793' labels='Ciclo2' phaseName='Planning' phaseType='PLAN' time=',DA=2,'/>
+			<task name='Plan de riesgos' id='14645794' tid='hyegb1b9:14645794' labels='Ciclo2' phaseName='Planning' phaseType='PLAN' time=',GM=2,'/>
+			<task name='Plan de desarrollo' id='14645795' tid='hyegb1b9:14645795' labels='Ciclo2' phaseName='Planning' phaseType='PLAN' time=',PC=2,'/>
+			<task name='Plan de pruebas' id='14645796' tid='hyegb1b9:14645796' labels='Ciclo2' phaseName='Planning' phaseType='PLAN' time=',FF=2,'/>
+			<task name='PDT' id='14645797' tid='hyegb1b9:14645797' labels='Ciclo2' phaseName='Planning' phaseType='PLAN' time=',CR=1,IE=1,'/>
+		</component>
+		<component name='Tarea de Rol' id='14645800' tid='hyegb1b9:14645800' labels='Ciclo2'>
+			<task name='Seguimiento(1)' id='14645801' tid='hyegb1b9:14645801' labels='Ciclo2' phaseName='Documentation' phaseType='DOC' time=',CR=1,IE=1,PC=1,DA=1,FF=1,GM=1,'/>
+			<task name='Seguimiento(2)' id='14645802' tid='hyegb1b9:14645802' labels='Ciclo2' phaseName='Documentation' phaseType='DOC' time=',CR=1,IE=1,PC=1,DA=1,FF=1,GM=1,'/>
+			<task name='Seguimiento(3)' id='14645803' tid='hyegb1b9:14645803' labels='Ciclo2' phaseName='Documentation' phaseType='DOC' time=',CR=1,IE=1,PC=1,DA=1,FF=1,GM=1,'/>
+			<task name='Seguimiento(4)' id='14645804' tid='hyegb1b9:14645804' labels='Ciclo2' phaseName='Documentation' phaseType='DOC' time=',CR=1,IE=1,PC=1,DA=1,FF=1,GM=1,'/>
+		</component>
 		<component name='P6: Crear servicio de consulta de transacciones en AP_BCS' id='14645571' tid='hyegb1b9:14645571' labels='Ciclo2' wid='6849884'>
 			<component name='Portal' id='14645698' tid='hyegb1b9:14645698' labels='Ciclo2' wid='6849906'>
 				<psp name='Portlet' id='14645699' tid='hyegb1b9:14645699' labels='Ciclo2' wid='6849893' time=',DA=2,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
@@ -66,6 +81,7 @@
 			<psp name='Aplicaciones' id='14645738' tid='hyegb1b9:14645738' labels='Ciclo2' wid='6849903' time=',FF=19.5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='200' sizeReu='0' sizeNC='200'/>
 			<psp name='Base de datos-Atributos' id='14645739' tid='hyegb1b9:14645739' labels='Ciclo2' wid='6849904' time=',GM=2,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
 		</component>
+		<psp name='Integracion de estrategia' id='14645799' tid='hyegb1b9:14645799' labels='Ciclo2' time=',CR=5,IE=5,PC=5,DA=5,FF=5,GM=5,'/>
 	</component>
 	<component name='Reputacion' id='14645564' tid='hyegb1b9:14645564' labels='Ciclo3'>
 		<dependency name='/Proyecto3/Conocimiento de Cliente' tid='hyegb1b9:14645562' source='wbs'/>
