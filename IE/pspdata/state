@@ -6,7 +6,7 @@
   <node name="Proyecto" selected="true">
     <node name="Proyecto3_IE" templateID="TSP/Indiv2Root" dataFile="0.dat" selected="true">
       <node name="Manteniemiento del sistema" templateID="TSP/Indiv2Task" dataFile="43.dat" defectLog="42.def"/>
-      <node name="Encuestas" templateID="TSP/Indiv2ReadOnlyNode" dataFile="1.dat" defectLog="0.def" selected="true">
+      <node name="Encuestas" templateID="TSP/Indiv2ReadOnlyNode" dataFile="1.dat" defectLog="0.def">
         <node name="P5: Integración de sistemas de información para activar proceso de envío de encuestas" templateID="TSP/Indiv2ReadOnlyNode" dataFile="4.dat" defectLog="3.def" selected="true">
           <node name="OSB Back" templateID="PSP2.1" dataFile="5.dat" defectLog="4.def" selected="true">
             <node name="Planning"/>
@@ -40,8 +40,19 @@
           <node name="Postmortem" selected="true"/>
         </node>
       </node>
-      <node name="Conocimiento de Cliente" templateID="TSP/Indiv2ReadOnlyNode" dataFile="7.dat" defectLog="6.def">
-        <node name="P6: Crear servicio de consulta de transacciones en AP_BCS" templateID="TSP/Indiv2ReadOnlyNode" dataFile="8.dat" defectLog="7.def" selected="true">
+      <node name="Conocimiento de Cliente" templateID="TSP/Indiv2ReadOnlyNode" dataFile="7.dat" defectLog="6.def" selected="true">
+        <node name="Lanzamiento" templateID="TSP/Indiv2ReadOnlyNode" dataFile="45.dat" defectLog="44.def" selected="true">
+          <node name="Asignar roles y tareas" templateID="TSP/Indiv2Task" dataFile="46.dat" defectLog="45.def" selected="true"/>
+          <node name="Metas del producto" templateID="TSP/Indiv2Task" dataFile="47.dat" defectLog="46.def"/>
+          <node name="PDT" templateID="TSP/Indiv2Task" dataFile="48.dat" defectLog="47.def"/>
+        </node>
+        <node name="Tarea de Rol" templateID="TSP/Indiv2ReadOnlyNode" dataFile="49.dat" defectLog="48.def">
+          <node name="Seguimiento(1)" templateID="TSP/Indiv2Task" dataFile="50.dat" defectLog="49.def" selected="true"/>
+          <node name="Seguimiento(2)" templateID="TSP/Indiv2Task" dataFile="51.dat" defectLog="50.def"/>
+          <node name="Seguimiento(3)" templateID="TSP/Indiv2Task" dataFile="52.dat" defectLog="51.def"/>
+          <node name="Seguimiento(4)" templateID="TSP/Indiv2Task" dataFile="53.dat" defectLog="52.def"/>
+        </node>
+        <node name="P6: Crear servicio de consulta de transacciones en AP_BCS" templateID="TSP/Indiv2ReadOnlyNode" dataFile="8.dat" defectLog="7.def">
           <node name="OSB Back" templateID="PSP2.1" dataFile="9.dat" defectLog="8.def" selected="true">
             <node name="Planning" selected="true"/>
             <node name="Design"/>
@@ -86,6 +97,16 @@
             <node name="Test"/>
             <node name="Postmortem"/>
           </node>
+        </node>
+        <node name="Integracion de estrategia" templateID="PSP2.1" dataFile="54.dat" defectLog="53.def">
+          <node name="Planning" selected="true"/>
+          <node name="Design"/>
+          <node name="Design Review"/>
+          <node name="Code"/>
+          <node name="Code Review"/>
+          <node name="Compile"/>
+          <node name="Test"/>
+          <node name="Postmortem"/>
         </node>
       </node>
       <node name="Reputacion" templateID="TSP/Indiv2ReadOnlyNode" dataFile="15.dat" defectLog="14.def">

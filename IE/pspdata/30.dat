@@ -1,5 +1,6 @@
 #include <TSP/indiv2_empty_dataFile.txt>
 = Data for /Proyecto/Proyecto3_IE/EntregaFinal
+EV_Task_Dependencies="<list><dependency tid='hyegb1b9:14645562' name='/Proyecto3/Conocimiento de Cliente' source='wbs'/></list>
 EV_Task_IDs=="hyegb1b9:14645784
 Time=null
 WBS_Unique_ID="14645784
