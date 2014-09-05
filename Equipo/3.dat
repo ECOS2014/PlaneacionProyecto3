@@ -1,7 +1,7 @@
 #include <TSP/team2_root_dataFile.txt>
 = Data for /Non Project/LAb2
 EV_Task_IDs=="hyzus3lv:root
-EXPORT_FILE/Last_Export_Timestamp=@1409806620691
+EXPORT_FILE/Last_Export_Timestamp=@1409889027887
 Project_Component_Info="<components><comp name='EJB' id='11629982'/><comp name='WAR' id='11629983'/></components>
 Project_ID="hyzus3lv
 Project_Schedule_ID="g0izg5.hyzus3m5
@@ -9,5 +9,5 @@ Project_Schedule_Name="LAb2
 Synchronized_Task_ID_WBS_Order=="hyzus3lv:roothyzus3lv:11629982hyzus3lv:11629984hyzus3lv:11629983hyzus3lv:11629987
 Synchronized_Task_Labels=="label:label:nonehyzus3lv:11629982hyzus3lv:11629983hyzus3lv:11629984hyzus3lv:11629987hyzus3lv:root
 Team_Directory="/Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/ECOS/Componentes/LAB2
-WBS_Last_Sync_Timestamp=@1409803833489
+WBS_Last_Sync_Timestamp=@1409889026237
 _Password_==1.0
