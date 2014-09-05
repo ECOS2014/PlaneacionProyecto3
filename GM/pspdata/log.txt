@@ -1,17 +1,37 @@
-Process Dashboard - logging started at Sun Aug 31 12:10:11 COT 2014
+Process Dashboard - logging started at Thu Sep 04 23:45:47 COT 2014
 Oracle Corporation JRE 1.7.0_17; Windows 7
 Using LocalWorkingDirectory[G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata]
 Created default translation engine.
-ago 31, 2014 12:10:13 PM net.sourceforge.processdash.ProcessDashboard <init>
+sep 04, 2014 11:45:58 PM net.sourceforge.processdash.ProcessDashboard <init>
 INFO: Process Dashboard version 2.0
-ago 31, 2014 12:10:15 PM net.sourceforge.processdash.tool.export.DataImporter importData
+sep 04, 2014 11:46:03 PM net.sourceforge.processdash.tool.export.DataImporter importData
 INFO: importing G:\Documents\GitHub\PlaneacionProyecto3\Equipo\data\hyegb1b9\disseminate\team-data.pdash
-Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\42.dat
+schedule simulation took 279 ms.
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\global.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\8.dat
+schedule simulation took 66 ms.
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\48.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\54.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\52.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\51.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\49.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\55.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\50.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\47.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\23.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\4.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\34.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\15.dat
 Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\0.dat
 Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\global.dat
-ago 31, 2014 12:10:46 PM net.sourceforge.processdash.ProcessDashboard quit
+schedule simulation took 126 ms.
+schedule simulation took 63 ms.
+schedule simulation took 105 ms.
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\48.dat
+sep 04, 2014 11:50:59 PM net.sourceforge.processdash.ProcessDashboard quit
 INFO: Successfully saved all data.
-schedule simulation took 61 ms.
+schedule simulation took 52 ms.
 Completed user-scheduled data export.
 Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\0.dat
 Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\global.dat

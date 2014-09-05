@@ -395,7 +395,7 @@ New Objects/0/Relative Size="Medium
 New Objects/0/Type="I/O
 New Reused LOC To Date==#0.0=DEFAULT
 New Reused LOC==#0.0=DEFAULT
-New_Objects_List=="012345
+New_Objects_List=="0
 New_Objects_Prefix_List To Date==#"/To Date/PSP/All/New Objects/0=DEFAULT
 Normalization %/Defects Injected/PSP0-2 To Date==#1.0=DEFAULT
 Normalization %/Defects Injected/PSP3 To Date==#1.0=DEFAULT
@@ -507,7 +507,7 @@ Reused LOC==#0.0=DEFAULT
 Reused Objects/0/Actual LOC To Date==#0.0=DEFAULT
 Reused Objects/0/LOC To Date==#0.0=DEFAULT
 Reused Objects/0/LOC_Last_Synced_Val=0.0
-Reused_Objects_List=="0123
+Reused_Objects_List=="0
 Reused_Objects_Prefix_List To Date==#"/To Date/PSP/All/Reused Objects/0=DEFAULT
 Size Estimating Error To Date==#-0.5626423690205011=DEFAULT
 Size To Date==#192.0=DEFAULT
