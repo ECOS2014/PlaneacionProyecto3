@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="36" path="/Proyecto/Proyecto3GM/Manteniemiento del sistema" start="@1410101186000" delta="49" interrupt="29" comment="plan de SVN" flag="A" />
-  <time id="37" path="/Proyecto/Proyecto3GM/Manteniemiento del sistema" start="@1410106130000" delta="18" comment="cambio contrasena maquina B. Bloque cambio automatico" flag="A" />
-  <time id="38" path="/Proyecto/Proyecto3GM/Manteniemiento del sistema" start="@1410110974000" delta="22" comment="plan SVN" flag="A" />
-  <time id="39" path="/Proyecto/Proyecto3GM/Manteniemiento del sistema" start="@1410113053827" delta="27" comment="Ejecución del backup máquina C" flag="A" />
+  <time id="40" path="/Proyecto/Proyecto3GM/Manteniemiento del sistema" start="@1410127752000" delta="93" comment="Versionamiento de máquinas A y B" flag="A" />
+  <time id="39" start="@1410113053000" flag="M" />
 </timeLogEntries>

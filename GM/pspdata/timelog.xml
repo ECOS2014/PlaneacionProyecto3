@@ -33,4 +33,8 @@
   <time id="33" path="/Proyecto/Proyecto3GM/Encuestas/Integracion/Postmortem" start="@1409498088000" delta="120" comment="Tiempo de documentaion y postmortem" />
   <time id="34" path="/Proyecto/Proyecto3GM/Encuestas/P3: Implementación módulo de encuestas del AP_CRM/CRM/Postmortem" start="@1409505029929" delta="60" comment="postmortem" />
   <time id="35" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Lanzamiento/Asignar roles y tareas" start="@1409889000000" delta="50" comment="reunión de lanzamiento: asignaciónde roles" />
+  <time id="36" path="/Proyecto/Proyecto3GM/Manteniemiento del sistema" start="@1410101186000" delta="49" interrupt="29" comment="plan de SVN" />
+  <time id="37" path="/Proyecto/Proyecto3GM/Manteniemiento del sistema" start="@1410106130000" delta="18" comment="cambio contrasena maquina B. Bloque cambio automatico" />
+  <time id="38" path="/Proyecto/Proyecto3GM/Manteniemiento del sistema" start="@1410110974000" delta="22" comment="plan SVN" />
+  <time id="39" path="/Proyecto/Proyecto3GM/Manteniemiento del sistema" start="@1410113053827" delta="27" comment="Ejecución del backup máquina C" />
 </timeLogEntries>

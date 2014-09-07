@@ -5,8 +5,8 @@
 <node name="top">
   <node name="Proyecto" selected="true">
     <node name="Proyecto3GM" templateID="TSP/Indiv2Root" dataFile="0.dat" selected="true">
-      <node name="Manteniemiento del sistema" templateID="TSP/Indiv2Task" dataFile="45.dat" defectLog="44.def" selected="true"/>
-      <node name="Encuestas" templateID="TSP/Indiv2ReadOnlyNode" dataFile="1.dat" defectLog="0.def">
+      <node name="Manteniemiento del sistema" templateID="TSP/Indiv2Task" dataFile="45.dat" defectLog="44.def"/>
+      <node name="Encuestas" templateID="TSP/Indiv2ReadOnlyNode" dataFile="1.dat" defectLog="0.def" selected="true">
         <node name="P3: Implementación módulo de encuestas del AP_CRM" templateID="TSP/Indiv2ReadOnlyNode" dataFile="41.dat" defectLog="40.def" selected="true">
           <node name="CRM" templateID="PSP2.1" dataFile="42.dat" defectLog="41.def" selected="true">
             <node name="Planning"/>
@@ -64,6 +64,7 @@
           <node name="Seguimiento(4)" templateID="TSP/Indiv2Task" dataFile="54.dat" defectLog="53.def"/>
         </node>
         <node name="P6: Crear servicio de consulta de transacciones en AP_BCS" templateID="TSP/Indiv2ReadOnlyNode" dataFile="5.dat" defectLog="4.def">
+          <node name="Planning" templateID="TSP/Indiv2Task" dataFile="56.dat" defectLog="55.def"/>
           <node name="Base de datos-Atributos" templateID="PSP2.1" dataFile="6.dat" defectLog="5.def" selected="true">
             <node name="Planning" selected="true"/>
             <node name="Design"/>
