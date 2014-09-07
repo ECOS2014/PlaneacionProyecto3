@@ -1,4 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="31" path="/Project/Proyecto3PC/Encuestas/Integracion/Postmortem" start="@1409501599426" delta="480" flag="A" />
+  <time id="32" path="/Project/Proyecto3PC/Conocimiento de Cliente/Lanzamiento/Asignar roles y tareas" start="@1409888587000" delta="60" flag="A" />
+  <time id="33" path="/Project/Proyecto3PC/Conocimiento de Cliente/Lanzamiento/Plan de desarrollo" start="@1410122609834" delta="20" flag="A" />
+  <time id="34" path="/Project/Proyecto3PC/Conocimiento de Cliente/Lanzamiento/Plan de desarrollo" start="@1410122627895" delta="37" flag="A" />
 </timeLogEntries>

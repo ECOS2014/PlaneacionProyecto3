@@ -1,5 +1,6 @@
 #include <TSP/indiv2_empty_dataFile.txt>
 = Data for /Project/Proyecto3PC/Reputacion
+EV_Task_Dependencies="<list><dependency tid='hyegb1b9:14645562' name='/Proyecto3/Conocimiento de Cliente' source='wbs'/></list>
 EV_Task_IDs=="hyegb1b9:14645564
 Time=null
 WBS_Unique_ID="14645564
