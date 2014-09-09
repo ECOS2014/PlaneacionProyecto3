@@ -1,10 +1,11 @@
 #include <TSP/indiv2_empty_dataFile.txt>
 = Data for /Proyecto/Proyecto3GM/Conocimiento de Cliente/Lanzamiento/Asignar roles y tareas
-Completed=@1409892646534
+Completed=@1410231139919
 EV_Task_IDs=="hyegb1b9:14645792
 Estimated Time=60.0
 Estimated Time_Last_Synced_Val=60.0
+Started=@1410227843191
 TSP /Effective_Phase="Planning
 TSP /Effective_Phase_Last_Synced_Val="Planning
-Time==50.0
+Time==105.0
 WBS_Unique_ID="14645792

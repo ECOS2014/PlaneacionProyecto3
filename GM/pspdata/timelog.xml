@@ -38,4 +38,10 @@
   <time id="38" path="/Proyecto/Proyecto3GM/Manteniemiento del sistema" start="@1410110974000" delta="22" comment="plan SVN" />
   <time id="39" path="/Proyecto/Proyecto3GM/Manteniemiento del sistema" start="@1410113053000" delta="27" comment="Ejecución del backup máquina C" />
   <time id="40" path="/Proyecto/Proyecto3GM/Manteniemiento del sistema" start="@1410127752000" delta="93" comment="Versionamiento de máquinas A y B" />
+  <time id="41" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Lanzamiento/Plan de riesgos" start="@1410134209715" delta="13" comment="plan de riesgos" />
+  <time id="42" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Lanzamiento/Plan de riesgos" start="@1410137543784" delta="157" interrupt="26" comment="plan de riesgos" />
+  <time id="43" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Lanzamiento/Plan de riesgos" start="@1410151300278" delta="28" comment="plan de riesgos" />
+  <time id="45" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./CRM-Atributos/Planning" start="@1410224713000" delta="32" comment="Se hizo una revición de los posibles servicios que se pueden necesitar." />
+  <time id="47" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Lanzamiento/Asignar roles y tareas" start="@1410227843191" delta="55" />
+  <time id="48" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Lanzamiento/Plan de riesgos" start="@1410231139928" delta="3" />
 </timeLogEntries>
