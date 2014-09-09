@@ -53,6 +53,7 @@
           <node name="Seguimiento(4)" templateID="TSP/Indiv2Task" dataFile="53.dat" defectLog="52.def"/>
         </node>
         <node name="P6: Crear servicio de consulta de transacciones en AP_BCS" templateID="TSP/Indiv2ReadOnlyNode" dataFile="8.dat" defectLog="7.def">
+          <node name="Planning" templateID="TSP/Indiv2Task" dataFile="55.dat" defectLog="54.def"/>
           <node name="OSB Back" templateID="PSP2.1" dataFile="9.dat" defectLog="8.def" selected="true">
             <node name="Planning" selected="true"/>
             <node name="Design"/>
