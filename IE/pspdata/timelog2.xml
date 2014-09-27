@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="53" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/Integracion de estrategia/Planning" start="@1411523988000" delta="60" flag="A" />
-  <time id="54" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/Lanzamiento/Asignar roles y tareas" start="@1411524132000" delta="30" flag="A" />
-  <time id="55" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/Integracion de estrategia/Planning" start="@1411610639977" delta="137" flag="A" />
+  <time id="58" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Planning" start="@1411783030762" delta="9" flag="A" />
+  <time id="59" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Planning" start="@1411786041253" delta="61" flag="A" />
+  <time id="60" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/OSB Back/Planning" start="@1411790970152" delta="18" flag="A" />
+  <time id="61" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/OSB Back/Planning" start="@1411792872940" delta="10" flag="A" />
+  <time id="62" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/OSB Back/Planning" start="@1411793976128" delta="4" flag="A" />
 </timeLogEntries>
