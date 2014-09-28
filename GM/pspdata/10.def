@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="Assignment" inj="Before Development" rem="Code" ft="22.9" fd="" desc="No se puede agregar el campo de descuento para un cliente. Pero ya se pudo hacerlo exitosamente con el de clasificación.&#10;&#10;No se pudo establecer un valor por defecto decimal 0,00 por lo que se dejo sin valor por defecto" date="@1411854029714" />
+</defectLog>

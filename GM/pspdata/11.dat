@@ -3,6 +3,11 @@
 Base_Parts/0/Base=0.0
 Base_Parts/0/Deleted=0.0
 Base_Parts/0/Modified=0.0
+Before Development/Defects Injected==1.0
+Code/Completed=@1411855415170
+Code/Defects Removed==1.0
+Code/Started=@1411852955787
+Code/Time==41.0
 EV_Task_IDs=="hyegb1b9:14645724
 Estimated Base LOC_Last_Synced_Val=0.0
 Estimated Deleted LOC_Last_Synced_Val=0.0
@@ -14,5 +19,6 @@ Estimated Time_Last_Synced_Val=90.0
 New Objects/0/LOC=2.0
 New Objects/0/LOC_Last_Synced_Val=2.0
 Reused Objects/0/LOC_Last_Synced_Val=0.0
+Started=@1411852955787
 WBS_Unique_ID="14645724
 Workflow_Source_ID="6849904
