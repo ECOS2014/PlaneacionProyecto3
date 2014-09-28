@@ -1,23 +1,4 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="51" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Planning" start="@1411828739201" delta="5" flag="A" />
-  <time id="52" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./CRM-Atributos/Planning" start="@1411829079259" delta="30" flag="A" />
-  <time id="53" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./CRM-Atributos/Planning" start="@1411832208088" delta="21" flag="A" />
-  <time id="54" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./CRM-Atributos/Planning" start="@1411837025271" delta="7" flag="A" />
-  <time id="55" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Planning" start="@1411838158619" delta="8" flag="A" />
-  <time id="56" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./CRM-Atributos/Planning" start="@1411838879985" delta="14" flag="A" />
-  <time id="57" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./CRM-Atributos/Planning" start="@1411840101264" delta="7" flag="A" />
-  <time id="58" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./CRM-Atributos/Planning" start="@1411842314827" delta="10" flag="A" />
-  <time id="59" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./CRM-Atributos/Design" start="@1411842934017" delta="19" flag="A" />
-  <time id="60" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./CRM-Atributos/Design" start="@1411847348228" delta="11" flag="A" />
-  <time id="61" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Base de datos-Atributos/Code" start="@1411852955787" delta="41" flag="A" />
-  <time id="62" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Code" start="@1411857923804" delta="15" flag="A" />
-  <time id="63" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Code" start="@1411864201921" delta="42" flag="A" />
-  <time id="64" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Code" start="@1411867951627" delta="60" flag="A" />
-  <time id="65" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Design" start="@1411871596555" delta="2" flag="A" />
-  <time id="66" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Code" start="@1411871748967" delta="4" flag="A" />
-  <time id="67" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Test" start="@1411908834414" delta="37" flag="A" />
-  <time id="68" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Test" start="@1411916552545" delta="73" interrupt="7" flag="A" />
-  <time id="69" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Test" start="@1411922433545" delta="5" flag="A" />
-  <time id="70" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(2)" start="@1411922809614" delta="30" flag="A" />
+  <time id="49" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Lanzamiento/Plan de riesgos" start="@1410296328560" delta="19" flag="A" />
 </timeLogEntries>

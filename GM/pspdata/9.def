@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8' ?>
-<defectLog>
-  <defect num="1" type="Assignment" inj="Code" rem="Test" ft="0.8" fd="" desc="en el metodo de actualizar la clasificacion  se estaba actualizando el descuentoi" count="3" date="@1411912180993" />
-  <defect num="2" type="Assignment" inj="Design" rem="Test" ft="1.1" fd="" desc="Error, metateqiqueta de apertura del response incorrecta. La de cierre esta bien. Metodo consultar descuento" date="@1411912579780" />
-  <defect num="3" type="Checking" inj="Design" rem="Test" ft="29.6" fd="" desc="Aunque se hizo la operacion de crear el campo de descuento para la entidad campaña, este no estaba agregado y por eso no se podia acceder al valor y salia un error" count="4" date="@1411914217777" />
-  <defect num="4" type="Assignment" inj="Code" rem="Test" ft="1.5" fd="" desc="Lllamado a un metodo auxiliar para mostrar la clasificacion cuando no era necesario, provocando una impresión de error. Se debia mostrar la información tal cual de la BD" count="7" date="@1411922456199" />
-</defectLog>
