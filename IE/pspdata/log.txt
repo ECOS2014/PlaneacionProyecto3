@@ -11,3 +11,25 @@ schedule simulation took 102 ms.
 schedule simulation took 113 ms.
 Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\0.dat
 Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\global.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\51.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\49.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\51.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\51.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\51.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\51.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\51.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\51.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\51.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\51.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\51.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\51.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\51.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\51.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\51.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\51.dat
+28/09/2014 12:16:51 PM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+schedule simulation took 110 ms.
+Completed user-scheduled data export.
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\0.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\global.dat
