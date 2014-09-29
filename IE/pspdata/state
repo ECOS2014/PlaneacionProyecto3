@@ -46,13 +46,13 @@
           <node name="Metas del producto" templateID="TSP/Indiv2Task" dataFile="47.dat" defectLog="46.def"/>
           <node name="PDT" templateID="TSP/Indiv2Task" dataFile="48.dat" defectLog="47.def" selected="true"/>
         </node>
-        <node name="Tarea de Rol" templateID="TSP/Indiv2ReadOnlyNode" dataFile="49.dat" defectLog="48.def">
-          <node name="Seguimiento(1)" templateID="TSP/Indiv2Task" dataFile="50.dat" defectLog="49.def" selected="true"/>
-          <node name="Seguimiento(2)" templateID="TSP/Indiv2Task" dataFile="51.dat" defectLog="50.def"/>
+        <node name="Tarea de Rol" templateID="TSP/Indiv2ReadOnlyNode" dataFile="49.dat" defectLog="48.def" selected="true">
+          <node name="Seguimiento(1)" templateID="TSP/Indiv2Task" dataFile="50.dat" defectLog="49.def"/>
+          <node name="Seguimiento(2)" templateID="TSP/Indiv2Task" dataFile="51.dat" defectLog="50.def" selected="true"/>
           <node name="Seguimiento(3)" templateID="TSP/Indiv2Task" dataFile="52.dat" defectLog="51.def"/>
           <node name="Seguimiento(4)" templateID="TSP/Indiv2Task" dataFile="53.dat" defectLog="52.def"/>
         </node>
-        <node name="P6: Crear servicio de consulta de transacciones en AP_BCS" templateID="TSP/Indiv2ReadOnlyNode" dataFile="8.dat" defectLog="7.def" selected="true">
+        <node name="P6: Crear servicio de consulta de transacciones en AP_BCS" templateID="TSP/Indiv2ReadOnlyNode" dataFile="8.dat" defectLog="7.def">
           <node name="Planning" templateID="TSP/Indiv2Task" dataFile="55.dat" defectLog="54.def"/>
           <node name="OSB Back" templateID="PSP2.1" dataFile="9.dat" defectLog="8.def" selected="true">
             <node name="Planning" selected="true"/>
