@@ -1,19 +1,526 @@
-Process Dashboard - logging started at Mon Sep 08 21:52:19 COT 2014
+Process Dashboard - logging started at Sat Sep 27 10:45:27 COT 2014
 Apple Inc. JRE 1.6.0_65; Mac OS X
 Using LocalWorkingDirectory[/Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata]
-Sep 8, 2014 9:52:20 PM net.sourceforge.processdash.ProcessDashboard <init>
+Sep 27, 2014 10:45:29 AM net.sourceforge.processdash.ProcessDashboard <init>
 INFO: Process Dashboard version 2.0
-Sep 8, 2014 9:52:22 PM net.sourceforge.processdash.tool.export.DataImporter importData
+Sep 27, 2014 10:45:31 AM net.sourceforge.processdash.tool.export.DataImporter importData
 INFO: importing /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/Equipo/data/hyegb1b9/disseminate/team-data.pdash
-schedule simulation took 41 ms.
-schedule simulation took 29 ms.
-schedule simulation took 27 ms.
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/43.dat
+schedule simulation took 36 ms.
+schedule simulation took 22 ms.
+schedule simulation took 20 ms.
+schedule simulation took 22 ms.
+schedule simulation took 19 ms.
 Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/0.dat
 Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/global.dat
-Sep 8, 2014 9:52:47 PM net.sourceforge.processdash.ProcessDashboard quit
-INFO: Successfully saved all data.
+schedule simulation took 28 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/7.dat
+schedule simulation took 21 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 28 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 26 ms.
+schedule simulation took 20 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 33 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 26 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 20 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/global.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/0.dat
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 27 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 27 ms.
+schedule simulation took 26 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 26 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
 schedule simulation took 23 ms.
+schedule simulation took 23 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 19 ms.
+schedule simulation took 21 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 26 ms.
+schedule simulation took 29 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 21 ms.
+schedule simulation took 18 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 18 ms.
+schedule simulation took 24 ms.
+schedule simulation took 26 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 26 ms.
+schedule simulation took 26 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 18 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 26 ms.
+schedule simulation took 27 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 27 ms.
+schedule simulation took 23 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 26 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 29 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 26 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 27 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 20 ms.
+schedule simulation took 24 ms.
+schedule simulation took 20 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 18 ms.
+schedule simulation took 28 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 27 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 20 ms.
+schedule simulation took 18 ms.
+schedule simulation took 22 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 19 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 19 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 21 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 19 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 21 ms.
+schedule simulation took 26 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 26 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 21 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 23 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 26 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 26 ms.
+schedule simulation took 21 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 26 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 33 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 22 ms.
+schedule simulation took 23 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 22 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 20 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 25 ms.
+schedule simulation took 19 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 22 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 30 ms.
+schedule simulation took 21 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 19 ms.
+schedule simulation took 19 ms.
+schedule simulation took 22 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/47.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/45.dat
+schedule simulation took 20 ms.
+schedule simulation took 20 ms.
+schedule simulation took 18 ms.
+schedule simulation took 18 ms.
+schedule simulation took 18 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/47.dat
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/47.dat
+schedule simulation took 26 ms.
+schedule simulation took 19 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/47.dat
+schedule simulation took 26 ms.
+schedule simulation took 26 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/47.dat
+schedule simulation took 25 ms.
+schedule simulation took 26 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/47.dat
+schedule simulation took 25 ms.
+schedule simulation took 75 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/47.dat
+schedule simulation took 25 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/47.dat
+schedule simulation took 26 ms.
+schedule simulation took 22 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/47.dat
+schedule simulation took 24 ms.
+schedule simulation took 26 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/47.dat
+schedule simulation took 28 ms.
+schedule simulation took 26 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/47.dat
+schedule simulation took 24 ms.
+schedule simulation took 26 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/47.dat
+schedule simulation took 24 ms.
+schedule simulation took 29 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/47.dat
+schedule simulation took 25 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/47.dat
+schedule simulation took 23 ms.
+schedule simulation took 19 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/47.dat
+schedule simulation took 22 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/0.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/global.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 26 ms.
+schedule simulation took 18 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 21 ms.
+schedule simulation took 22 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/47.dat
+schedule simulation took 25 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/47.dat
+schedule simulation took 24 ms.
+schedule simulation took 28 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/47.dat
+schedule simulation took 18 ms.
+schedule simulation took 24 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 28 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 19 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 26 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 26 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 33 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 26 ms.
+schedule simulation took 25 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 29 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 35 ms.
+schedule simulation took 30 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 28 ms.
+schedule simulation took 30 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 18 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 27 ms.
+schedule simulation took 24 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 27 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 31 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 18 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 27 ms.
+schedule simulation took 27 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 19 ms.
+schedule simulation took 31 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 26 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 29 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 27 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 27 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 28 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 31 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 26 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 26 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 21 ms.
+schedule simulation took 27 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 21 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 20 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 26 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 27 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 23 ms.
+schedule simulation took 27 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 21 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 26 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 24 ms.
+schedule simulation took 25 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 25 ms.
+schedule simulation took 24 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 20 ms.
+schedule simulation took 21 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/9.dat
+schedule simulation took 20 ms.
+schedule simulation took 20 ms.
+Sep 28, 2014 7:34:36 PM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+schedule simulation took 22 ms.
 Completed user-scheduled data export.
 Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/0.dat
 Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/global.dat
