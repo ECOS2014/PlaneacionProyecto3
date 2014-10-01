@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <defectLog>
-  <defect num="1" type="Syntax" inj="Code" rem="Code" ft="30.1" fd="" desc="" date="@1412053161367" />
+  <defect num="1" type="Syntax" inj="Code" rem="Code" ft="40.1" fd="" desc="Error presentado al realizar el flujo de datos del servicio GestionCliente en bus Back, proxy. al poner la expresion en el bloque de Java Callout,  no se puede copiar de otra ya hecha, sino que se debe seleccionar y arrastrar el body/metodo/atributo situado a mano derecha" date="@1412053161367" />
 </defectLog>
