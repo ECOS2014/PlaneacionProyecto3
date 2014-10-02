@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="51" path="/Project/Proyecto3PC/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/BAM- KPI/Code" start="@1412043655070" delta="44" interrupt="2" flag="A" />
-  <time id="52" path="/Project/Proyecto3PC/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/BAM- KPI/Code" start="@1412050199892" delta="17" flag="A" />
-  <time id="53" path="/Project/Proyecto3PC/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/BAM- KPI/Code Review" start="@1412052377342" delta="20" flag="A" />
-  <time id="54" path="/Project/Proyecto3PC/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/BAM- KPI/Test" start="@1412053287000" delta="60" flag="A" />
+  <time id="57" flag="D" />
+  <time id="58" path="/Project/Proyecto3PC/Conocimiento de Cliente/Integracion de estrategia/Design Review" start="@1412222285393" delta="10" flag="A" />
+  <time id="59" path="/Project/Proyecto3PC/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/BPEL/Design Review" start="@1412222372951" delta="4" flag="A" />
 </timeLogEntries>
