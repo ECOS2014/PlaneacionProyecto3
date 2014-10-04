@@ -51,6 +51,7 @@ Code Review/Defects Injected To Date==#0.0=DEFAULT
 Code Review/Defects Injected per Hour To Date==#0.0=DEFAULT
 Code Review/Defects Removed To Date==#0.0=DEFAULT
 Code Review/Defects Removed per Hour To Date==#0.0=DEFAULT
+Code Review/Defects Removed==1.0
 Code Review/Estimated Appraisal Rate To Date==#11652.568300376075=DEFAULT
 Code Review/Estimated Appraisal Rate==#119.65333333333331=DEFAULT
 Code Review/Estimated DRL To Date==#0.0=DEFAULT
@@ -81,6 +82,7 @@ Code/Defect Density To Date==#5.208333333333333=DEFAULT
 Code/Defect Injection Density To Date==#20.833333333333332=DEFAULT
 Code/Defects Injected To Date==#4.0=DEFAULT
 Code/Defects Injected per Hour To Date==#0.21818181818181817=DEFAULT
+Code/Defects Injected==1.0
 Code/Defects Removed To Date==#1.0=DEFAULT
 Code/Defects Removed per Hour To Date==#0.05454545454545454=DEFAULT
 Code/Estimated Defect Density To Date==#1.403910149750416=DEFAULT
@@ -184,6 +186,7 @@ Design/Defect Density To Date==#0.0=DEFAULT
 Design/Defect Injection Density To Date==#5.208333333333333=DEFAULT
 Design/Defects Injected To Date==#1.0=DEFAULT
 Design/Defects Injected per Hour To Date==#0.15789473684210525=DEFAULT
+Design/Defects Injected==2.0
 Design/Defects Removed To Date==#0.0=DEFAULT
 Design/Defects Removed per Hour To Date==#0.0=DEFAULT
 Design/Estimated Defect Density To Date==#0.0=DEFAULT
@@ -501,6 +504,7 @@ Test/Defects Injected per Hour To Date==#0.0=DEFAULT
 Test/Defects Removed To Date==#4.0=DEFAULT
 Test/Defects Removed per Hour To Date==#0.43636363636363634=DEFAULT
 Test/Defects Removed per KLOC To Date==#20.833333333333332=DEFAULT
+Test/Defects Removed==2.0
 Test/Estimated Defect Density To Date==#5.615640599001664=DEFAULT
 Test/Estimated Defect Density==#20.833333333333336=DEFAULT
 Test/Estimated Defect Injection Density To Date==#0.0=DEFAULT

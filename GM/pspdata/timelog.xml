@@ -41,8 +41,47 @@
   <time id="41" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Lanzamiento/Plan de riesgos" start="@1410134209715" delta="13" comment="plan de riesgos" />
   <time id="42" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Lanzamiento/Plan de riesgos" start="@1410137543784" delta="157" interrupt="26" comment="plan de riesgos" />
   <time id="43" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Lanzamiento/Plan de riesgos" start="@1410151300278" delta="28" comment="plan de riesgos" />
-  <time id="45" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./CRM-Atributos/Planning" start="@1410224713000" delta="32" comment="Se hizo una revición de los posibles servicios que se pueden necesitar." />
+  <time id="45" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./CRM-Atributos/Planning" start="@1410224713000" delta="32" comment="Se hizo una revición de los posibles servicios que se pueden necesitar.s" />
   <time id="47" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Lanzamiento/Asignar roles y tareas" start="@1410227843191" delta="55" />
   <time id="48" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Lanzamiento/Plan de riesgos" start="@1410231139928" delta="3" />
   <time id="49" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Lanzamiento/Plan de riesgos" start="@1410296328560" delta="19" />
+  <time id="50" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(1)" start="@1410697523000" delta="2400" />
+  <time id="51" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(2)" start="@1411302334000" delta="2400" />
+  <time id="52" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(3)" start="@1411907142000" delta="2400" />
+  <time id="53" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Base de datos-Atributos/Planning" start="@1414499276000" delta="30" />
+  <time id="54" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Base de datos-Atributos/Design" start="@1412425727209" delta="10" />
+  <time id="55" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Base de datos-Atributos/Design Review" start="@1412425746672" delta="5" />
+  <time id="56" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Base de datos-Atributos/Code" start="@1412425782096" delta="60" />
+  <time id="57" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Base de datos-Atributos/Code Review" start="@1412425791017" delta="10" />
+  <time id="58" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Base de datos-Atributos/Test" start="@1412425804912" delta="60" />
+  <time id="60" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./CRM-Atributos/Design" start="@1412426181373" delta="30" />
+  <time id="61" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./CRM-Atributos/Design Review" start="@1412426189405" delta="30" />
+  <time id="65" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Planning" start="@1411821543000" delta="60" />
+  <time id="66" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Design" start="@1411821577000" delta="60" />
+  <time id="67" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Design Review" start="@1411821627000" delta="30" />
+  <time id="68" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Code" start="@1411821643000" delta="360" />
+  <time id="69" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Code Review" start="@1412426465651" delta="30" />
+  <time id="70" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Test" start="@1412426476356" delta="210" />
+  <time id="71" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./CRM-Atributos/Code" start="@1411821745000" delta="30" />
+  <time id="72" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./CRM-Atributos/Test" start="@1412426616651" delta="30" />
+  <time id="79" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/BPEL/Planning" start="@1411909111000" delta="60" />
+  <time id="80" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/BPEL/Design" start="@1414501118000" delta="60" />
+  <time id="81" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/BPEL/Design Review" start="@1414501126000" delta="30" />
+  <time id="82" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/BPEL/Code" start="@1414501171000" delta="120" />
+  <time id="83" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/BPEL/Code Review" start="@1414501181000" delta="15" />
+  <time id="84" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/BPEL/Test" start="@1414501190000" delta="110" />
+  <time id="85" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Integracion de estrategia/Test" start="@1412254945000" delta="120" comment="fix de campaña generica con formato de fecha incorrecta y querys para actualizar descuento y clasificacion de clientes ny campañas probando integracion" />
+  <time id="87" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Integracion de estrategia/Test" start="@1411564299000" delta="90" comment="limpieza de bd, campañas y clientes" />
+  <time id="88" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./CRM-Atributos/Planning" start="@1411996361000" delta="15" comment="se agrego campo de nivel de actividad campaña" />
+  <time id="89" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./CRM-Atributos/Design" start="@1412428392710" delta="15" comment="camp de nivel de actividad campaña" />
+  <time id="90" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Planning" start="@1411996449000" delta="10" comment="campo nivel actividad campaña" />
+  <time id="91" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Design" start="@1411996477000" delta="10" comment="campo nivel de actividad campaña" />
+  <time id="92" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Design Review" start="@1412082892000" delta="10" comment="campo nivel de actividad campaña" />
+  <time id="93" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Code" start="@1412082905000" delta="120" comment="Actualizar operaciones. Nivel de actividad campaña" />
+  <time id="95" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Planning" start="@1412256054000" delta="30" comment="correcion a mostrar y actualizar clasificacion cliente" />
+  <time id="96" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Design" start="@1412256147000" delta="30" comment="fix ostar y actualizar clasificacion cliente" />
+  <time id="97" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Design Review" start="@1412256177000" delta="10" comment="mostrar y actualizar clasificacion cliente" />
+  <time id="98" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Code" start="@1412256196000" delta="60" comment="Mostrar y actualizar clasificacion cliente" />
+  <time id="99" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Code Review" start="@1412429017649" delta="10" comment="mostar y actualizar clasificacion cliente" />
+  <time id="100" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Test" start="@1412429035000" delta="10" comment="Mostar y actualizar clasificacion cliente" />
 </timeLogEntries>
