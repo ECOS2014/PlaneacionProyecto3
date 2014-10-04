@@ -1,19 +1,530 @@
 #include <psp2.1/dataFile.txt>
 = Data for /Proyecto/Proyecto3GM/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/BPEL
+% Appraisal COQ To Date==#0.1536255632937321=DEFAULT
+% COQ To Date==#0.2888160589922163=DEFAULT
+% Failure COQ To Date==#0.13519049569848424=DEFAULT
+% New Reused To Date==#0.0=DEFAULT
+% Reused To Date==#0.0=DEFAULT
+AFR To Date==#1.1363636363636365=DEFAULT
+Added & Modified Size To Date==#192.0=DEFAULT
+Added LOC To Date==#181.0=DEFAULT
+Added LOC==#NaN=DEFAULT
+Additions LOC To Date==#178.0=DEFAULT
+After Development/Defects Removed To Date==#0.0=DEFAULT
+After Development/Estimated Defects Removed To Date==#NaN=DEFAULT
+After Development/Estimated Defects Removed==#0.0=DEFAULT
+Aggregate Size To Date==#0.192=DEFAULT
+Base Added LOC To Date==#178.0=DEFAULT
+Base Additions LOC To Date==#0.0=DEFAULT
+Base Additions LOC==#0.0=DEFAULT
+Base LOC To Date==#2553.0=DEFAULT
+Base LOC==#0.0=DEFAULT
+Base_Additions_Prefix_List To Date==#"=DEFAULT
+Base_Parts/0/Actual Added To Date==#178.0=DEFAULT
+Base_Parts/0/Actual Base To Date==#2553.0=DEFAULT
+Base_Parts/0/Actual Deleted To Date==#0.0=DEFAULT
+Base_Parts/0/Actual Modified To Date==#11.0=DEFAULT
+Base_Parts/0/Added To Date==#0.0=DEFAULT
+Base_Parts/0/Base To Date==#0.0=DEFAULT
 Base_Parts/0/Base=0.0
+Base_Parts/0/Deleted To Date==#0.0=DEFAULT
 Base_Parts/0/Deleted=0.0
+Base_Parts/0/Modified To Date==#92.0=DEFAULT
 Base_Parts/0/Modified=32.0
+Base_Parts_Prefix_List To Date==#"/To Date/PSP/All/Base_Parts/0=DEFAULT
+Before Development/Defects Injected To Date==#0.0=DEFAULT
+Before Development/Estimated Defects Injected To Date==#NaN=DEFAULT
+Before Development/Estimated Defects Injected==#0.0=DEFAULT
+Bottom_Up_Estimated Time To Date==#NaN=DEFAULT
+CPI To Date==#1.0139287177386318=DEFAULT
+Code Review vs Code/Estimated Time Ratio To Date==#0.003565056799921404=DEFAULT
+Code Review vs Code/Estimated Time Ratio==#0.045454545454545456=DEFAULT
+Code Review vs Code/Time Ratio To Date==#0.05327868852459016=DEFAULT
+Code Review/% Phase Yield To Date==#0.0=DEFAULT
+Code Review/Appraisal Rate To Date==#177.23076923076923=DEFAULT
+Code Review/Completed=@1412429251937
+Code Review/Cumulative Defect Removal % To Date==#0.2=DEFAULT
+Code Review/DRL To Date==#0.0=DEFAULT
+Code Review/Defect Density To Date==#0.0=DEFAULT
+Code Review/Defect Injection Density To Date==#0.0=DEFAULT
+Code Review/Defects Injected To Date==#0.0=DEFAULT
+Code Review/Defects Injected per Hour To Date==#0.0=DEFAULT
+Code Review/Defects Removed To Date==#0.0=DEFAULT
+Code Review/Defects Removed per Hour To Date==#0.0=DEFAULT
+Code Review/Estimated Appraisal Rate To Date==#8829.787161693996=DEFAULT
+Code Review/Estimated Appraisal Rate==#179.48=DEFAULT
+Code Review/Estimated DRL To Date==#0.0=DEFAULT
+Code Review/Estimated DRL==#0.0=DEFAULT
+Code Review/Estimated Defect Density To Date==#0.0=DEFAULT
+Code Review/Estimated Defect Density==#0.0=DEFAULT
+Code Review/Estimated Defect Injection Density To Date==#0.0=DEFAULT
+Code Review/Estimated Defect Injection Density==#0.0=DEFAULT
+Code Review/Estimated Defects Injected To Date==#0.0=DEFAULT
+Code Review/Estimated Defects Injected per Hour To Date==#0.0=DEFAULT
+Code Review/Estimated Defects Injected per Hour==#0.0=DEFAULT
+Code Review/Estimated Defects Injected==#0.0=DEFAULT
+Code Review/Estimated Defects Removed To Date==#0.0=DEFAULT
+Code Review/Estimated Defects Removed per Hour To Date==#0.0=DEFAULT
+Code Review/Estimated Defects Removed per Hour==#0.0=DEFAULT
+Code Review/Estimated Defects Removed==#0.0=DEFAULT
+Code Review/Estimated Time To Date==#4.097494009477218=DEFAULT
+Code Review/Estimated Time==#10.697570759973257=DEFAULT
+Code Review/Time To Date==#65.0=DEFAULT
+Code Review/Time==15.0
+Code/Combined Defects Injected To Date==#4.0=DEFAULT
+Code/Combined Defects Removed To Date==#1.0=DEFAULT
+Code/Combined Estimated Time To Date==#1153.4463654124665=DEFAULT
+Code/Combined Estimated Time==#246.04412747938488=DEFAULT
+Code/Combined Time To Date==#1285.0=DEFAULT
+Code/Completed=@1412429251040
+Code/Cumulative Defect Injection % To Date==#1.0=DEFAULT
+Code/Defect Density To Date==#5.208333333333333=DEFAULT
+Code/Defect Injection Density To Date==#20.833333333333332=DEFAULT
+Code/Defects Injected To Date==#4.0=DEFAULT
+Code/Defects Injected per Hour To Date==#0.19672131147540983=DEFAULT
+Code/Defects Removed To Date==#1.0=DEFAULT
+Code/Defects Removed per Hour To Date==#0.04918032786885246=DEFAULT
+Code/Estimated Defect Density To Date==#1.4165284687672748=DEFAULT
+Code/Estimated Defect Density==#5.208333333333334=DEFAULT
+Code/Estimated Defect Injection Density To Date==#5.666113875069099=DEFAULT
+Code/Estimated Defect Injection Density==#20.833333333333336=DEFAULT
+Code/Estimated Defects Injected To Date==#3.4166666666666665=DEFAULT
+Code/Estimated Defects Injected per Hour To Date==#0.17836185783152178=DEFAULT
+Code/Estimated Defects Injected per Hour==#0.16996212121212123=DEFAULT
+Code/Estimated Defects Injected==#0.6666666666666667=DEFAULT
+Code/Estimated Defects Removed To Date==#0.8541666666666666=DEFAULT
+Code/Estimated Defects Removed per Hour To Date==#0.044590464457880445=DEFAULT
+Code/Estimated Defects Removed per Hour==#0.04249053030303031=DEFAULT
+Code/Estimated Defects Removed==#0.16666666666666669=DEFAULT
+Code/Estimated Time To Date==#1149.3488714029893=DEFAULT
+Code/Estimated Time==#235.34655671941164=DEFAULT
+Code/Time To Date==#1220.0=DEFAULT
+Code/Time==120.0
+Compile/Completed=@1412429252648
+Compile/Cumulative Defect Removal % To Date==#0.2=DEFAULT
+Compile/DRL To Date==#Infinity=DEFAULT
+Compile/Defect Density To Date==#0.0=DEFAULT
+Compile/Defect Injection Density To Date==#0.0=DEFAULT
+Compile/Defects Injected To Date==#0.0=DEFAULT
+Compile/Defects Injected per Hour To Date==#Infinity=DEFAULT
+Compile/Defects Removed To Date==#0.0=DEFAULT
+Compile/Defects Removed per Hour To Date==#Infinity=DEFAULT
+Compile/Estimated DRL To Date==#Infinity=DEFAULT
+Compile/Estimated DRL==#Infinity=DEFAULT
+Compile/Estimated Defect Density To Date==#0.0=DEFAULT
+Compile/Estimated Defect Density==#0.0=DEFAULT
+Compile/Estimated Defect Injection Density To Date==#0.0=DEFAULT
+Compile/Estimated Defect Injection Density==#0.0=DEFAULT
+Compile/Estimated Defects Injected To Date==#0.0=DEFAULT
+Compile/Estimated Defects Injected per Hour To Date==#Infinity=DEFAULT
+Compile/Estimated Defects Injected per Hour==#Infinity=DEFAULT
+Compile/Estimated Defects Injected==#0.0=DEFAULT
+Compile/Estimated Defects Removed To Date==#0.0=DEFAULT
+Compile/Estimated Defects Removed per Hour To Date==#Infinity=DEFAULT
+Compile/Estimated Defects Removed per Hour==#Infinity=DEFAULT
+Compile/Estimated Defects Removed==#0.0=DEFAULT
+Compile/Estimated Time To Date==#0.0=DEFAULT
+Compile/Estimated Time==#0.0=DEFAULT
+Compile/Time To Date==#0.0=DEFAULT
+Completed To Date==#null=DEFAULT
+Defect Density To Date==#26.041666666666668=DEFAULT
+Defect Injection Density To Date==#26.041666666666668=DEFAULT
+Defects Injected To Date==#5.0=DEFAULT
+Defects Injected per Hour To Date==#0.06145022531749283=DEFAULT
+Defects Removed To Date==#5.0=DEFAULT
+Defects Removed per Hour To Date==#0.06145022531749283=DEFAULT
+Defects Removed per KLOC To Date==#26.041666666666668=DEFAULT
+Defects per KLOC To Date==#26.041666666666668=DEFAULT
+Deleted LOC To Date==#0.0=DEFAULT
+Deleted LOC==#0.0=DEFAULT
+Design Review vs Design/Estimated Time Ratio To Date==#1.6468683852167325=DEFAULT
+Design Review vs Design/Estimated Time Ratio==#1.7236842105263157=DEFAULT
+Design Review vs Design/Time Ratio To Date==#1.5568181818181819=DEFAULT
+Design Review/% Phase Yield To Date==#0.0=DEFAULT
+Design Review/Appraisal Rate To Date==#16.817518248175183=DEFAULT
+Design Review/Completed=@1412429250231
+Design Review/Cumulative Defect Removal % To Date==#0.0=DEFAULT
+Design Review/DRL To Date==#0.0=DEFAULT
+Design Review/Defect Density To Date==#0.0=DEFAULT
+Design Review/Defect Injection Density To Date==#0.0=DEFAULT
+Design Review/Defects Injected To Date==#0.0=DEFAULT
+Design Review/Defects Injected per Hour To Date==#0.0=DEFAULT
+Design Review/Defects Removed To Date==#0.0=DEFAULT
+Design Review/Defects Removed per Hour To Date==#0.0=DEFAULT
+Design Review/Estimated Appraisal Rate To Date==#66.76282726564587=DEFAULT
+Design Review/Estimated Appraisal Rate==#13.700763358778625=DEFAULT
+Design Review/Estimated DRL To Date==#0.0=DEFAULT
+Design Review/Estimated DRL==#0.0=DEFAULT
+Design Review/Estimated Defect Density To Date==#0.0=DEFAULT
+Design Review/Estimated Defect Density==#0.0=DEFAULT
+Design Review/Estimated Defect Injection Density To Date==#0.0=DEFAULT
+Design Review/Estimated Defect Injection Density==#0.0=DEFAULT
+Design Review/Estimated Defects Injected To Date==#0.0=DEFAULT
+Design Review/Estimated Defects Injected per Hour To Date==#0.0=DEFAULT
+Design Review/Estimated Defects Injected per Hour==#0.0=DEFAULT
+Design Review/Estimated Defects Injected==#0.0=DEFAULT
+Design Review/Estimated Defects Removed To Date==#0.0=DEFAULT
+Design Review/Estimated Defects Removed per Hour To Date==#0.0=DEFAULT
+Design Review/Estimated Defects Removed per Hour==#0.0=DEFAULT
+Design Review/Estimated Defects Removed==#0.0=DEFAULT
+Design Review/Estimated Time To Date==#541.9183321287703=DEFAULT
+Design Review/Estimated Time==#140.13817695564967=DEFAULT
+Design Review/Time To Date==#685.0=DEFAULT
+Design Review/Time==30.0
+Design vs Code/Estimated Time Ratio To Date==#0.2863011394293905=DEFAULT
+Design vs Code/Estimated Time Ratio==#0.3454545454545455=DEFAULT
+Design vs Code/Time Ratio To Date==#0.36065573770491804=DEFAULT
+Design/Combined Defects Injected To Date==#1.0=DEFAULT
+Design/Combined Defects Removed To Date==#0.0=DEFAULT
+Design/Combined Estimated Time To Date==#870.9782236133301=DEFAULT
+Design/Combined Estimated Time==#221.43971473144643=DEFAULT
+Design/Combined Time To Date==#1125.0=DEFAULT
+Design/Completed=@1412429249448
+Design/Cumulative Defect Injection % To Date==#0.2=DEFAULT
+Design/Defect Density To Date==#0.0=DEFAULT
+Design/Defect Injection Density To Date==#5.208333333333333=DEFAULT
+Design/Defects Injected To Date==#1.0=DEFAULT
+Design/Defects Injected per Hour To Date==#0.13636363636363635=DEFAULT
+Design/Defects Removed To Date==#0.0=DEFAULT
+Design/Defects Removed per Hour To Date==#0.0=DEFAULT
+Design/Estimated Defect Density To Date==#0.0=DEFAULT
+Design/Estimated Defect Density==#0.0=DEFAULT
+Design/Estimated Defect Injection Density To Date==#1.4165284687672748=DEFAULT
+Design/Estimated Defect Injection Density==#5.208333333333334=DEFAULT
+Design/Estimated Defects Injected To Date==#0.8541666666666666=DEFAULT
+Design/Estimated Defects Injected per Hour To Date==#0.1557467237006147=DEFAULT
+Design/Estimated Defects Injected per Hour==#0.12299890350877193=DEFAULT
+Design/Estimated Defects Injected==#0.16666666666666669=DEFAULT
+Design/Estimated Defects Removed To Date==#0.0=DEFAULT
+Design/Estimated Defects Removed per Hour To Date==#0.0=DEFAULT
+Design/Estimated Defects Removed per Hour==#0.0=DEFAULT
+Design/Estimated Defects Removed==#0.0=DEFAULT
+Design/Estimated Time To Date==#329.05989148455984=DEFAULT
+Design/Estimated Time==#81.30153777579676=DEFAULT
+Design/Time To Date==#440.0=DEFAULT
+Design/Time==60.0
+Design/Total Time To Date==#1125.0=DEFAULT
+ESTIMATED Time To Date==#4950.0=DEFAULT
 EV_Task_IDs=="hyegb1b9:14645733
-Estimated Base LOC_Last_Synced_Val=0.0
-Estimated Deleted LOC_Last_Synced_Val=0.0
-Estimated Modified LOC_Last_Synced_Val=32.0
-Estimated New & Changed LOC=32.0
-Estimated New & Changed LOC_Last_Synced_Val=32.0
-Estimated Time=960.0
-Estimated Time_Last_Synced_Val=960.0
+Estimated % Appraisal COQ To Date==#0.13684607171384652=DEFAULT
+Estimated % Appraisal COQ==#0.1571205705371072=DEFAULT
+Estimated % COQ To Date==#0.3006639251280937=DEFAULT
+Estimated % COQ==#0.27969690216180076=DEFAULT
+Estimated % Failure COQ To Date==#0.16381785341424715=DEFAULT
+Estimated % Failure COQ==#0.12257633162469356=DEFAULT
+Estimated % New Reused To Date==#0.0=DEFAULT
+Estimated % New Reused==#0.0=DEFAULT
+Estimated % Reused To Date==#0.0=DEFAULT
+Estimated % Reused==#1.0=DEFAULT
+Estimated AFR To Date==#0.8353550535655175=DEFAULT
+Estimated AFR==#1.281818181818182=DEFAULT
+Estimated Added & Modified Size To Date==#603.0=DEFAULT
+Estimated Added & Modified Size/Beta0 To Date==#null=DEFAULT
+Estimated Added & Modified Size/Beta0==#0.0=DEFAULT
+Estimated Added & Modified Size/Beta1 To Date==#null=DEFAULT
+Estimated Added & Modified Size/Beta1==#0.0=DEFAULT
+Estimated Added & Modified Size/Interval Percent To Date==#null=DEFAULT
+Estimated Added & Modified Size/Interval Percent==#0.0=DEFAULT
+Estimated Added & Modified Size/LPI To Date==#0.0=DEFAULT
+Estimated Added & Modified Size/LPI==#0.0=DEFAULT
+Estimated Added & Modified Size/Probe Method To Date==#null=DEFAULT
+Estimated Added & Modified Size/Probe Method==#"D  =DEFAULT
+Estimated Added & Modified Size/R Squared To Date==#null=DEFAULT
+Estimated Added & Modified Size/R Squared==#0.0=DEFAULT
+Estimated Added & Modified Size/Range To Date==#null=DEFAULT
+Estimated Added & Modified Size/Range==#0.0=DEFAULT
+Estimated Added & Modified Size/UPI To Date==#0.0=DEFAULT
+Estimated Added & Modified Size/UPI==#0.0=DEFAULT
+Estimated Added & Modified Size==#32.0=DEFAULT
+Estimated Added LOC To Date==#543.0=DEFAULT
+Estimated Added LOC==#0.0=DEFAULT
+Estimated Additions LOC To Date==#543.0=DEFAULT
+Estimated Additions LOC==#0.0=DEFAULT
+Estimated Aggregate Size To Date==#0.603=DEFAULT
+Estimated Aggregate Size==#0.032=DEFAULT
+Estimated Base Added LOC To Date==#0.0=DEFAULT
+Estimated Base Added LOC==#0.0=DEFAULT
+Estimated Base Additions LOC To Date==#0.0=DEFAULT
+Estimated Base Additions LOC==#0.0=DEFAULT
+Estimated Base LOC To Date==#0.0=DEFAULT
+Estimated Base LOC==#0.0=DEFAULT
+Estimated Base LOC_Last_Synced_Val==#0.00.0
+Estimated Defect Density To Date==#7.0826423438363735=DEFAULT
+Estimated Defect Density==#26.041666666666668=DEFAULT
+Estimated Defect Injection Density To Date==#7.0826423438363735=DEFAULT
+Estimated Defects Injected To Date==#4.270833333333333=DEFAULT
+Estimated Defects Injected per Hour To Date==#0.06422305764411028=DEFAULT
+Estimated Defects Injected==#0.8333333333333334=DEFAULT
+Estimated Defects Removed To Date==#4.270833333333333=DEFAULT
+Estimated Defects Removed per Hour To Date==#0.06422305764411028=DEFAULT
+Estimated Defects Removed per KLOC To Date==#7.0826423438363735=DEFAULT
+Estimated Defects Removed per KLOC==#26.041666666666668=DEFAULT
+Estimated Defects Removed==#0.8333333333333334=DEFAULT
+Estimated Defects per KLOC To Date==#null=DEFAULT
+Estimated Defects per KLOC==#26.041666666666668=DEFAULT
+Estimated Deleted LOC To Date==#0.0=DEFAULT
+Estimated Deleted LOC==#0.0=DEFAULT
+Estimated Deleted LOC_Last_Synced_Val==#0.00.0
+Estimated LOC per Hour To Date==#9.06766917293233=DEFAULT
+Estimated LOC per Hour==#2.0=DEFAULT
+Estimated Max LOC==#0.0=DEFAULT
+Estimated Max Time==#0.0=DEFAULT
+Estimated Min LOC==#0.0=DEFAULT
+Estimated Min Time==#0.0=DEFAULT
+Estimated Modified LOC To Date==#60.0=DEFAULT
+Estimated Modified LOC==#32.0=DEFAULT
+Estimated Modified LOC_Last_Synced_Val==#32.032.0
+Estimated New & Changed KLOC To Date==#0.603=DEFAULT
+Estimated New & Changed KLOC==#0.032=DEFAULT
+Estimated New & Changed LOC To Date==#603.0=DEFAULT
+Estimated New & Changed LOC/Beta0==#0.0DEFAULT
+Estimated New & Changed LOC/Beta1==#0.0DEFAULT
+Estimated New & Changed LOC/Interval Percent==#0.0DEFAULT
+Estimated New & Changed LOC/LPI To Date==#0.0=DEFAULT
+Estimated New & Changed LOC/LPI==#0.0DEFAULT
+Estimated New & Changed LOC/Probe Method==#"D  DEFAULT
+Estimated New & Changed LOC/R Squared==#0.0DEFAULT
+Estimated New & Changed LOC/Range==#0.0DEFAULT
+Estimated New & Changed LOC/UPI To Date==#0.0=DEFAULT
+Estimated New & Changed LOC/UPI==#0.0DEFAULT
+Estimated New & Changed LOC==#32.032.0
+Estimated New & Changed LOC_Last_Synced_Val==#32.032.0
+Estimated New Objects LOC To Date==#543.0=DEFAULT
+Estimated New Objects LOC==#0.0=DEFAULT
+Estimated New Reused LOC To Date==#0.0=DEFAULT
+Estimated New Reused LOC==#0.0=DEFAULT
+Estimated Object LOC To Date==#603.0=DEFAULT
+Estimated Object LOC==#32.0=DEFAULT
+Estimated PQI To Date==#0.0019138738549074083=DEFAULT
+Estimated PQI==#0.01215675819781392=DEFAULT
+Estimated Productivity To Date==#9.06766917293233=DEFAULT
+Estimated Productivity==#2.0=DEFAULT
+Estimated Proxy Size To Date==#603.0=DEFAULT
+Estimated Proxy Size==#32.0=DEFAULT
+Estimated Quality_Profile_1 To Date==#0.2863011394293905=DEFAULT
+Estimated Quality_Profile_1==#0.3454545454545455=DEFAULT
+Estimated Quality_Profile_2 To Date==#0.007130113599842808=DEFAULT
+Estimated Quality_Profile_2==#0.09090909090909091=DEFAULT
+Estimated Quality_Profile_3 To Date==#1.0=DEFAULT
+Estimated Quality_Profile_3==#1.0=DEFAULT
+Estimated Quality_Profile_4 To Date==#0.9375485877170252=DEFAULT
+Estimated Quality_Profile_4==#0.3870967741935484=DEFAULT
+Estimated Quality_Profile_5 To Date==#3.293736770433465=DEFAULT
+Estimated Quality_Profile_5==#3.4473684210526314=DEFAULT
+Estimated Reused LOC To Date==#0.0=DEFAULT
+Estimated Reused LOC==#128.0=DEFAULT
+Estimated Size To Date==#603.0=DEFAULT
+Estimated Size==#32.0=DEFAULT
+Estimated Time To Date==#3990.0=DEFAULT
+Estimated Time/Beta0==#0.0DEFAULT
+Estimated Time/Beta1==#0.0DEFAULT
+Estimated Time/Interval Percent==#0.0DEFAULT
+Estimated Time/LPI To Date==#0.0=DEFAULT
+Estimated Time/LPI==#0.0DEFAULT
+Estimated Time/Probe Method==#"D  DEFAULT
+Estimated Time/R Squared==#0.0DEFAULT
+Estimated Time/Range==#0.0DEFAULT
+Estimated Time/UPI To Date==#0.0=DEFAULT
+Estimated Time/UPI==#0.0DEFAULT
+Estimated Time==#960.0960.0
+Estimated Time_Last_Synced_Val==#960.0960.0
+Estimated Total LOC To Date==#543.0=DEFAULT
+Estimated Total LOC/Range==#0.0=DEFAULT
+Estimated Total LOC==#128.0=DEFAULT
+Estimated Yield To Date==#0.2=DEFAULT
+Estimated Yield==#0.19999999999999998=DEFAULT
+Estimated_Time_Mismatch To Date==#0.0=DEFAULT
+HLD Review vs HLD/Estimated Time Ratio To Date==#Infinity=DEFAULT
+HLD Review vs HLD/Estimated Time Ratio==#NaN=DEFAULT
+HLD Review vs HLD/Time Ratio To Date==#Infinity=DEFAULT
+HLD Review/Appraisal Rate To Date==#Infinity=DEFAULT
+HLD Review/DRL To Date==#Infinity=DEFAULT
+HLD Review/Defect Density To Date==#0.0=DEFAULT
+HLD Review/Defect Injection Density To Date==#0.0=DEFAULT
+HLD Review/Defects Injected To Date==#0.0=DEFAULT
+HLD Review/Defects Injected per Hour To Date==#Infinity=DEFAULT
+HLD Review/Defects Removed To Date==#0.0=DEFAULT
+HLD Review/Defects Removed per Hour To Date==#Infinity=DEFAULT
+HLD Review/Estimated Appraisal Rate To Date==#Infinity=DEFAULT
+HLD Review/Estimated DRL To Date==#Infinity=DEFAULT
+HLD Review/Estimated Defect Density To Date==#0.0=DEFAULT
+HLD Review/Estimated Defect Injection Density To Date==#0.0=DEFAULT
+HLD Review/Estimated Defects Injected To Date==#0.0=DEFAULT
+HLD Review/Estimated Defects Injected per Hour To Date==#Infinity=DEFAULT
+HLD Review/Estimated Defects Removed To Date==#0.0=DEFAULT
+HLD Review/Estimated Defects Removed per Hour To Date==#Infinity=DEFAULT
+HLD Review/Estimated Time To Date==#0.0=DEFAULT
+HLD Review/Time To Date==#0.0=DEFAULT
+HLD vs Design/Estimated Time Ratio To Date==#0.0=DEFAULT
+HLD vs Design/Estimated Time Ratio==#NaN=DEFAULT
+HLD vs Design/Time Ratio To Date==#0.0=DEFAULT
+HLD/Defect Density To Date==#0.0=DEFAULT
+HLD/Defect Injection Density To Date==#0.0=DEFAULT
+HLD/Defects Injected To Date==#0.0=DEFAULT
+HLD/Defects Injected per Hour To Date==#Infinity=DEFAULT
+HLD/Defects Removed To Date==#0.0=DEFAULT
+HLD/Defects Removed per Hour To Date==#Infinity=DEFAULT
+HLD/Estimated Defect Density To Date==#0.0=DEFAULT
+HLD/Estimated Defect Injection Density To Date==#0.0=DEFAULT
+HLD/Estimated Defects Injected To Date==#0.0=DEFAULT
+HLD/Estimated Defects Injected per Hour To Date==#Infinity=DEFAULT
+HLD/Estimated Defects Removed To Date==#0.0=DEFAULT
+HLD/Estimated Defects Removed per Hour To Date==#Infinity=DEFAULT
+HLD/Estimated Time To Date==#0.0=DEFAULT
+HLD/Time To Date==#0.0=DEFAULT
+In_Postmortem To Date==#1.0=DEFAULT
+LOC per Hour To Date==#2.359688652191725=DEFAULT
+Modified LOC To Date==#11.0=DEFAULT
+Modified LOC==#0.0=DEFAULT
+New & Changed KLOC To Date==#0.192=DEFAULT
+New & Changed LOC To Date==#192.0=DEFAULT
+New & Changed LOC==#NaN=DEFAULT
+New Objects LOC To Date==#0.0=DEFAULT
+New Objects LOC==#0.0=DEFAULT
 New Objects/0/LOC=0.0
 New Objects/0/LOC_Last_Synced_Val=0.0
+New Reused LOC To Date==#0.0=DEFAULT
+New Reused LOC==#0.0=DEFAULT
+New_Objects_Prefix_List To Date==#"/To Date/PSP/All/New Objects/0=DEFAULT
+Normalization %/Defects Injected/PSP0-2 To Date==#1.0=DEFAULT
+Normalization %/Defects Injected/PSP3 To Date==#1.0=DEFAULT
+Normalization %/Defects Injected/PSP3cycle To Date==#1.0=DEFAULT
+Normalization %/Defects Removed/PSP0-2 To Date==#1.0=DEFAULT
+Normalization %/Defects Removed/PSP3 To Date==#1.0=DEFAULT
+Normalization %/Defects Removed/PSP3cycle To Date==#1.0=DEFAULT
+Normalization %/Time/PSP0-2 To Date==#1.0=DEFAULT
+Normalization %/Time/PSP3 To Date==#1.0=DEFAULT
+Normalization %/Time/PSP3cycle To Date==#0.6288406390823433=DEFAULT
+Normalized_Estimated_Defects_Injected To Date==#NaN=DEFAULT
+Normalized_Estimated_Defects_Injected==#0.8333333333333334=DEFAULT
+Normalized_Estimated_Defects_Removed To Date==#NaN=DEFAULT
+Normalized_Estimated_Defects_Removed==#0.8333333333333334=DEFAULT
+Normalized_Estimated_Time To Date==#NaN=DEFAULT
+Normalized_Estimated_Time==#960.0=DEFAULT
+Object LOC To Date==#189.0=DEFAULT
+Object LOC==#0.0=DEFAULT
+PM/Defects Injected To Date==#0.0=DEFAULT
+PM/Defects Removed To Date==#0.0=DEFAULT
+PM/Estimated Time To Date==#428.36318505894457=DEFAULT
+PM/Estimated Time==#147.62647648763092=DEFAULT
+PM/Time To Date==#690.0=DEFAULT
+PQI To Date==#0.014876333971963833=DEFAULT
+PROBE_Input_Mismatch To Date==#0.0=DEFAULT
+PROBE_Size_Output_Mismatch To Date==#0.0=DEFAULT
+PROBE_Time_Output_Mismatch To Date==#0.0=DEFAULT
+PSP3_Cycle_Count To Date==#0.0=DEFAULT
+PSP3_Cycle_Est_Time To Date==#3263.21494471918=DEFAULT
+PSP3_Cycle_Even_Time To Date==#Infinity=DEFAULT
+PSP3_Cycle_Size To Date==#0.0=DEFAULT
+PSP3_Cycle_Time_Ratio To Date==#Infinity=DEFAULT
+Planning/Completed=@1412429247424
+Planning/Defect Density To Date==#0.0=DEFAULT
+Planning/Defect Injection Density To Date==#0.0=DEFAULT
+Planning/Defects Injected To Date==#0.0=DEFAULT
+Planning/Defects Injected per Hour To Date==#0.0=DEFAULT
+Planning/Defects Removed To Date==#0.0=DEFAULT
+Planning/Defects Removed per Hour To Date==#0.0=DEFAULT
+Planning/Estimated Defect Density To Date==#0.0=DEFAULT
+Planning/Estimated Defect Density==#0.0=DEFAULT
+Planning/Estimated Defect Injection Density To Date==#0.0=DEFAULT
+Planning/Estimated Defect Injection Density==#0.0=DEFAULT
+Planning/Estimated Defects Injected To Date==#0.0=DEFAULT
+Planning/Estimated Defects Injected per Hour To Date==#0.0=DEFAULT
+Planning/Estimated Defects Injected per Hour==#0.0=DEFAULT
+Planning/Estimated Defects Injected==#0.0=DEFAULT
+Planning/Estimated Defects Removed To Date==#0.0=DEFAULT
+Planning/Estimated Defects Removed per Hour To Date==#0.0=DEFAULT
+Planning/Estimated Defects Removed per Hour==#0.0=DEFAULT
+Planning/Estimated Defects Removed==#0.0=DEFAULT
+Planning/Estimated Time To Date==#883.5789907924127=DEFAULT
+Planning/Estimated Time==#227.21640294183194=DEFAULT
+Planning/Time To Date==#1122.0=DEFAULT
+Planning/Time==60.0
+Planning_Is_Done To Date==#1.0=DEFAULT
+Postmortem/Completed=@1412429255264
+Postmortem/Defect Density To Date==#0.0=DEFAULT
+Postmortem/Defect Injection Density To Date==#0.0=DEFAULT
+Postmortem/Defects Injected To Date==#0.0=DEFAULT
+Postmortem/Defects Injected per Hour To Date==#0.0=DEFAULT
+Postmortem/Defects Removed To Date==#0.0=DEFAULT
+Postmortem/Defects Removed per Hour To Date==#0.0=DEFAULT
+Postmortem/Estimated Defect Density To Date==#0.0=DEFAULT
+Postmortem/Estimated Defect Density==#0.0=DEFAULT
+Postmortem/Estimated Defect Injection Density To Date==#0.0=DEFAULT
+Postmortem/Estimated Defect Injection Density==#0.0=DEFAULT
+Postmortem/Estimated Defects Injected To Date==#0.0=DEFAULT
+Postmortem/Estimated Defects Injected per Hour To Date==#0.0=DEFAULT
+Postmortem/Estimated Defects Injected per Hour==#0.0=DEFAULT
+Postmortem/Estimated Defects Injected==#0.0=DEFAULT
+Postmortem/Estimated Defects Removed To Date==#0.0=DEFAULT
+Postmortem/Estimated Defects Removed per Hour To Date==#0.0=DEFAULT
+Postmortem/Estimated Defects Removed per Hour==#0.0=DEFAULT
+Postmortem/Estimated Defects Removed==#0.0=DEFAULT
+Postmortem/Estimated Time To Date==#428.36318505894457=DEFAULT
+Postmortem/Estimated Time==#147.62647648763092=DEFAULT
+Postmortem/Time To Date==#690.0=DEFAULT
+Productivity To Date==#2.359688652191725=DEFAULT
+Project_WBS_ID To Date==#null=DEFAULT
+Proxy Size To Date==#189.0=DEFAULT
+Quality_Profile_1 To Date==#0.36065573770491804=DEFAULT
+Quality_Profile_2 To Date==#0.10655737704918032=DEFAULT
+Quality_Profile_3 To Date==#1.0=DEFAULT
+Quality_Profile_4 To Date==#0.38709677419354843=DEFAULT
+Quality_Profile_5 To Date==#3.1136363636363638=DEFAULT
+Reassessment/Defect Density To Date==#0.0=DEFAULT
+Reassessment/Defect Injection Density To Date==#0.0=DEFAULT
+Reassessment/Defects Injected To Date==#0.0=DEFAULT
+Reassessment/Defects Injected per Hour To Date==#Infinity=DEFAULT
+Reassessment/Defects Removed To Date==#0.0=DEFAULT
+Reassessment/Defects Removed per Hour To Date==#Infinity=DEFAULT
+Reassessment/Estimated Defect Density To Date==#0.0=DEFAULT
+Reassessment/Estimated Defect Injection Density To Date==#0.0=DEFAULT
+Reassessment/Estimated Defects Injected To Date==#0.0=DEFAULT
+Reassessment/Estimated Defects Injected per Hour To Date==#Infinity=DEFAULT
+Reassessment/Estimated Defects Removed To Date==#0.0=DEFAULT
+Reassessment/Estimated Defects Removed per Hour To Date==#Infinity=DEFAULT
+Reassessment/Estimated Time To Date==#0.0=DEFAULT
+Reassessment/Time To Date==#0.0=DEFAULT
+Reused LOC To Date==#0.0=DEFAULT
+Reused LOC==#0.0=DEFAULT
+Reused Objects/0/Actual LOC To Date==#0.0=DEFAULT
+Reused Objects/0/LOC To Date==#128.0=DEFAULT
 Reused Objects/0/LOC=128.0
 Reused Objects/0/LOC_Last_Synced_Val=128.0
+Reused_Objects_Prefix_List To Date==#"/To Date/PSP/All/Reused Objects/0=DEFAULT
+Size Estimating Error To Date==#-0.6976377952755906=DEFAULT
+Size To Date==#192.0=DEFAULT
+Test/Completed=@1412429253320
+Test/Cumulative Defect Removal % To Date==#1.0=DEFAULT
+Test/Defect Density To Date==#20.833333333333332=DEFAULT
+Test/Defect Injection Density To Date==#0.0=DEFAULT
+Test/Defects Injected To Date==#0.0=DEFAULT
+Test/Defects Injected per Hour To Date==#0.0=DEFAULT
+Test/Defects Removed To Date==#4.0=DEFAULT
+Test/Defects Removed per Hour To Date==#0.36363636363636365=DEFAULT
+Test/Defects Removed per KLOC To Date==#20.833333333333332=DEFAULT
+Test/Estimated Defect Density To Date==#5.666113875069099=DEFAULT
+Test/Estimated Defect Density==#20.833333333333336=DEFAULT
+Test/Estimated Defect Injection Density To Date==#0.0=DEFAULT
+Test/Estimated Defect Injection Density==#0.0=DEFAULT
+Test/Estimated Defects Injected To Date==#0.0=DEFAULT
+Test/Estimated Defects Injected per Hour To Date==#0.0=DEFAULT
+Test/Estimated Defects Injected per Hour==#0.0=DEFAULT
+Test/Estimated Defects Injected==#0.0=DEFAULT
+Test/Estimated Defects Removed To Date==#3.4166666666666665=DEFAULT
+Test/Estimated Defects Removed per Hour To Date==#0.31363154286588807=DEFAULT
+Test/Estimated Defects Removed per Hour==#0.33992424242424246=DEFAULT
+Test/Estimated Defects Removed per KLOC To Date==#5.666113875069099=DEFAULT
+Test/Estimated Defects Removed per KLOC==#20.833333333333336=DEFAULT
+Test/Estimated Defects Removed==#0.6666666666666667=DEFAULT
+Test/Estimated Time To Date==#653.6332351228461=DEFAULT
+Test/Estimated Time==#117.67327835970582=DEFAULT
+Test/Time To Date==#660.0=DEFAULT
+Test/Time==110.0
+Time Estimating Error To Date==#-0.013737373737373737=DEFAULT
+Time To Date==#4882.0=DEFAULT
+Total LOC To Date==#2734.0=DEFAULT
+Total LOC==#?NaNDEFAULT
 WBS_Unique_ID="14645733
 Workflow_Source_ID="6849898
+Yield To Date==#0.2=DEFAULT

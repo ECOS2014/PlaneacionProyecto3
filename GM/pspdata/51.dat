@@ -1,10 +1,11 @@
 #include <TSP/indiv2_empty_dataFile.txt>
 = Data for /Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(1)
+Completed=@1412429149577
 EV_Task_IDs=="hyegb1b9:14645801
 Estimated Time=60.0
 Estimated Time_Last_Synced_Val=60.0
 Started=@1410224713069
 TSP /Effective_Phase="Documentation
 TSP /Effective_Phase_Last_Synced_Val="Documentation
-Time==0.0
+Time==2400.0
 WBS_Unique_ID="14645801
