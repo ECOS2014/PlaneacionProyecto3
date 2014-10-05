@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <defectLog>
   <defect num="1" type="Syntax" inj="Code" rem="Code" ft="40.1" fd="" desc="Error presentado al realizar el flujo de datos del servicio GestionCliente en bus Back, proxy. al poner la expresion en el bloque de Java Callout,  no se puede copiar de otra ya hecha, sino que se debe seleccionar y arrastrar el body/metodo/atributo situado a mano derecha" date="@1412053161367" />
+  <defect num="2" type="Syntax" inj="Planning" rem="Code Review" ft="3.5" fd="" desc="el metodo llamado en crm, le faltaba la palabra response en el nombre de la etiqueta" date="@1412466941241" />
 </defectLog>

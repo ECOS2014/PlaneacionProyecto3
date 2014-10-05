@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="Syntax" inj="Code" rem="Test" ft="1.4" fd="" desc="no retornaba  la lista de clientes, solo 1. solucion, poner multiplicidad en el xsd" date="@1412139600000" />
+</defectLog>
