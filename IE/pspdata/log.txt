@@ -1,24 +1,60 @@
-Process Dashboard - logging started at Wed Oct 01 02:09:35 COT 2014
+Process Dashboard - logging started at Sat Oct 04 23:56:00 COT 2014
 Sun Microsystems Inc. JRE 1.6.0_18; Windows NT (unknown)
 Using LocalWorkingDirectory[C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata]
 Created default translation engine.
-1/10/2014 02:09:37 AM net.sourceforge.processdash.ProcessDashboard <init>
+4/10/2014 11:56:02 PM net.sourceforge.processdash.ProcessDashboard <init>
 INFO: Process Dashboard version 2.0
-1/10/2014 02:09:38 AM net.sourceforge.processdash.tool.export.DataImporter importData
+4/10/2014 11:56:03 PM net.sourceforge.processdash.tool.export.DataImporter importData
 INFO: importing C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\Equipo\data\hyegb1b9\disseminate\team-data.pdash
-schedule simulation took 42 ms.
+schedule simulation took 35 ms.
+schedule simulation took 22 ms.
+schedule simulation took 22 ms.
+schedule simulation took 20 ms.
+schedule simulation took 20 ms.
+schedule simulation took 20 ms.
+schedule simulation took 20 ms.
+schedule simulation took 20 ms.
+schedule simulation took 20 ms.
+schedule simulation took 20 ms.
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\11.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\9.dat
 Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\0.dat
 Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\global.dat
-schedule simulation took 23 ms.
-schedule simulation took 24 ms.
 schedule simulation took 20 ms.
-schedule simulation took 26 ms.
+schedule simulation took 20 ms.
+schedule simulation took 20 ms.
+schedule simulation took 20 ms.
+schedule simulation took 20 ms.
+schedule simulation took 20 ms.
+schedule simulation took 20 ms.
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\11.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\11.dat
+schedule simulation took 23 ms.
+schedule simulation took 20 ms.
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\12.dat
+schedule simulation took 20 ms.
+schedule simulation took 20 ms.
+schedule simulation took 20 ms.
+schedule simulation took 20 ms.
+schedule simulation took 23 ms.
 schedule simulation took 22 ms.
+schedule simulation took 19 ms.
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\12.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\14.dat
+schedule simulation took 20 ms.
+schedule simulation took 23 ms.
+schedule simulation took 20 ms.
+schedule simulation took 20 ms.
 schedule simulation took 21 ms.
 schedule simulation took 20 ms.
-1/10/2014 02:13:08 AM net.sourceforge.processdash.ProcessDashboard quit
+schedule simulation took 22 ms.
+schedule simulation took 19 ms.
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\14.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\54.dat
+schedule simulation took 22 ms.
+4/10/2014 11:59:06 PM net.sourceforge.processdash.ProcessDashboard quit
 INFO: Successfully saved all data.
-schedule simulation took 26 ms.
+schedule simulation took 20 ms.
 Completed user-scheduled data export.
 Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\0.dat
 Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\global.dat
