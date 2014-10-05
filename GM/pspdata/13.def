@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="Function" inj="Design Inspect" rem="Int Test" ft="40.1" fd="" desc="Error en la operación de consultar transacciones de cliente por periodo" date="@1412483498652" />
+</defectLog>
