@@ -1,16 +1,17 @@
-Process Dashboard - logging started at Sun Aug 31 08:56:18 COT 2014
+Process Dashboard - logging started at Sun Aug 31 11:33:02 COT 2014
 Oracle Corporation JRE 1.7.0_60-ea; Windows 8.1
 Using LocalWorkingDirectory[C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata]
 Created default translation engine.
-ago 31, 2014 8:56:20 AM net.sourceforge.processdash.ProcessDashboard <init>
+ago 31, 2014 11:33:04 AM net.sourceforge.processdash.ProcessDashboard <init>
 INFORMACIÓN: Process Dashboard version 2.0
-ago 31, 2014 8:56:21 AM net.sourceforge.processdash.tool.export.DataImporter importData
+ago 31, 2014 11:33:05 AM net.sourceforge.processdash.tool.export.DataImporter importData
 INFORMACIÓN: importing C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\Equipo\data\hyegb1b9\disseminate\team-data.pdash
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\30.dat
+schedule simulation took 53 ms.
 Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\0.dat
-ago 31, 2014 8:57:26 AM net.sourceforge.processdash.ProcessDashboard quit
+Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\0.dat
+ago 31, 2014 4:03:40 PM net.sourceforge.processdash.ProcessDashboard quit
 INFORMACIÓN: Successfully saved all data.
-schedule simulation took 136 ms.
+schedule simulation took 90 ms.
 Completed user-scheduled data export.
 Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\0.dat
 Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\global.dat

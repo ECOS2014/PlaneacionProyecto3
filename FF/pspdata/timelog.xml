@@ -32,4 +32,5 @@
   <time id="32" path="/Proyecto/Proyecto3FF/Encuestas/Integracion/Test" start="@1408927499000" delta="75" />
   <time id="33" path="/Proyecto/Proyecto3FF/Encuestas/Integracion/Test" start="@1409013899000" delta="95" interrupt="35" />
   <time id="34" path="/Proyecto/Proyecto3FF/Encuestas/Integracion/Postmortem" start="@1409532345000" delta="15" />
+  <time id="35" path="/Proyecto/Proyecto3FF/Encuestas/Integracion/Postmortem" start="@1409493416316" delta="480" />
 </timeLogEntries>
