@@ -84,5 +84,15 @@
   <time id="98" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Code" start="@1412256196000" delta="60" comment="Mostrar y actualizar clasificacion cliente" />
   <time id="99" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Code Review" start="@1412429017649" delta="10" comment="mostar y actualizar clasificacion cliente" />
   <time id="100" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Test" start="@1412429035000" delta="10" comment="Mostar y actualizar clasificacion cliente" />
-  <time id="101" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(1)" start="@1412429413472" delta="60" comment="Revision de la primera semana de risgos" />
+  <time id="101" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(1)" start="@1413293413000" delta="60" comment="Revision de la primera semana de risgos" />
+  <time id="102" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(4)" start="@1412434466153" delta="4" />
+  <time id="103" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(4)" start="@1412436095476" delta="11" />
+  <time id="104" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(4)" start="@1412437266385" delta="22" interrupt="2" />
+  <time id="105" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(1)" start="@1412438719078" delta="37" />
+  <time id="106" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Integracion de estrategia/Test" start="@1412441926000" delta="40" comment="reunión para brindarle el equipo datos de cuentas activas" />
+  <time id="107" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Integracion de estrategia/Test" start="@1412442007344" delta="2" />
+  <time id="108" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Integracion de estrategia/Design" start="@1412442176446" delta="15" />
+  <time id="109" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Integracion de estrategia/Design" start="@1412449126420" delta="95" />
+  <time id="110" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Base de datos-Atributos/Code" start="@1412456444740" delta="50" />
+  <time id="111" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/Base de datos-Atributos/Code" start="@1412480436000" delta="20" />
 </timeLogEntries>

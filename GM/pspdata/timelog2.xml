@@ -1,14 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="102" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(4)" start="@1412434466153" delta="4" flag="A" />
-  <time id="103" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(4)" start="@1412436095476" delta="11" flag="A" />
-  <time id="104" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(4)" start="@1412437266385" delta="22" interrupt="2" flag="A" />
-  <time id="101" start="@1413293413000" flag="M" />
-  <time id="105" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(1)" start="@1412438719078" delta="37" flag="A" />
-  <time id="106" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Integracion de estrategia/Test" start="@1412441926000" delta="40" comment="reunión para brindarle el equipo datos de cuentas activas" flag="A" />
-  <time id="107" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Integracion de estrategia/Test" start="@1412442007344" delta="2" flag="A" />
-  <time id="108" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Integracion de estrategia/Design" start="@1412442176446" delta="15" flag="A" />
-  <time id="109" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Integracion de estrategia/Design" start="@1412449126420" delta="95" flag="A" />
-  <time id="110" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Base de datos-Atributos/Code" start="@1412456444740" delta="50" flag="A" />
-  <time id="111" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/Base de datos-Atributos/Code" start="@1412480436000" delta="20" flag="A" />
+  <time id="112" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Base de datos-Atributos/Code" start="@1412640820608" delta="5" flag="A" />
+  <time id="113" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Base de datos-Atributos/Planning" start="@1412641133565" delta="7" flag="A" />
+  <time id="114" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(3)" start="@1412641530146" delta="2" flag="A" />
 </timeLogEntries>
