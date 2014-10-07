@@ -1,32 +1,54 @@
-Process Dashboard - logging started at Mon Oct 06 19:09:25 COT 2014
+Process Dashboard - logging started at Mon Oct 06 19:32:05 COT 2014
 Oracle Corporation JRE 1.7.0_17; Windows 7
 Using LocalWorkingDirectory[G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata]
 Created default translation engine.
-oct 06, 2014 7:09:33 PM net.sourceforge.processdash.ProcessDashboard <init>
+oct 06, 2014 7:32:07 PM net.sourceforge.processdash.ProcessDashboard <init>
 INFO: Process Dashboard version 2.0
-oct 06, 2014 7:09:35 PM net.sourceforge.processdash.tool.export.DataImporter importData
+oct 06, 2014 7:32:09 PM net.sourceforge.processdash.tool.export.DataImporter importData
 INFO: importing G:\Documents\GitHub\PlaneacionProyecto3\Equipo\data\hyegb1b9\disseminate\team-data.pdash
-schedule simulation took 229 ms.
+schedule simulation took 69 ms.
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
 Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\0.dat
 Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\global.dat
-schedule simulation took 41 ms.
-Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\11.dat
-Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\11.dat
-schedule simulation took 31 ms.
-Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\11.dat
-Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\7.dat
-Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\11.dat
-schedule simulation took 31 ms.
-Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\11.dat
-Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\11.dat
-Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\11.dat
-schedule simulation took 30 ms.
-Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\11.dat
-schedule simulation took 28 ms.
 Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
-oct 06, 2014 7:27:02 PM net.sourceforge.processdash.ProcessDashboard quit
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\53.dat
+oct 06, 2014 8:47:05 PM net.sourceforge.processdash.ProcessDashboard quit
 INFO: Successfully saved all data.
-schedule simulation took 27 ms.
+schedule simulation took 47 ms.
 Completed user-scheduled data export.
 Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\0.dat
 Saved G:\Documents\GitHub\PlaneacionProyecto3\GM\pspdata\global.dat
