@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="Function" inj="Before Development" rem="Design" ft="14.3" fd="" desc="Se encuentra que al crear la cuenta de facturación el numero de referencia asignado son los 7 primeros caracteres del resultado de la operación System.currentTimeMillis(),  generando así que dos clientes creados el mismo día queden con el mismo número de cuenta" date="@1412444068981" />
+</defectLog>
