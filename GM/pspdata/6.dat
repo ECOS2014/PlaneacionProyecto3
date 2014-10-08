@@ -18,6 +18,7 @@ Code Review/Estimated Defects Removed==#0.0=DEFAULT
 Code Review/Estimated Time==#0.5529953917050692=DEFAULT
 Code Review/Time==10.0
 Code/Combined Estimated Time==#29.86175115207373=DEFAULT
+Code/Defects Injected==1.0
 Code/Estimated Defect Density==#5.208333333333334=DEFAULT
 Code/Estimated Defect Injection Density==#20.833333333333336=DEFAULT
 Code/Estimated Defects Injected per Hour==#0.0852987421383648=DEFAULT
@@ -26,7 +27,7 @@ Code/Estimated Defects Removed per Hour==#0.0213246855345912=DEFAULT
 Code/Estimated Defects Removed==#0.010416666666666668=DEFAULT
 Code/Estimated Time==#29.308755760368662=DEFAULT
 Code/Started=@1412456444740
-Code/Time==110.0
+Code/Time==1558.0
 Compile/Completed=@1412429178776
 Compile/Estimated DRL==#Infinity=DEFAULT
 Compile/Estimated Defect Density==#0.0=DEFAULT
@@ -161,6 +162,7 @@ Postmortem/Estimated Time==#38.15668202764977=DEFAULT
 Reused Objects/0/LOC_Last_Synced_Val=0.0
 Started=@1412456444740
 Test/Completed=@1412429180656
+Test/Defects Removed==1.0
 Test/Estimated Defect Density==#20.833333333333336=DEFAULT
 Test/Estimated Defect Injection Density==#0.0=DEFAULT
 Test/Estimated Defects Injected per Hour==#0.0=DEFAULT
