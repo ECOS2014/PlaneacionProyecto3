@@ -71,6 +71,7 @@ Compile/Estimated Time==#0.0=DEFAULT
 Design Review vs Design/Estimated Time Ratio To Date==#0.9809815210472446=DEFAULT
 Design Review vs Design/Estimated Time Ratio==#1.5226337448559668=DEFAULT
 Design Review/Completed=@1412485091490
+Design Review/Defects Injected==1.0
 Design Review/Estimated Appraisal Rate To Date==#20.30541239930351=DEFAULT
 Design Review/Estimated Appraisal Rate==#0.9959459459459461=DEFAULT
 Design Review/Estimated DRL To Date==#1.139251537251548=DEFAULT
@@ -257,6 +258,7 @@ HLD/Estimated Defects Injected per Hour To Date==#Infinity=DEFAULT
 HLD/Estimated Defects Removed To Date==#0.0=DEFAULT
 HLD/Estimated Defects Removed per Hour To Date==#Infinity=DEFAULT
 HLD/Estimated Time To Date==#0.0=DEFAULT
+Int Test/Defects Removed==1.0
 New Objects/0/LOC=1.0
 New Objects/0/LOC_Last_Synced_Val=1.0
 Normalized_Estimated_Defects_Injected To Date==#NaN=DEFAULT
@@ -305,7 +307,8 @@ Reassessment/Estimated Defects Removed per Hour To Date==#Infinity=DEFAULT
 Reassessment/Estimated Time To Date==#0.0=DEFAULT
 Reused Objects/0/LOC_Last_Synced_Val=0.0
 Started=@1412140563755
-Test/Defects Removed==1.0
+Test/Defects Injected==1.0
+Test/Defects Removed==2.0
 Test/Estimated Defect Density To Date==#3.9755351681957185=DEFAULT
 Test/Estimated Defect Density==#0.0=DEFAULT
 Test/Estimated Defect Injection Density To Date==#0.0=DEFAULT
@@ -322,5 +325,7 @@ Test/Estimated Defects Removed per KLOC==#0.0=DEFAULT
 Test/Estimated Defects Removed==#0.0=DEFAULT
 Test/Estimated Time To Date==#183.465986976967=DEFAULT
 Test/Estimated Time==#11.397557666214384=DEFAULT
+Test/Started=@1412657534640
+Test/Time==37.0
 WBS_Unique_ID="14645722
 Workflow_Source_ID="6849902

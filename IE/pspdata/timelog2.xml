@@ -1,3 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
+  <time id="94" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/OSB Back/Test" start="@1412745625985" delta="9" flag="A" />
+  <time id="95" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/OSB Back/Code" start="@1412746149554" delta="74" flag="A" />
+  <time id="96" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/OSB Back/Test" start="@1412750567769" delta="6" flag="A" />
+  <time id="97" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/OSB Back/Code" start="@1412751095848" delta="10" flag="A" />
 </timeLogEntries>

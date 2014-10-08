@@ -1,4 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <defectLog>
   <defect num="1" type="Syntax" inj="Code" rem="Test" ft="1.4" fd="" desc="no retornaba  la lista de clientes, solo 1. solucion, poner multiplicidad en el xsd" date="@1412139600000" />
+  <defect num="2" type="Checking" inj="Design Review" rem="Test" ft="122.3" fd="" desc="el metodo crear campaña ()ya existente) no retornaba la variable id de respuesta. el inconveniente era que en el .proxy, archivo de flujo, propiedades del java callout, se encontraba chequeada la casilla para no retornar variables. ya se des selecciono, y quedo funcionando correctamente." date="@1412741500428" />
+  <defect num="3" type="Syntax" inj="Test" rem="Int Test" ft="3.0" fd="2" desc="Al cambiar letra en mayuscula en bus, fallo la conexion con el bpel. ce corrigio el inconveniente." date="@1412751519404" />
 </defectLog>
