@@ -2,7 +2,7 @@
 = Data for /Proyecto/Proyecto3FF
 Data_Activity_Timestamp=@1409532345000
 EV_Task_IDs=="hyegb1b9:root
-EXPORT_FILE/Last_Export_Timestamp=@1409493446932
+EXPORT_FILE/Last_Export_Timestamp=@1409519022148
 Indiv_Initials="FF
 Project_ID="hyegb1b9
 Project_Schedule_ID="mc2up5.hyeitaof
@@ -14,4 +14,4 @@ TST_Proyecto3FF==0.0
 Team_Data_Directory_URL="
 Team_Directory="C:\\Users\\felipe\\Documents\\GitHub\\PlaneacionProyecto3\\Equipo
 Team_URL="http://felipe:3000/Project/Proyecto3//TSP/teamIndex.shtm
-WBS_Last_Sync_Timestamp=@1409493446900
+WBS_Last_Sync_Timestamp=@1409519022083

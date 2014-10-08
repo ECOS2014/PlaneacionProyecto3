@@ -101,8 +101,8 @@
           <node name="Planning" templateID="TSP/Indiv2Task" dataFile="50.dat" defectLog="49.def"/>
           <node name="BPEL" templateID="PSP2.1" dataFile="13.dat" defectLog="12.def" selected="true">
             <node name="Planning"/>
-            <node name="Design"/>
-            <node name="Design Review" selected="true"/>
+            <node name="Design" selected="true"/>
+            <node name="Design Review"/>
             <node name="Code"/>
             <node name="Code Review"/>
             <node name="Compile"/>
