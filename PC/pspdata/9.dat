@@ -10,6 +10,7 @@ Before Development/Estimated Defects Injected==#Infinity=DEFAULT
 Bottom_Up_Estimated Time To Date==#NaN=DEFAULT
 Code Review vs Code/Estimated Time Ratio To Date==#0.40839332363669095=DEFAULT
 Code Review vs Code/Estimated Time Ratio==#0.3612903225806452=DEFAULT
+Code Review/Completed=@1412749675913
 Code Review/Estimated Appraisal Rate To Date==#14.80155484147279=DEFAULT
 Code Review/Estimated Appraisal Rate==#8.401785714285714=DEFAULT
 Code Review/Estimated DRL To Date==#8.76505313460349=DEFAULT
@@ -31,6 +32,7 @@ Code Review/Estimated Time==#14.2826780021254=DEFAULT
 Code Review/Time==20.0
 Code/Combined Estimated Time To Date==#468.3106591388341=DEFAULT
 Code/Combined Estimated Time==#53.81509032943677=DEFAULT
+Code/Completed=@1412749675450
 Code/Estimated Defect Density To Date==#0.671641791044776=DEFAULT
 Code/Estimated Defect Density==#Infinity=DEFAULT
 Code/Estimated Defect Injection Density To Date==#5.373134328358207=DEFAULT
@@ -47,6 +49,7 @@ Code/Estimated Time To Date==#332.5141146860758=DEFAULT
 Code/Estimated Time==#39.53241232731137=DEFAULT
 Code/Started=@1411862780675
 Code/Time==280.0
+Compile/Completed=@1412749677158
 Compile/Estimated DRL To Date==#44.083849171258194=DEFAULT
 Compile/Estimated DRL==#Infinity=DEFAULT
 Compile/Estimated Defect Density To Date==#1.343283582089552=DEFAULT
@@ -306,6 +309,7 @@ Reassessment/Estimated Defects Removed per Hour To Date==#Infinity=DEFAULT
 Reassessment/Estimated Time To Date==#0.0=DEFAULT
 Reused Objects/0/LOC_Last_Synced_Val=0.0
 Started=@1411833530408
+Test/Completed=@1412749678799
 Test/Estimated Defect Density To Date==#0.671641791044776=DEFAULT
 Test/Estimated Defect Density==#Infinity=DEFAULT
 Test/Estimated Defect Injection Density To Date==#0.0=DEFAULT
