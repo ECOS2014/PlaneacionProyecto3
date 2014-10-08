@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="Function" inj="Code" rem="Test" ft="37.0" fd="" desc="solucion error de consulta de facturas asociadas a la cuenta del cliente." date="@1412659098122" />
+</defectLog>
