@@ -1,84 +1,110 @@
-Process Dashboard - logging started at Wed Oct 08 22:52:16 COT 2014
+Process Dashboard - logging started at Thu Oct 09 00:03:24 COT 2014
 Oracle Corporation JRE 1.7.0_60-ea; Windows 8.1
 Using LocalWorkingDirectory[C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata]
 Created default translation engine.
-oct 08, 2014 10:52:18 PM net.sourceforge.processdash.ProcessDashboard <init>
+oct 09, 2014 12:03:26 AM net.sourceforge.processdash.ProcessDashboard <init>
 INFORMACIÓN: Process Dashboard version 2.0
-oct 08, 2014 10:52:19 PM net.sourceforge.processdash.tool.export.DataImporter importData
+oct 09, 2014 12:03:28 AM net.sourceforge.processdash.tool.export.DataImporter importData
 INFORMACIÓN: importing C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\Equipo\data\hyegb1b9\disseminate\team-data.pdash
-oct 08, 2014 10:52:21 PM teamdash.templates.setup.HierarchySynchronizer checkForUserInactivity
-INFORMACIÓN: User appears to be finished with work on project '/Proyecto/Proyecto3FF'; marking the project as 'done.'
-schedule simulation took 60 ms.
-oct 08, 2014 10:53:33 PM teamdash.templates.setup.HierarchySynchronizer checkForUserInactivity
-INFORMACIÓN: User appears to be finished with work on project '/Proyecto/Proyecto3FF'; marking the project as 'done.'
-oct 08, 2014 10:53:35 PM teamdash.templates.setup.HierarchySynchronizer checkForUserInactivity
-INFORMACIÓN: User appears to be finished with work on project '/Proyecto/Proyecto3FF'; marking the project as 'done.'
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\global.dat
-schedule simulation took 29 ms.
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\39.dat
+schedule simulation took 53 ms.
+schedule simulation took 34 ms.
+schedule simulation took 31 ms.
+schedule simulation took 31 ms.
+schedule simulation took 25 ms.
 Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\32.dat
+Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\33.dat
+schedule simulation took 24 ms.
+schedule simulation took 28 ms.
+schedule simulation took 21 ms.
+schedule simulation took 29 ms.
+schedule simulation took 21 ms.
+Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\7.dat
+Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\32.dat
+Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\33.dat
+schedule simulation took 22 ms.
+schedule simulation took 21 ms.
+schedule simulation took 20 ms.
+schedule simulation took 19 ms.
+schedule simulation took 20 ms.
+schedule simulation took 32 ms.
+schedule simulation took 22 ms.
+schedule simulation took 42 ms.
+schedule simulation took 35 ms.
+schedule simulation took 22 ms.
+schedule simulation took 62 ms.
+schedule simulation took 34 ms.
+schedule simulation took 19 ms.
+schedule simulation took 38 ms.
+schedule simulation took 26 ms.
+schedule simulation took 30 ms.
+schedule simulation took 19 ms.
+schedule simulation took 21 ms.
+schedule simulation took 19 ms.
+schedule simulation took 19 ms.
+schedule simulation took 28 ms.
+schedule simulation took 29 ms.
+schedule simulation took 19 ms.
+Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\7.dat
 Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\38.dat
 Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\37.dat
 Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\36.dat
 Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\35.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\33.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\40.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\34.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\31.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\16.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\5.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\20.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\13.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\0.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\global.dat
-schedule simulation took 28 ms.
-oct 08, 2014 10:55:33 PM teamdash.templates.setup.HierarchySynchronizer checkForUserInactivity
-INFORMACIÓN: User appears to be finished with work on project '/Proyecto/Proyecto3FF'; marking the project as 'done.'
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\0.dat
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\global.dat
-schedule simulation took 36 ms.
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\7.dat
-schedule simulation took 25 ms.
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\7.dat
-schedule simulation took 39 ms.
-schedule simulation took 37 ms.
-schedule simulation took 32 ms.
-schedule simulation took 32 ms.
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\7.dat
-schedule simulation took 21 ms.
-schedule simulation took 31 ms.
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\7.dat
+schedule simulation took 19 ms.
+schedule simulation took 20 ms.
+Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\8.dat
+schedule simulation took 56 ms.
 schedule simulation took 19 ms.
 schedule simulation took 30 ms.
 schedule simulation took 19 ms.
+schedule simulation took 35 ms.
+schedule simulation took 33 ms.
+schedule simulation took 37 ms.
+schedule simulation took 19 ms.
+schedule simulation took 32 ms.
+schedule simulation took 38 ms.
 schedule simulation took 38 ms.
 schedule simulation took 19 ms.
-schedule simulation took 38 ms.
-schedule simulation took 29 ms.
+schedule simulation took 25 ms.
 Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\8.dat
-schedule simulation took 39 ms.
-schedule simulation took 37 ms.
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\8.dat
-schedule simulation took 32 ms.
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\10.dat
+schedule simulation took 19 ms.
 schedule simulation took 31 ms.
-schedule simulation took 23 ms.
+schedule simulation took 25 ms.
+schedule simulation took 34 ms.
 Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\10.dat
 Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\39.dat
-schedule simulation took 20 ms.
+schedule simulation took 19 ms.
 schedule simulation took 37 ms.
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\10.dat
-schedule simulation took 29 ms.
+schedule simulation took 23 ms.
+schedule simulation took 20 ms.
 schedule simulation took 30 ms.
+schedule simulation took 18 ms.
+schedule simulation took 34 ms.
+schedule simulation took 34 ms.
+schedule simulation took 36 ms.
 Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\10.dat
-schedule simulation took 20 ms.
-schedule simulation took 40 ms.
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\10.dat
-schedule simulation took 41 ms.
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\10.dat
-schedule simulation took 20 ms.
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\10.dat
-oct 08, 2014 11:42:23 PM net.sourceforge.processdash.ProcessDashboard quit
+schedule simulation took 18 ms.
+Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\12.dat
+schedule simulation took 18 ms.
+schedule simulation took 19 ms.
+schedule simulation took 22 ms.
+schedule simulation took 36 ms.
+schedule simulation took 26 ms.
+schedule simulation took 18 ms.
+schedule simulation took 18 ms.
+schedule simulation took 36 ms.
+schedule simulation took 27 ms.
+Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\12.dat
+schedule simulation took 35 ms.
+schedule simulation took 36 ms.
+schedule simulation took 28 ms.
+schedule simulation took 18 ms.
+schedule simulation took 29 ms.
+Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\12.dat
+schedule simulation took 34 ms.
+schedule simulation took 30 ms.
+schedule simulation took 36 ms.
+Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\12.dat
+oct 09, 2014 12:12:46 AM net.sourceforge.processdash.ProcessDashboard quit
 INFORMACIÓN: Successfully saved all data.
 Completed user-scheduled data export.
 Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\global.dat

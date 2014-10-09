@@ -1,37 +1,11 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="36" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/BAM-Entidad/Planning" start="@1412654255000" delta="5" flag="A" />
-  <time id="37" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/BAM-Entidad/Design" start="@1412654326000" delta="18" flag="A" />
-  <time id="38" flag="D" />
-  <time id="39" flag="D" />
-  <time id="40" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/BAM-Entidad/Design Review" start="@1412654634000" delta="5" flag="A" />
-  <time id="41" flag="D" />
-  <time id="42" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/BAM-Entidad/Code" start="@1412827485074" delta="45" flag="A" />
-  <time id="43" flag="D" />
-  <time id="44" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/BAM-Entidad/Code Review" start="@1412654729000" delta="10" flag="A" />
-  <time id="45" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/BAM-Entidad/Test" start="@1412827553169" delta="10" flag="A" />
-  <time id="46" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/BAM-Entidad/Postmortem" start="@1412827564054" delta="13" flag="A" />
-  <time id="47" flag="D" />
-  <time id="48" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Aplicaciones/Planning" start="@1412655029000" delta="10" flag="A" />
-  <time id="49" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Aplicaciones/Design" start="@1412655038000" delta="12" flag="A" />
-  <time id="50" flag="D" />
-  <time id="51" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Aplicaciones/Design Review" start="@1412655053000" delta="3" flag="A" />
-  <time id="52" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Aplicaciones/Code" start="@1412655060000" delta="210" flag="A" />
-  <time id="53" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Aplicaciones/Code Review" start="@1412655073000" delta="10" flag="A" />
-  <time id="54" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Aplicaciones/Compile" start="@1412741483000" delta="30" flag="A" />
-  <time id="55" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Aplicaciones/Test" start="@1412741502000" delta="105" flag="A" />
-  <time id="56" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Aplicaciones/Test" start="@1412827967060" delta="65" flag="A" />
-  <time id="57" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Aplicaciones/Postmortem" start="@1412828000817" delta="35" flag="A" />
-  <time id="58" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Planning" start="@1411964443000" delta="12" flag="A" />
-  <time id="59" flag="D" />
-  <time id="60" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Planning" start="@1411964539000" delta="55" flag="A" />
-  <time id="61" flag="D" />
-  <time id="62" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Design" start="@1411964582000" delta="33" flag="A" />
-  <time id="63" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Design Review" start="@1412051058000" delta="10" flag="A" />
-  <time id="64" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Code" start="@1412051118000" delta="37" flag="A" />
-  <time id="65" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Code" start="@1412051162000" delta="30" flag="A" />
-  <time id="66" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Code Review" start="@1412051214000" delta="9" flag="A" />
-  <time id="67" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Compile" start="@1412828965087" delta="25" flag="A" />
-  <time id="68" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Test" start="@1412051529000" delta="140" flag="A" />
-  <time id="69" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Postmortem" start="@1412138154000" delta="54" flag="A" />
+  <time id="70" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/Lanzamiento/Asignar roles y tareas" start="@1411535203000" delta="60" flag="A" />
+  <time id="71" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/Lanzamiento/Plan de pruebas" start="@1414732011000" delta="120" flag="A" />
+  <time id="72" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/Aplicaciones/Planning" start="@1411276187000" delta="30" flag="A" />
+  <time id="73" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/Aplicaciones/Design" start="@1412831419222" delta="135" flag="A" />
+  <time id="74" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/Aplicaciones/Design Review" start="@1412831440718" delta="45" flag="A" />
+  <time id="75" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/Aplicaciones/Code" start="@1412831488275" delta="360" flag="A" />
+  <time id="76" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/Aplicaciones/Code Review" start="@1412831500690" delta="45" flag="A" />
+  <time id="77" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/Aplicaciones/Compile" start="@1412831513029" delta="30" flag="A" />
 </timeLogEntries>
