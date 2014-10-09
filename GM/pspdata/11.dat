@@ -3,6 +3,7 @@
 Base_Parts/0/Base=0.0
 Base_Parts/0/Deleted=0.0
 Base_Parts/0/Modified=0.0
+Before Development/Defects Injected==1.0
 Code Review/Completed=@1412429228416
 Code Review/Defects Removed==1.0
 Code/Defects Injected==1.0
@@ -29,8 +30,8 @@ Planning/Started=@1412641133565
 Planning/Time==28.0
 Reused Objects/0/LOC_Last_Synced_Val=0.0
 Started=@1412640820608
-Test/Defects Removed==2.0
+Test/Defects Removed==3.0
 Test/Started=@1412747717236
-Test/Time==24.0
+Test/Time==1363.0
 WBS_Unique_ID="14645724
 Workflow_Source_ID="6849904

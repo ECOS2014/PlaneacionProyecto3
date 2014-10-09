@@ -45,7 +45,7 @@
   <time id="47" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Lanzamiento/Asignar roles y tareas" start="@1410227843191" delta="55" />
   <time id="48" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Lanzamiento/Plan de riesgos" start="@1410231139928" delta="3" />
   <time id="49" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Lanzamiento/Plan de riesgos" start="@1410296328560" delta="19" />
-  <time id="50" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(1)" start="@1410697523000" delta="2400" />
+  <time id="50" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(1)" start="@1410697523000" delta="40" />
   <time id="51" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(2)" start="@1411302334000" delta="2400" />
   <time id="52" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(3)" start="@1411907142000" delta="2400" />
   <time id="53" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Base de datos-Atributos/Planning" start="@1414499276000" delta="30" />
@@ -102,4 +102,5 @@
   <time id="116" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Base de datos-Atributos/Code" start="@1412651805929" delta="50" />
   <time id="117" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Base de datos-Atributos/Code" start="@1412656326969" delta="1398" />
   <time id="118" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Base de datos-Atributos/Planning" start="@1412740233880" delta="21" />
+  <time id="119" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Base de datos-Atributos/Test" start="@1412747717236" delta="24" />
 </timeLogEntries>
