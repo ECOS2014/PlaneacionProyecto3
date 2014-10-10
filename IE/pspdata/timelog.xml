@@ -93,4 +93,16 @@
   <time id="91" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/OSB Back/Test" start="@1412484923695" delta="60" />
   <time id="92" path="/Proyecto/Proyecto3_IE/Manteniemiento del sistema" start="@1412653721455" delta="34" />
   <time id="93" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./OSB Back/Test" start="@1412657534640" delta="37" />
+  <time id="94" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/OSB Back/Test" start="@1412745625985" delta="9" />
+  <time id="95" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/OSB Back/Code" start="@1412746149554" delta="74" />
+  <time id="96" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/OSB Back/Test" start="@1412750567769" delta="6" />
+  <time id="97" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/OSB Back/Code" start="@1412751095848" delta="10" />
+  <time id="98" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/OSB Back/Code" start="@1407677624000" delta="15" />
+  <time id="99" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/OSB Back/Code Review" start="@1412782458000" delta="10" />
+  <time id="100" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/OSB Back/Test" start="@1412786074000" delta="15" />
+  <time id="101" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/Integracion de estrategia/Design" start="@1412922977993" delta="30" />
+  <time id="102" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/Integracion de estrategia/Code" start="@1412922991345" delta="30" />
+  <time id="103" path="/Proyecto/Proyecto3_IE/Manteniemiento del sistema" start="@1412923191355" delta="15" />
+  <time id="104" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/Integracion de estrategia/Design" start="@1412924103606" delta="7" />
+  <time id="105" path="/Proyecto/Proyecto3_IE/Manteniemiento del sistema" start="@1412924528488" delta="4" />
 </timeLogEntries>

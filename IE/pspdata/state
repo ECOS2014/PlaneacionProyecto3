@@ -52,14 +52,14 @@
           <node name="Seguimiento(3)" templateID="TSP/Indiv2Task" dataFile="52.dat" defectLog="51.def" selected="true"/>
           <node name="Seguimiento(4)" templateID="TSP/Indiv2Task" dataFile="53.dat" defectLog="52.def"/>
         </node>
-        <node name="P6: Crear servicio de consulta de transacciones en AP_BCS" templateID="TSP/Indiv2ReadOnlyNode" dataFile="8.dat" defectLog="7.def" selected="true">
+        <node name="P6: Crear servicio de consulta de transacciones en AP_BCS" templateID="TSP/Indiv2ReadOnlyNode" dataFile="8.dat" defectLog="7.def">
           <node name="Planning" templateID="TSP/Indiv2Task" dataFile="55.dat" defectLog="54.def"/>
           <node name="OSB Back" templateID="PSP2.1" dataFile="9.dat" defectLog="8.def" selected="true">
             <node name="Planning"/>
             <node name="Design"/>
             <node name="Design Review"/>
-            <node name="Code" selected="true"/>
-            <node name="Code Review"/>
+            <node name="Code"/>
+            <node name="Code Review" selected="true"/>
             <node name="Compile"/>
             <node name="Test"/>
             <node name="Postmortem"/>
@@ -99,7 +99,7 @@
             <node name="Postmortem"/>
           </node>
         </node>
-        <node name="Integracion de estrategia" templateID="PSP2.1" dataFile="54.dat" defectLog="53.def">
+        <node name="Integracion de estrategia" templateID="PSP2.1" dataFile="54.dat" defectLog="53.def" selected="true">
           <node name="Planning"/>
           <node name="Design" selected="true"/>
           <node name="Design Review"/>

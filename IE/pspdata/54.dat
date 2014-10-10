@@ -41,6 +41,7 @@ Code/Estimated Defects Removed per Hour==#NaN=DEFAULT
 Code/Estimated Defects Removed==#NaN=DEFAULT
 Code/Estimated Time To Date==#422.15925529845623=DEFAULT
 Code/Estimated Time==#29.579375848032562=DEFAULT
+Code/Time==30.0
 Compile/Estimated DRL To Date==#18.120097479206617=DEFAULT
 Compile/Estimated DRL==#NaN=DEFAULT
 Compile/Estimated Defect Density To Date==#7.951070336391437=DEFAULT
@@ -96,7 +97,7 @@ Design/Estimated Defects Removed==#NaN=DEFAULT
 Design/Estimated Time To Date==#492.48880916208174=DEFAULT
 Design/Estimated Time==#32.971506105834465=DEFAULT
 Design/Started=@1412465190044
-Design/Time==1.0
+Design/Time==38.0
 EV_Task_IDs=="hyegb1b9:14645799
 Estimated % Appraisal COQ To Date==#0.21837995719636488=DEFAULT
 Estimated % Appraisal COQ==#0.23066485753052915=DEFAULT
