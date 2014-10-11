@@ -1,8 +1,8 @@
 #include <TSP/indiv2_root_dataFile.txt>
 = Data for /Project/Proyecto3PC
-Data_Activity_Timestamp=@1412923432638
+Data_Activity_Timestamp=@1413006407215
 EV_Task_IDs=="hyegb1b9:root
-EXPORT_FILE/Last_Export_Timestamp=@1412989116972
+EXPORT_FILE/Last_Export_Timestamp=@1413006560207
 Indiv_Initials="PC
 Project_ID="hyegb1b9
 Project_Schedule_ID="nqvoq4.hyejfkpg
@@ -15,4 +15,4 @@ TST_Proyecto3PC==0.0
 Team_Data_Directory_URL="
 Team_Directory="/Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/Equipo
 Team_URL="http://macbook-pro-de-paula.local:3000/Project/Proyecto3//TSP/teamIndex.shtm
-WBS_Last_Sync_Timestamp=@1412992005194
+WBS_Last_Sync_Timestamp=@1413006560187

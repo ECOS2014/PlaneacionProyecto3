@@ -128,3 +128,11 @@ Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyec
 schedule simulation took 21 ms.
 Completed user-scheduled data export.
 schedule simulation took 22 ms.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/0.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/global.dat
+Oct 11, 2014 12:49:20 AM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+schedule simulation took 19 ms.
+Completed user-scheduled data export.
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/0.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/global.dat
