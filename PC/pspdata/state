@@ -63,7 +63,7 @@
           <node name="Seguimiento(3)" templateID="TSP/Indiv2Task" dataFile="48.dat" defectLog="47.def"/>
           <node name="Seguimiento(4)" templateID="TSP/Indiv2Task" dataFile="49.dat" defectLog="48.def"/>
         </node>
-        <node name="P6: Crear servicio de consulta de transacciones en AP_BCS" templateID="TSP/Indiv2ReadOnlyNode" dataFile="7.dat" defectLog="6.def" selected="true">
+        <node name="P6: Crear servicio de consulta de transacciones en AP_BCS" templateID="TSP/Indiv2ReadOnlyNode" dataFile="7.dat" defectLog="6.def">
           <node name="OSB Front" templateID="PSP2.1" dataFile="8.dat" defectLog="7.def">
             <node name="Planning" selected="true"/>
             <node name="Design"/>
@@ -97,19 +97,19 @@
             <node name="Postmortem"/>
           </node>
         </node>
-        <node name="P8: Integrar el subproceso de confirmar transacción" templateID="TSP/Indiv2ReadOnlyNode" dataFile="12.dat" defectLog="11.def">
+        <node name="P8: Integrar el subproceso de confirmar transacción" templateID="TSP/Indiv2ReadOnlyNode" dataFile="12.dat" defectLog="11.def" selected="true">
           <node name="Planning" templateID="TSP/Indiv2Task" dataFile="50.dat" defectLog="49.def"/>
-          <node name="BPEL" templateID="PSP2.1" dataFile="13.dat" defectLog="12.def">
+          <node name="BPEL" templateID="PSP2.1" dataFile="13.dat" defectLog="12.def" selected="true">
             <node name="Planning"/>
-            <node name="Design" selected="true"/>
+            <node name="Design"/>
             <node name="Design Review"/>
-            <node name="Code"/>
+            <node name="Code" selected="true"/>
             <node name="Code Review"/>
             <node name="Compile"/>
             <node name="Test"/>
             <node name="Postmortem"/>
           </node>
-          <node name="OSB Back" templateID="PSP2.1" dataFile="14.dat" defectLog="13.def" selected="true">
+          <node name="OSB Back" templateID="PSP2.1" dataFile="14.dat" defectLog="13.def">
             <node name="Planning" selected="true"/>
             <node name="Design"/>
             <node name="Design Review"/>

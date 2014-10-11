@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="72" path="/Project/Proyecto3PC/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/BPEL/Design" start="@1412741424444" delta="118" flag="A" />
-  <time id="73" path="/Project/Proyecto3PC/Conocimiento de Cliente/Tarea de Rol/Seguimiento(1)" start="@1411885876000" delta="30" flag="A" />
+  <time id="81" path="/Project/Proyecto3PC/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/BPEL/Test" start="@1412994959296" delta="83" interrupt="2" flag="A" />
+  <time id="82" path="/Project/Proyecto3PC/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/BPEL/Code" start="@1413000098375" delta="15" flag="A" />
+  <time id="83" path="/Project/Proyecto3PC/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/BPEL/Test" start="@1413000973748" delta="89" flag="A" />
 </timeLogEntries>
