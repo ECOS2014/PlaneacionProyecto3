@@ -5,4 +5,5 @@
   <defect num="3" type="Syntax" inj="Code" rem="Code Review" ft="10.0" fd="" desc="Asignacion equivocada a los campos de la bd" date="@1411911346117" />
   <defect num="4" type="Data" inj="Design" rem="Int Test" ft="20.6" fd="" desc="error de formato de descuento" date="@1412740238281" />
   <defect num="5" type="Function" inj="Before Development" rem="Test" ft="60.0" fd="" desc="Se arreglo el problema que hacia que el metodo consultacampañas() retorne solo 20 registros cuando en la bd hay muchos más registros." date="@1412828282241" />
+  <defect num="6" type="Interface" inj="Design" rem="Int Test" ft="26.0" fd="" desc="Se arregla formato de dexcuento para el cliente para que quede xx.xx" date="@1413033282444" />
 </defectLog>

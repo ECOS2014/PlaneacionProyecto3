@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <defectLog>
   <defect num="1" type="Function" inj="Code" rem="Test" ft="37.0" fd="" desc="solucion error de consulta de facturas asociadas a la cuenta del cliente." date="@1412659098122" />
+  <defect num="2" type="Assignment" inj="Code" rem="Sys Test" ft="16.2" fd="" desc="error en la lista de atributos referenciada para los nuevos atributos. medoco colsultarclientesproducto&#10;&#10;" date="@1413035773021" />
 </defectLog>

@@ -18,7 +18,7 @@ Code Review/Estimated Defects Removed==#0.0=DEFAULT
 Code Review/Estimated Time==#0.5529953917050692=DEFAULT
 Code Review/Time==10.0
 Code/Combined Estimated Time==#29.86175115207373=DEFAULT
-Code/Defects Injected==1.0
+Code/Defects Injected==2.0
 Code/Estimated Defect Density==#5.208333333333334=DEFAULT
 Code/Estimated Defect Injection Density==#20.833333333333336=DEFAULT
 Code/Estimated Defects Injected per Hour==#0.0852987421383648=DEFAULT
@@ -161,6 +161,7 @@ Postmortem/Estimated Defects Removed==#0.0=DEFAULT
 Postmortem/Estimated Time==#38.15668202764977=DEFAULT
 Reused Objects/0/LOC_Last_Synced_Val=0.0
 Started=@1412456444740
+Sys Test/Defects Removed==1.0
 Test/Completed=@1412429180656
 Test/Defects Removed==1.0
 Test/Estimated Defect Density==#20.833333333333336=DEFAULT
@@ -171,6 +172,7 @@ Test/Estimated Defects Removed per Hour==#0.15069444444444446=DEFAULT
 Test/Estimated Defects Removed per KLOC==#20.833333333333336=DEFAULT
 Test/Estimated Defects Removed==#0.04166666666666667=DEFAULT
 Test/Estimated Time==#16.589861751152075=DEFAULT
-Test/Time==60.0
+Test/Started=@1412934700744
+Test/Time==173.0
 WBS_Unique_ID="14645710
 Workflow_Source_ID="6849904

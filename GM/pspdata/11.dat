@@ -13,7 +13,7 @@ Compile/Completed=@1412429229112
 Design Review/Completed=@1412429226929
 Design Review/Time==0.0
 Design/Completed=@1412429226192
-Design/Defects Injected==3.0
+Design/Defects Injected==4.0
 Design/Time==0.0
 EV_Task_IDs=="hyegb1b9:14645724
 Estimated Base LOC_Last_Synced_Val=0.0
@@ -23,7 +23,7 @@ Estimated New & Changed LOC=2.0
 Estimated New & Changed LOC_Last_Synced_Val=2.0
 Estimated Time=90.0
 Estimated Time_Last_Synced_Val=90.0
-Int Test/Defects Removed==1.0
+Int Test/Defects Removed==2.0
 New Objects/0/LOC=2.0
 New Objects/0/LOC_Last_Synced_Val=2.0
 Planning/Started=@1412641133565
@@ -32,6 +32,6 @@ Reused Objects/0/LOC_Last_Synced_Val=0.0
 Started=@1412640820608
 Test/Defects Removed==3.0
 Test/Started=@1412747717236
-Test/Time==1363.0
+Test/Time==1389.0
 WBS_Unique_ID="14645724
 Workflow_Source_ID="6849904

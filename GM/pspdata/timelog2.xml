@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="120" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Base de datos-Atributos/Test" start="@1412751704362" delta="1279" flag="A" />
-  <time id="121" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Base de datos-Atributos/Test" start="@1412809200000" delta="60" comment="Coreccion del tamaño de retorno del metodo consultarcampañas()" flag="A" />
+  <time id="126" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Base de datos-Atributos/Test" start="@1413035772397" delta="19" flag="A" />
 </timeLogEntries>
