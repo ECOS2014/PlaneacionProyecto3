@@ -63,16 +63,16 @@
           <node name="Seguimiento(3)" templateID="TSP/Indiv2Task" dataFile="53.dat" defectLog="52.def"/>
           <node name="Seguimiento(4)" templateID="TSP/Indiv2Task" dataFile="54.dat" defectLog="53.def" selected="true"/>
         </node>
-        <node name="P6: Crear servicio de consulta de transacciones en AP_BCS" templateID="TSP/Indiv2ReadOnlyNode" dataFile="5.dat" defectLog="4.def" selected="true">
+        <node name="P6: Crear servicio de consulta de transacciones en AP_BCS" templateID="TSP/Indiv2ReadOnlyNode" dataFile="5.dat" defectLog="4.def">
           <node name="Planning" templateID="TSP/Indiv2Task" dataFile="56.dat" defectLog="55.def"/>
           <node name="Base de datos-Atributos" templateID="PSP2.1" dataFile="6.dat" defectLog="5.def" selected="true">
             <node name="Planning"/>
             <node name="Design"/>
             <node name="Design Review"/>
             <node name="Code"/>
-            <node name="Code Review"/>
+            <node name="Code Review" selected="true"/>
             <node name="Compile"/>
-            <node name="Test" selected="true"/>
+            <node name="Test"/>
             <node name="Postmortem"/>
           </node>
         </node>
@@ -104,11 +104,11 @@
             <node name="Code"/>
             <node name="Code Review"/>
             <node name="Compile"/>
-            <node name="Test" selected="true"/>
-            <node name="Postmortem"/>
+            <node name="Test"/>
+            <node name="Postmortem" selected="true"/>
           </node>
         </node>
-        <node name="P8: Integrar el subproceso de confirmar transacción" templateID="TSP/Indiv2ReadOnlyNode" dataFile="12.dat" defectLog="11.def">
+        <node name="P8: Integrar el subproceso de confirmar transacción" templateID="TSP/Indiv2ReadOnlyNode" dataFile="12.dat" defectLog="11.def" selected="true">
           <node name="BPEL" templateID="PSP2.1" dataFile="13.dat" defectLog="12.def">
             <node name="Planning"/>
             <node name="Design"/>
@@ -123,21 +123,21 @@
             <node name="Planning"/>
             <node name="Design"/>
             <node name="Design Review"/>
-            <node name="Code" selected="true"/>
+            <node name="Code"/>
             <node name="Code Review"/>
             <node name="Compile"/>
             <node name="Test"/>
-            <node name="Postmortem"/>
+            <node name="Postmortem" selected="true"/>
           </node>
         </node>
         <node name="Integracion de estrategia" templateID="PSP2.1" dataFile="55.dat" defectLog="54.def">
           <node name="Planning"/>
-          <node name="Design"/>
+          <node name="Design" selected="true"/>
           <node name="Design Review"/>
           <node name="Code"/>
           <node name="Code Review"/>
           <node name="Compile"/>
-          <node name="Test" selected="true"/>
+          <node name="Test"/>
           <node name="Postmortem"/>
         </node>
       </node>
