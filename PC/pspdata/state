@@ -59,8 +59,8 @@
         </node>
         <node name="Tarea de Rol" templateID="TSP/Indiv2ReadOnlyNode" dataFile="45.dat" defectLog="44.def">
           <node name="Seguimiento(1)" templateID="TSP/Indiv2Task" dataFile="46.dat" defectLog="45.def"/>
-          <node name="Seguimiento(2)" templateID="TSP/Indiv2Task" dataFile="47.dat" defectLog="46.def" selected="true"/>
-          <node name="Seguimiento(3)" templateID="TSP/Indiv2Task" dataFile="48.dat" defectLog="47.def"/>
+          <node name="Seguimiento(2)" templateID="TSP/Indiv2Task" dataFile="47.dat" defectLog="46.def"/>
+          <node name="Seguimiento(3)" templateID="TSP/Indiv2Task" dataFile="48.dat" defectLog="47.def" selected="true"/>
           <node name="Seguimiento(4)" templateID="TSP/Indiv2Task" dataFile="49.dat" defectLog="48.def"/>
         </node>
         <node name="P6: Crear servicio de consulta de transacciones en AP_BCS" templateID="TSP/Indiv2ReadOnlyNode" dataFile="7.dat" defectLog="6.def">
@@ -85,7 +85,7 @@
             <node name="Postmortem" selected="true"/>
           </node>
         </node>
-        <node name="P7: Crear campañas enfocadas a clientes con baja actividad." templateID="TSP/Indiv2ReadOnlyNode" dataFile="10.dat" defectLog="9.def" selected="true">
+        <node name="P7: Crear campañas enfocadas a clientes con baja actividad." templateID="TSP/Indiv2ReadOnlyNode" dataFile="10.dat" defectLog="9.def">
           <node name="OSB Front" templateID="PSP2.1" dataFile="11.dat" defectLog="10.def" selected="true">
             <node name="Planning"/>
             <node name="Design"/>
@@ -120,15 +120,15 @@
             <node name="Postmortem"/>
           </node>
         </node>
-        <node name="Integracion de estrategia" templateID="PSP2.1" dataFile="51.dat" defectLog="50.def">
+        <node name="Integracion de estrategia" templateID="PSP2.1" dataFile="51.dat" defectLog="50.def" selected="true">
           <node name="Planning"/>
           <node name="Design"/>
           <node name="Design Review"/>
-          <node name="Code" selected="true"/>
+          <node name="Code"/>
           <node name="Code Review"/>
           <node name="Compile"/>
           <node name="Test"/>
-          <node name="Postmortem"/>
+          <node name="Postmortem" selected="true"/>
         </node>
       </node>
       <node name="Reputacion" templateID="TSP/Indiv2ReadOnlyNode" dataFile="15.dat" defectLog="14.def">
