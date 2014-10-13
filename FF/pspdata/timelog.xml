@@ -59,4 +59,12 @@
   <time id="67" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Compile" start="@1412828965087" delta="25" />
   <time id="68" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Test" start="@1412051529000" delta="140" />
   <time id="69" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Aplicaciones/Postmortem" start="@1412138154000" delta="54" />
+  <time id="70" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/Lanzamiento/Asignar roles y tareas" start="@1411535203000" delta="60" />
+  <time id="71" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/Lanzamiento/Plan de pruebas" start="@1414732011000" delta="120" />
+  <time id="72" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/Aplicaciones/Planning" start="@1411276187000" delta="30" />
+  <time id="73" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/Aplicaciones/Design" start="@1412831419222" delta="135" />
+  <time id="74" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/Aplicaciones/Design Review" start="@1412831440718" delta="45" />
+  <time id="75" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/Aplicaciones/Code" start="@1412831488275" delta="360" />
+  <time id="76" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/Aplicaciones/Code Review" start="@1412831500690" delta="45" />
+  <time id="77" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/Aplicaciones/Compile" start="@1412831513029" delta="30" />
 </timeLogEntries>

@@ -30,7 +30,7 @@
           <node name="Postmortem" selected="true"/>
         </node>
       </node>
-      <node name="Conocimiento de Cliente" templateID="TSP/Indiv2ReadOnlyNode" dataFile="5.dat" defectLog="4.def" selected="true">
+      <node name="Conocimiento de Cliente" templateID="TSP/Indiv2ReadOnlyNode" dataFile="5.dat" defectLog="4.def">
         <node name="Lanzamiento" templateID="TSP/Indiv2ReadOnlyNode" dataFile="31.dat" defectLog="30.def">
           <node name="Asignar roles y tareas" templateID="TSP/Indiv2Task" dataFile="32.dat" defectLog="31.def"/>
           <node name="Plan de pruebas" templateID="TSP/Indiv2Task" dataFile="33.dat" defectLog="32.def" selected="true"/>
@@ -89,17 +89,17 @@
           </node>
         </node>
         <node name="Integracion de estrategia" templateID="PSP2.1" dataFile="40.dat" defectLog="39.def" selected="true">
-          <node name="Planning" selected="true"/>
+          <node name="Planning"/>
           <node name="Design"/>
           <node name="Design Review"/>
           <node name="Code"/>
           <node name="Code Review"/>
           <node name="Compile"/>
           <node name="Test"/>
-          <node name="Postmortem"/>
+          <node name="Postmortem" selected="true"/>
         </node>
       </node>
-      <node name="Reputacion" templateID="TSP/Indiv2ReadOnlyNode" dataFile="13.dat" defectLog="12.def">
+      <node name="Reputacion" templateID="TSP/Indiv2ReadOnlyNode" dataFile="13.dat" defectLog="12.def" selected="true">
         <node name="P11: Modificación de información de las  cuentas del cliente para que soporten el campo de &quot;Reputación&quot; (CRM)" templateID="TSP/Indiv2ReadOnlyNode" dataFile="14.dat" defectLog="13.def" selected="true">
           <node name="Aplicaciones" templateID="PSP2.1" dataFile="15.dat" defectLog="14.def" selected="true">
             <node name="Planning" selected="true"/>
