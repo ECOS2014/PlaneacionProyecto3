@@ -1,8 +1,3 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="84" path="/Project/Proyecto3PC/Conocimiento de Cliente/Tarea de Rol/Seguimiento(3)" start="@1413130956125" delta="18" flag="A" />
-  <time id="85" path="/Project/Proyecto3PC/Conocimiento de Cliente/Integracion de estrategia/Postmortem" start="@1413160495863" delta="12" flag="A" />
-  <time id="86" path="/Project/Proyecto3PC/Conocimiento de Cliente/Integracion de estrategia/Postmortem" start="@1413162174773" delta="16" interrupt="3" flag="A" />
-  <time id="87" path="/Project/Proyecto3PC/Conocimiento de Cliente/Integracion de estrategia/Postmortem" start="@1413164447597" delta="4" flag="A" />
-  <time id="88" path="/Project/Proyecto3PC/Conocimiento de Cliente/Integracion de estrategia/Postmortem" start="@1413166289571" delta="183" flag="A" />
 </timeLogEntries>
