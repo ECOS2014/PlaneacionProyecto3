@@ -1,281 +1,59 @@
-Process Dashboard - logging started at Sun Oct 12 10:08:46 COT 2014
+Process Dashboard - logging started at Mon Oct 13 20:29:44 COT 2014
 Apple Inc. JRE 1.6.0_65; Mac OS X
 Using LocalWorkingDirectory[/Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo]
-Oct 12, 2014 10:08:48 AM net.sourceforge.processdash.ProcessDashboard <init>
+Oct 13, 2014 8:29:46 PM net.sourceforge.processdash.ProcessDashboard <init>
 INFO: Process Dashboard version 2.0
-Oct 12, 2014 10:08:48 AM com.tuma_solutions.tpidw.client.addon.TpidwAddOnContext createContextImpl
+Oct 13, 2014 8:29:46 PM com.tuma_solutions.tpidw.client.addon.TpidwAddOnContext createContextImpl
 INFO: Creating TPIDW database
-Oct 12, 2014 10:08:51 AM com.tuma_solutions.tpidw.client.addon.TpidwAddOnContext createContextImpl
+Oct 13, 2014 8:29:49 PM com.tuma_solutions.tpidw.client.addon.TpidwAddOnContext createContextImpl
 INFO: TPIDW database created
-Oct 12, 2014 10:08:53 AM net.sourceforge.processdash.tool.export.DataImporter importData
+Oct 13, 2014 8:29:50 PM net.sourceforge.processdash.tool.export.DataImporter importData
 INFO: importing /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/data/hyegb1b9/FF-data.pdash
-Oct 12, 2014 10:08:53 AM net.sourceforge.processdash.tool.export.DataImporter importData
+Oct 13, 2014 8:29:50 PM net.sourceforge.processdash.tool.export.DataImporter importData
 INFO: importing /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/data/hyegb1b9/PC-data.pdash
-Oct 12, 2014 10:08:53 AM net.sourceforge.processdash.tool.export.DataImporter importData
+Oct 13, 2014 8:29:50 PM net.sourceforge.processdash.tool.export.DataImporter importData
 INFO: importing /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/data/hyegb1b9/CR-data.pdash
-Oct 12, 2014 10:08:53 AM net.sourceforge.processdash.tool.export.DataImporter importData
+Oct 13, 2014 8:29:50 PM net.sourceforge.processdash.tool.export.DataImporter importData
 INFO: importing /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/data/hyegb1b9/GM-data.pdash
-Oct 12, 2014 10:08:53 AM net.sourceforge.processdash.tool.export.DataImporter importData
+Oct 13, 2014 8:29:50 PM net.sourceforge.processdash.tool.export.DataImporter importData
 INFO: importing /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/data/hyegb1b9/IE-data.pdash
-Oct 12, 2014 10:08:53 AM net.sourceforge.processdash.tool.export.DataImporter importData
+Oct 13, 2014 8:29:50 PM net.sourceforge.processdash.tool.export.DataImporter importData
 INFO: importing /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/data/hyegb1b9/DA-data.pdash
-Oct 12, 2014 10:08:53 AM net.sourceforge.processdash.tool.export.DataImporter importData
+Oct 13, 2014 8:29:50 PM net.sourceforge.processdash.tool.export.DataImporter importData
 INFO: importing /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/ECOS/Componentes/LAB2/data/hyzus3lv/CR-data.pdash
-Oct 12, 2014 10:08:54 AM com.tuma_solutions.tpidw.client.addon.TpidwAddOnDataLoader$DatasetLoaderThread loadDatasetImpl
-INFO: Refreshed database with project data (took 2197 ms)
-schedule simulation took 85 ms.
-Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/1.dat
-Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/3.dat
-Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/global.dat
-Oct 12, 2014 10:08:59 AM com.tuma_solutions.tpidw.client.addon.TpidwAddOnDataLoader$DatasetLoaderThread loadDatasetImpl
-INFO: Refreshed database with project data (took 151 ms)
-Oct 12, 2014 10:10:59 AM net.sourceforge.processdash.tool.bridge.client.WorkingDirectoryFactory get
-INFO: Using local working directory /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/data/hyegb1b9
-setValueAt(2.0)
-setValueAt(20.0)
-Oct 12, 2014 10:11:13 AM net.sourceforge.processdash.tool.export.DataImporter refreshPrefixWithFeedback
-INFO: checking /Import_hyzus3lv=>/Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/ECOS/Componentes/LAB2/data/hyzus3lv
-Oct 12, 2014 10:11:13 AM net.sourceforge.processdash.tool.export.DataImporter refreshPrefixWithFeedback
-INFO: checking /Imported=>/Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/import
-Oct 12, 2014 10:11:13 AM net.sourceforge.processdash.tool.export.DataImporter refreshPrefixWithFeedback
-INFO: checking /Import_hyegb1b9=>/Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/data/hyegb1b9
-schedule simulation took 71 ms.
-schedule simulation took 61 ms.
-schedule simulation took 77 ms.
-schedule simulation took 72 ms.
-schedule simulation took 68 ms.
-schedule simulation took 71 ms.
-schedule simulation took 87 ms.
-schedule simulation took 62 ms.
-schedule simulation took 76 ms.
-schedule simulation took 62 ms.
-Oct 12, 2014 10:16:48 AM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
-WARNING: Error when archiving report
-java.io.IOException
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at java.lang.Thread.run(Thread.java:695)
-Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
-	... 17 more
-schedule simulation took 69 ms.
-schedule simulation took 72 ms.
-schedule simulation took 59 ms.
-schedule simulation took 71 ms.
-schedule simulation took 71 ms.
-Oct 12, 2014 10:16:52 AM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
-WARNING: Error when archiving report
-java.io.IOException
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at java.lang.Thread.run(Thread.java:695)
-Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
-	... 17 more
-schedule simulation took 73 ms.
-schedule simulation took 75 ms.
-schedule simulation took 104 ms.
-Oct 12, 2014 10:16:56 AM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
-WARNING: Error when archiving report
-java.io.IOException
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at java.lang.Thread.run(Thread.java:695)
-Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
-	... 17 more
-schedule simulation took 86 ms.
-schedule simulation took 65 ms.
-schedule simulation took 90 ms.
-Oct 12, 2014 10:17:01 AM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
-WARNING: Error when archiving report
-java.io.IOException
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at java.lang.Thread.run(Thread.java:695)
-Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
-	... 17 more
+Oct 13, 2014 8:29:51 PM com.tuma_solutions.tpidw.client.addon.TpidwAddOnDataLoader$DatasetLoaderThread loadDatasetImpl
+INFO: Refreshed database with project data (took 1867 ms)
 schedule simulation took 84 ms.
-Oct 12, 2014 10:17:03 AM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
-WARNING: Error when archiving report
-java.io.IOException
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at java.lang.Thread.run(Thread.java:695)
-Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
-	... 17 more
-schedule simulation took 119 ms.
-Oct 12, 2014 10:17:05 AM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
-WARNING: Error when archiving report
-java.io.IOException
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at java.lang.Thread.run(Thread.java:695)
-Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
-	... 17 more
-schedule simulation took 83 ms.
-Oct 12, 2014 10:17:08 AM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
-WARNING: Error when archiving report
-java.io.IOException
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at java.lang.Thread.run(Thread.java:695)
-Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
-	... 17 more
-schedule simulation took 177 ms.
+Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/1.dat
+Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/3.dat
+Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/global.dat
+Oct 13, 2014 8:29:57 PM com.tuma_solutions.tpidw.client.addon.TpidwAddOnDataLoader$DatasetLoaderThread loadDatasetImpl
+INFO: Refreshed database with project data (took 166 ms)
+Oct 13, 2014 8:29:57 PM net.sourceforge.processdash.tool.export.DataImporter refreshPrefixWithFeedback
+INFO: checking /Import_hyzus3lv=>/Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/ECOS/Componentes/LAB2/data/hyzus3lv
+Oct 13, 2014 8:29:57 PM net.sourceforge.processdash.tool.export.DataImporter refreshPrefixWithFeedback
+INFO: checking /Imported=>/Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/import
+Oct 13, 2014 8:29:57 PM net.sourceforge.processdash.tool.export.DataImporter refreshPrefixWithFeedback
+INFO: checking /Import_hyegb1b9=>/Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/data/hyegb1b9
+Oct 13, 2014 8:30:08 PM net.sourceforge.processdash.tool.bridge.client.WorkingDirectoryFactory get
+INFO: Using local working directory /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/data/hyegb1b9
+schedule simulation took 69 ms.
+schedule simulation took 58 ms.
+Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/1.dat
+Oct 13, 2014 8:32:19 PM com.tuma_solutions.tpidw.client.addon.TpidwAddOnDataLoader$DatasetLoaderThread loadDatasetImpl
+INFO: Refreshed database with project data (took 289 ms)
+schedule simulation took 64 ms.
+schedule simulation took 67 ms.
+schedule simulation took 84 ms.
+schedule simulation took 90 ms.
+schedule simulation took 105 ms.
+schedule simulation took 91 ms.
+schedule simulation took 74 ms.
+schedule simulation took 62 ms.
+schedule simulation took 74 ms.
+schedule simulation took 62 ms.
 schedule simulation took 70 ms.
-Oct 12, 2014 10:17:13 AM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
+Oct 13, 2014 8:35:55 PM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
 WARNING: Error when archiving report
 java.io.IOException
 	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
@@ -305,8 +83,191 @@ Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebT
 	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
 	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
 	... 17 more
-schedule simulation took 75 ms.
-Oct 12, 2014 10:17:19 AM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
+schedule simulation took 78 ms.
+Oct 13, 2014 8:35:56 PM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
+WARNING: Error when archiving report
+java.io.IOException
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at java.lang.Thread.run(Thread.java:695)
+Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
+	... 17 more
+schedule simulation took 61 ms.
+schedule simulation took 65 ms.
+schedule simulation took 73 ms.
+Oct 13, 2014 8:36:04 PM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
+WARNING: Error when archiving report
+java.io.IOException
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at java.lang.Thread.run(Thread.java:695)
+Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
+	... 17 more
+Oct 13, 2014 8:36:05 PM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
+WARNING: Error when archiving report
+java.io.IOException
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at java.lang.Thread.run(Thread.java:695)
+Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
+	... 17 more
+Oct 13, 2014 8:36:09 PM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
+WARNING: Error when archiving report
+java.io.IOException
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at java.lang.Thread.run(Thread.java:695)
+Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
+	... 17 more
+Oct 13, 2014 8:36:10 PM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
+WARNING: Error when archiving report
+java.io.IOException
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at java.lang.Thread.run(Thread.java:695)
+Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
+	... 17 more
+Oct 13, 2014 8:36:12 PM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
+WARNING: Error when archiving report
+java.io.IOException
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at java.lang.Thread.run(Thread.java:695)
+Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
+	... 17 more
+Oct 13, 2014 8:36:12 PM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
 WARNING: Error when archiving report
 java.io.IOException
 	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
@@ -337,471 +298,346 @@ Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebT
 	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
 	... 17 more
 schedule simulation took 73 ms.
-Oct 12, 2014 10:17:21 AM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
-WARNING: Error when archiving report
-java.io.IOException
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at java.lang.Thread.run(Thread.java:695)
-Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
-	... 17 more
-Oct 12, 2014 10:17:22 AM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
-WARNING: Error when archiving report
-java.io.IOException
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at java.lang.Thread.run(Thread.java:695)
-Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
-	... 17 more
-Oct 12, 2014 10:17:22 AM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
-WARNING: Error when archiving report
-java.io.IOException
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at java.lang.Thread.run(Thread.java:695)
-Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
-	... 17 more
-Oct 12, 2014 10:17:26 AM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
-WARNING: Error when archiving report
-java.io.IOException
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at java.lang.Thread.run(Thread.java:695)
-Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
-	... 17 more
-schedule simulation took 100 ms.
-schedule simulation took 106 ms.
-schedule simulation took 108 ms.
-Oct 12, 2014 10:18:10 AM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
-WARNING: Error when archiving report
-java.io.IOException
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at java.lang.Thread.run(Thread.java:695)
-Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
-	... 17 more
-schedule simulation took 83 ms.
-Oct 12, 2014 10:18:12 AM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
-WARNING: Error when archiving report
-java.io.IOException
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at java.lang.Thread.run(Thread.java:695)
-Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/analysis/nohref' not found.
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
-	... 17 more
-schedule simulation took 99 ms.
-Oct 12, 2014 10:18:16 AM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
-WARNING: Error when archiving report
-java.io.IOException
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at java.lang.Thread.run(Thread.java:695)
-Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
-	... 17 more
-schedule simulation took 98 ms.
-schedule simulation took 76 ms.
-schedule simulation took 82 ms.
-Oct 12, 2014 10:18:18 AM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
-WARNING: Error when archiving report
-java.io.IOException
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at java.lang.Thread.run(Thread.java:695)
-Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
-	... 17 more
-Oct 12, 2014 10:18:19 AM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
-WARNING: Error when archiving report
-java.io.IOException
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at java.lang.Thread.run(Thread.java:695)
-Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
-	... 17 more
-Oct 12, 2014 10:18:23 AM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
-WARNING: Error when archiving report
-java.io.IOException
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at java.lang.Thread.run(Thread.java:695)
-Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/analysis/nohref' not found.
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
-	... 17 more
-schedule simulation took 82 ms.
-schedule simulation took 77 ms.
-schedule simulation took 61 ms.
-Oct 12, 2014 10:18:32 AM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
-WARNING: Error when archiving report
-java.io.IOException
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at java.lang.Thread.run(Thread.java:695)
-Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
-	... 17 more
-Oct 12, 2014 10:18:42 AM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
-WARNING: Error when archiving report
-java.io.IOException
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at java.lang.Thread.run(Thread.java:695)
-Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
-	... 17 more
-Oct 12, 2014 10:18:45 AM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
-WARNING: Error when archiving report
-java.io.IOException
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at java.lang.Thread.run(Thread.java:695)
-Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
-	... 17 more
-Oct 12, 2014 10:18:54 AM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
-WARNING: Error when archiving report
-java.io.IOException
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
-	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
-	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
-	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at java.lang.Thread.run(Thread.java:695)
-Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/analysis/nohref' not found.
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
-	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
-	... 17 more
-schedule simulation took 117 ms.
+schedule simulation took 66 ms.
 schedule simulation took 63 ms.
-Completed user-scheduled data export.
-schedule simulation took 62 ms.
-Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/1.dat
-Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/3.dat
-Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/global.dat
-Oct 12, 2014 11:09:59 AM com.tuma_solutions.tpidw.client.addon.TpidwAddOnDataLoader$DatasetLoaderThread loadDatasetImpl
-INFO: Refreshed database with project data (took 342 ms)
-Completed user-scheduled data export.
-schedule simulation took 75 ms.
+schedule simulation took 73 ms.
+schedule simulation took 71 ms.
+Oct 13, 2014 8:36:24 PM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
+WARNING: Error when archiving report
+java.io.IOException
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at java.lang.Thread.run(Thread.java:695)
+Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
+	... 17 more
+schedule simulation took 74 ms.
+Oct 13, 2014 8:36:35 PM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
+WARNING: Error when archiving report
+java.io.IOException
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at java.lang.Thread.run(Thread.java:695)
+Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
+	... 17 more
 schedule simulation took 70 ms.
-Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/1.dat
+Oct 13, 2014 8:36:38 PM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
+WARNING: Error when archiving report
+java.io.IOException
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at java.lang.Thread.run(Thread.java:695)
+Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
+	... 17 more
+schedule simulation took 82 ms.
+Oct 13, 2014 8:36:42 PM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
+WARNING: Error when archiving report
+java.io.IOException
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at java.lang.Thread.run(Thread.java:695)
+Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
+	... 17 more
+Oct 13, 2014 8:36:43 PM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
+WARNING: Error when archiving report
+java.io.IOException
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at java.lang.Thread.run(Thread.java:695)
+Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
+	... 17 more
+Oct 13, 2014 8:36:45 PM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
+WARNING: Error when archiving report
+java.io.IOException
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at java.lang.Thread.run(Thread.java:695)
+Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
+	... 17 more
+Oct 13, 2014 8:36:47 PM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
+WARNING: Error when archiving report
+java.io.IOException
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at java.lang.Thread.run(Thread.java:695)
+Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
+	... 17 more
+Oct 13, 2014 8:36:49 PM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
+WARNING: Error when archiving report
+java.io.IOException
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at java.lang.Thread.run(Thread.java:695)
+Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/nohref' not found.
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
+	... 17 more
+Oct 13, 2014 8:36:50 PM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
+WARNING: Error when archiving report
+java.io.IOException
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at java.lang.Thread.run(Thread.java:695)
+Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/analysis/nohref' not found.
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
+	... 17 more
+schedule simulation took 92 ms.
+schedule simulation took 64 ms.
+Oct 13, 2014 8:36:54 PM net.sourceforge.processdash.tool.export.HTMLArchiver writeIfNotHtml
+WARNING: Error when archiving report
+java.io.IOException
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:281)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1613)
+	at net.sourceforge.processdash.net.http.WebServer.getRequest(WebServer.java:1632)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver$RequestResult.<init>(HTMLArchiver.java:647)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.openURI(HTMLArchiver.java:630)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeIfNotHtml(HTMLArchiver.java:207)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.handleHTML(HTMLArchiver.java:263)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.writeItem(HTMLArchiver.java:174)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.run(HTMLArchiver.java:127)
+	at net.sourceforge.processdash.tool.export.HTMLArchiver.archive(HTMLArchiver.java:80)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.writeArchiveContents(MakeArchive.java:196)
+	at net.sourceforge.processdash.ui.web.dash.MakeArchive.service(MakeArchive.java:66)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveCGI(WebServer.java:626)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveLink(WebServer.java:577)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:394)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at java.lang.Thread.run(Thread.java:695)
+Caused by: net.sourceforge.processdash.net.http.WebServer$TinyWebThread$TinyWebThreadException: Not Found: File 'reports/analysis/nohref' not found.
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1203)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.sendError(WebServer.java:1192)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.resolveURL(WebServer.java:463)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.serveRequest(WebServer.java:383)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.handleRequest(WebServer.java:369)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.run(WebServer.java:329)
+	at net.sourceforge.processdash.net.http.WebServer$TinyWebThread.getOutput(WebServer.java:277)
+	... 17 more
+schedule simulation took 66 ms.
+schedule simulation took 64 ms.
+Oct 13, 2014 8:49:50 PM net.sourceforge.processdash.tool.export.DataImporter importData
+INFO: importing /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/data/hyegb1b9/CR-data.pdash
+Oct 13, 2014 8:50:00 PM com.tuma_solutions.tpidw.client.addon.TpidwAddOnDataLoader$DatasetLoaderThread loadDatasetImpl
+INFO: Refreshed database with project data (took 1012 ms)
 Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/3.dat
-Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/global.dat
-Oct 12, 2014 2:29:08 PM com.tuma_solutions.tpidw.client.addon.TpidwAddOnDataLoader$DatasetLoaderThread loadDatasetImpl
-INFO: Refreshed database with project data (took 360 ms)
-Oct 12, 2014 3:28:53 PM net.sourceforge.processdash.tool.bridge.client.WorkingDirectoryFactory get
-INFO: Using local working directory /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/data/hyegb1b9
-setValueAt(2.0)
-setValueAt(20.0)
-Completed user-scheduled data export.
-schedule simulation took 57 ms.
-schedule simulation took 61 ms.
-Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/1.dat
-Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/3.dat
-Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/global.dat
-Oct 12, 2014 3:29:07 PM com.tuma_solutions.tpidw.client.addon.TpidwAddOnDataLoader$DatasetLoaderThread loadDatasetImpl
-INFO: Refreshed database with project data (took 445 ms)
+schedule simulation took 59 ms.
 Completed user-scheduled data export.
 schedule simulation took 58 ms.
-schedule simulation took 64 ms.
 Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/1.dat
 Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/3.dat
 Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/global.dat
-Oct 13, 2014 12:07:23 PM com.tuma_solutions.tpidw.client.addon.TpidwAddOnDataLoader$DatasetLoaderThread loadDatasetImpl
-INFO: Refreshed database with project data (took 2802 ms)
+Oct 13, 2014 10:26:08 PM com.tuma_solutions.tpidw.client.addon.TpidwAddOnDataLoader$DatasetLoaderThread loadDatasetImpl
+INFO: Refreshed database with project data (took 326 ms)
+Oct 13, 2014 10:34:21 PM net.sourceforge.processdash.tool.export.DataImporter importData
+INFO: importing /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/ECOS/Componentes/LAB2/data/hyzus3lv/CR-data.pdash
+Oct 13, 2014 10:34:21 PM net.sourceforge.processdash.tool.export.DataImporter importData
+INFO: importing /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/data/hyegb1b9/CR-data.pdash
+Oct 13, 2014 10:34:23 PM com.tuma_solutions.tpidw.client.addon.TpidwAddOnDataLoader$DatasetLoaderThread loadDatasetImpl
+INFO: Refreshed database with project data (took 230 ms)
+Oct 13, 2014 10:34:37 PM net.sourceforge.processdash.tool.export.DataImporter refreshPrefixWithFeedback
+INFO: checking /Import_hyzus3lv=>/Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/ECOS/Componentes/LAB2/data/hyzus3lv
+Oct 13, 2014 10:34:37 PM net.sourceforge.processdash.tool.export.DataImporter refreshPrefixWithFeedback
+INFO: checking /Imported=>/Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/import
+Oct 13, 2014 10:34:37 PM net.sourceforge.processdash.tool.export.DataImporter refreshPrefixWithFeedback
+INFO: checking /Import_hyegb1b9=>/Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/data/hyegb1b9
+Oct 13, 2014 10:34:40 PM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+schedule simulation took 62 ms.
+Completed user-scheduled data export.
+Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/1.dat
+Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/3.dat
+Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/global.dat
