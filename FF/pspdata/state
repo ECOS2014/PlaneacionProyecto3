@@ -76,7 +76,7 @@
             <node name="Postmortem" selected="true"/>
           </node>
         </node>
-        <node name="P8: Integrar el subproceso de confirmar transacción" templateID="TSP/Indiv2ReadOnlyNode" dataFile="11.dat" defectLog="10.def">
+        <node name="P8: Integrar el subproceso de confirmar transacción" templateID="TSP/Indiv2ReadOnlyNode" dataFile="11.dat" defectLog="10.def" selected="true">
           <node name="Aplicaciones" templateID="PSP2.1" dataFile="12.dat" defectLog="11.def" selected="true">
             <node name="Planning"/>
             <node name="Design"/>
@@ -88,7 +88,7 @@
             <node name="Postmortem" selected="true"/>
           </node>
         </node>
-        <node name="Integracion de estrategia" templateID="PSP2.1" dataFile="40.dat" defectLog="39.def" selected="true">
+        <node name="Integracion de estrategia" templateID="PSP2.1" dataFile="40.dat" defectLog="39.def">
           <node name="Planning"/>
           <node name="Design"/>
           <node name="Design Review"/>

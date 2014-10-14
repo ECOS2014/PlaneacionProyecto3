@@ -404,7 +404,7 @@ PSP3_Cycle_Est_Time To Date==#3003.8488933036706=DEFAULT
 PSP3_Cycle_Even_Time To Date==#Infinity=DEFAULT
 PSP3_Cycle_Size To Date==#0.0=DEFAULT
 PSP3_Cycle_Time_Ratio To Date==#Infinity=DEFAULT
-Planning/Completed=@1413212333860
+Planning/Completed=@1413212333000
 Planning/Defect Density To Date==#Infinity=DEFAULT
 Planning/Defect Injection Density To Date==#Infinity=DEFAULT
 Planning/Defects Injected To Date==#0.0=DEFAULT
