@@ -1,5 +1,5 @@
 <wbsModel>
-  <wbsNode name='Proyecto3' id='14645808' type='Project' indentLevel='0' expanded='true'>
+  <wbsNode name='Proyecto3' id='14645833' type='Project' indentLevel='0' expanded='true'>
     <attr name='createdWithVersion' value='4.0.0'/>
   </wbsNode>
     <wbsNode name='Manteniemiento del sistema' id='14645787' type='Compile Task' indentLevel='1'>
@@ -88,8 +88,8 @@
       </wbsNode>
         <wbsNode name='BPEL' id='14645690' type='PSP Task' indentLevel='3'>
           <attr name='Time (Top Down)' value='12.0'/>
-          <attr name='Added-LOC (Top Down)' value='64.0'/>
           <attr name='CR-Time (Synced)' value='12.0'/>
+          <attr name='Added-LOC (Top Down)' value='64.0'/>
           <attr name='Task Size Units' value='Bloque'/>
           <attr name='Time Per Person' value='12.0'/>
           <attr name='workflowSourceIDs' value='6849898'/>
@@ -132,8 +132,8 @@
           <attr name='Added-LOC (Top Down)' value='130.0'/>
           <attr name='Time Per Person' value='13.5'/>
           <attr name='IE-Time (Top Down)' value='13.5'/>
-          <attr name='workflowSourceIDs' value='6849903'/>
           <attr name='FF-Time (Top Down)' value='0.0'/>
+          <attr name='workflowSourceIDs' value='6849903'/>
           <attr name='Workflow Rate' value='1.0'/>
         </wbsNode>
       <wbsNode name='Integracion' id='14645788' type='PSP Task' indentLevel='2'>
@@ -147,7 +147,7 @@
         <attr name='FF-Time (Top Down)' value='5.0'/>
         <attr name='CR-Time (Top Down)' value='15.0'/>
       </wbsNode>
-    <wbsNode name='Conocimiento de Cliente' id='14645562' type='Component' indentLevel='1' expanded='true'>
+    <wbsNode name='Conocimiento de Cliente' id='14645562' type='Component' indentLevel='1'>
       <attr name='Milestone' value='15036107'/>
       <attr name='Dependencies' value='hyegb1b9:14645561'/>
       <attr name='Dependency Name 0' value='/Proyecto3/Encuestas'/>
@@ -249,7 +249,7 @@
           <attr name='FF-Time (Top Down)' value='1.0'/>
           <attr name='CR-Time (Top Down)' value='1.0'/>
         </wbsNode>
-      <wbsNode name='P6: Crear servicio de consulta de transacciones en AP_BCS' id='14645571' type='Component' indentLevel='2' expanded='true'>
+      <wbsNode name='P6: Crear servicio de consulta de transacciones en AP_BCS' id='14645571' type='Component' indentLevel='2'>
         <attr name='workflowSourceIDs' value='6849884'/>
       </wbsNode>
         <wbsNode name='Planning' id='14645805' type='Planning Task' indentLevel='3'>
@@ -317,8 +317,8 @@
           <attr name='Task Size Units' value='entidad'/>
           <attr name='Time Per Person' value='2.0'/>
           <attr name='PC-Time (Top Down)' value='0.0'/>
-          <attr name='FF-Time (Top Down)' value='2.0'/>
           <attr name='workflowSourceIDs' value='6849899'/>
+          <attr name='FF-Time (Top Down)' value='2.0'/>
           <attr name='Workflow Rate' value='1.0'/>
         </wbsNode>
         <wbsNode name='BAM- KPI' id='14645706' type='PSP Task' indentLevel='3'>
@@ -345,8 +345,8 @@
           <attr name='Time (Top Down)' value='12.0'/>
           <attr name='Added-LOC (Top Down)' value='120.0'/>
           <attr name='Time Per Person' value='12.0'/>
-          <attr name='workflowSourceIDs' value='6849903'/>
           <attr name='FF-Time (Top Down)' value='12.0'/>
+          <attr name='workflowSourceIDs' value='6849903'/>
           <attr name='Workflow Rate' value='1.0'/>
         </wbsNode>
         <wbsNode name='Base de datos-Atributos' id='14645710' type='PSP Task' indentLevel='3'>
@@ -358,7 +358,7 @@
           <attr name='workflowSourceIDs' value='6849904'/>
           <attr name='Workflow Rate' value='1.0'/>
         </wbsNode>
-      <wbsNode name='P7: Crear campañas enfocadas a clientes con baja actividad.' id='14645572' type='Component' indentLevel='2' expanded='true'>
+      <wbsNode name='P7: Crear campañas enfocadas a clientes con baja actividad.' id='14645572' type='Component' indentLevel='2'>
         <attr name='workflowSourceIDs' value='6849884'/>
       </wbsNode>
         <wbsNode name='Planning' id='14645806' type='Planning Task' indentLevel='3'>
@@ -426,8 +426,8 @@
         </wbsNode>
         <wbsNode name='BPEL' id='14645718' type='PSP Task' indentLevel='3'>
           <attr name='Time (Top Down)' value='2.0'/>
-          <attr name='Added-LOC (Top Down)' value='16.0'/>
           <attr name='CR-Time (Synced)' value='2.0'/>
+          <attr name='Added-LOC (Top Down)' value='16.0'/>
           <attr name='Task Size Units' value='Bloque'/>
           <attr name='Time Per Person' value='2.0'/>
           <attr name='workflowSourceIDs' value='6849898'/>
@@ -530,8 +530,8 @@
           <attr name='Reused-LOC (Top Down)' value='0.0'/>
           <attr name='Added-LOC (Top Down)' value='200.0'/>
           <attr name='Time Per Person' value='19.5'/>
-          <attr name='FF-Time (Top Down)' value='19.5'/>
           <attr name='workflowSourceIDs' value='6849903'/>
+          <attr name='FF-Time (Top Down)' value='19.5'/>
           <attr name='Workflow Rate' value='1.0'/>
         </wbsNode>
         <wbsNode name='Base de datos-Atributos' id='14645739' type='PSP Task' indentLevel='3'>
@@ -554,544 +554,421 @@
         <attr name='FF-Time (Top Down)' value='5.0'/>
         <attr name='CR-Time (Top Down)' value='5.0'/>
       </wbsNode>
-    <wbsNode name='Reputacion' id='14645564' type='Component' indentLevel='1'>
-      <attr name='Milestone' value='15036108'/>
-      <attr name='Dependencies' value='hyegb1b9:14645562'/>
-      <attr name='Dependency Name 0' value='/Proyecto3/Conocimiento de Cliente'/>
-    </wbsNode>
-      <wbsNode name='P11: Modificación de información de las  cuentas del cliente para que soporten el campo de &quot;Reputación&quot; (CRM)' id='14645576' type='Component' indentLevel='2' expanded='true'>
-        <attr name='workflowSourceIDs' value='6849884'/>
+    <wbsNode name='Ciclo3' id='14645831' type='Component' indentLevel='1'/>
+      <wbsNode name='Lanzamiento' id='14645809' type='Component' indentLevel='2'>
+        <attr name='Milestone' value='15036108'/>
       </wbsNode>
-        <wbsNode name='Portal' id='14645770' type='Component' indentLevel='3'>
-          <attr name='workflowSourceIDs' value='6849906'/>
+          <wbsNode name='Asignar roles y tareas' id='14645816' type='Planning Task' indentLevel='4'>
+            <attr name='GM-Time (Top Down)' value='0.3'/>
+            <attr name='Time (Top Down)' value='1.8'/>
+            <attr name='DA-Time (Top Down)' value='0.3'/>
+            <attr name='Task Size Units' value='HLD Pages'/>
+            <attr name='Time Per Person' value='0.3'/>
+            <attr name='PC-Time (Top Down)' value='0.3'/>
+            <attr name='IE-Time (Top Down)' value='0.3'/>
+            <attr name='FF-Time (Top Down)' value='0.3'/>
+            <attr name='CR-Time (Top Down)' value='0.3'/>
+          </wbsNode>
+          <wbsNode name='Metas del producto' id='14645817' type='Planning Task' indentLevel='4'>
+            <attr name='Time (Top Down)' value='1.0'/>
+            <attr name='Task Size Units' value='HLD Pages'/>
+            <attr name='Time Per Person' value='0.5'/>
+            <attr name='IE-Time (Top Down)' value='0.5'/>
+            <attr name='CR-Time (Top Down)' value='0.5'/>
+          </wbsNode>
+          <wbsNode name='Plan de calidad' id='14645818' type='Planning Task' indentLevel='4'>
+            <attr name='Time (Top Down)' value='0.5'/>
+            <attr name='DA-Time (Top Down)' value='0.5'/>
+            <attr name='Task Size Units' value='HLD Pages'/>
+            <attr name='Time Per Person' value='0.5'/>
+          </wbsNode>
+          <wbsNode name='Plan de riesgos' id='14645819' type='Planning Task' indentLevel='4'>
+            <attr name='GM-Time (Top Down)' value='0.5'/>
+            <attr name='Time (Top Down)' value='0.5'/>
+            <attr name='Task Size Units' value='HLD Pages'/>
+            <attr name='Time Per Person' value='0.5'/>
+          </wbsNode>
+          <wbsNode name='Plan de desarrollo' id='14645820' type='Planning Task' indentLevel='4'>
+            <attr name='Time (Top Down)' value='0.5'/>
+            <attr name='Task Size Units' value='HLD Pages'/>
+            <attr name='Time Per Person' value='0.5'/>
+            <attr name='PC-Time (Top Down)' value='0.5'/>
+          </wbsNode>
+          <wbsNode name='Plan de pruebas' id='14645821' type='Planning Task' indentLevel='4'>
+            <attr name='Time (Top Down)' value='0.5'/>
+            <attr name='Task Size Units' value='HLD Pages'/>
+            <attr name='Time Per Person' value='0.5'/>
+            <attr name='FF-Time (Top Down)' value='0.5'/>
+          </wbsNode>
+          <wbsNode name='PDT' id='14645822' type='Planning Task' indentLevel='4'>
+            <attr name='Time (Top Down)' value='0.6'/>
+            <attr name='Task Size Units' value='HLD Pages'/>
+            <attr name='Time Per Person' value='0.3'/>
+            <attr name='IE-Time (Top Down)' value='0.3'/>
+            <attr name='CR-Time (Top Down)' value='0.3'/>
+          </wbsNode>
+      <wbsNode name='Proceso' id='14645823' type='Component' indentLevel='2'>
+        <attr name='Milestone' value='15036108'/>
+      </wbsNode>
+        <wbsNode name='Seguimiento(1)' id='14645810' type='Documentation Task' indentLevel='3'>
+          <attr name='GM-Time (Top Down)' value='1.5'/>
+          <attr name='Time (Top Down)' value='9.0'/>
+          <attr name='DA-Time (Top Down)' value='1.5'/>
+          <attr name='Time Per Person' value='1.5'/>
+          <attr name='PC-Time (Top Down)' value='1.5'/>
+          <attr name='IE-Time (Top Down)' value='1.5'/>
+          <attr name='FF-Time (Top Down)' value='1.5'/>
+          <attr name='CR-Time (Top Down)' value='1.5'/>
         </wbsNode>
-          <wbsNode name='Portlet' id='14645771' type='PSP Task' indentLevel='4'>
-            <attr name='GM-Time (Top Down)' value='2.0'/>
-            <attr name='Time (Top Down)' value='4.0'/>
-            <attr name='DA-Time (Top Down)' value='2.0'/>
-            <attr name='Task Size Units' value='Portlet'/>
-            <attr name='Time Per Person' value='2.0'/>
-            <attr name='PC-Time (Top Down)' value='0.0'/>
-            <attr name='workflowSourceIDs' value='6849893'/>
-            <attr name='Modified-LOC (Top Down)' value='2.0'/>
+        <wbsNode name='Seguimiento(2)' id='14645811' type='Documentation Task' indentLevel='3'>
+          <attr name='GM-Time (Top Down)' value='1.5'/>
+          <attr name='Time (Top Down)' value='9.0'/>
+          <attr name='DA-Time (Top Down)' value='1.5'/>
+          <attr name='Time Per Person' value='1.5'/>
+          <attr name='PC-Time (Top Down)' value='1.5'/>
+          <attr name='IE-Time (Top Down)' value='1.5'/>
+          <attr name='FF-Time (Top Down)' value='1.5'/>
+          <attr name='CR-Time (Top Down)' value='1.5'/>
+        </wbsNode>
+        <wbsNode name='Seguimiento(3)' id='14645812' type='Documentation Task' indentLevel='3'>
+          <attr name='GM-Time (Top Down)' value='1.5'/>
+          <attr name='Time (Top Down)' value='9.0'/>
+          <attr name='DA-Time (Top Down)' value='1.5'/>
+          <attr name='Time Per Person' value='1.5'/>
+          <attr name='PC-Time (Top Down)' value='1.5'/>
+          <attr name='IE-Time (Top Down)' value='1.5'/>
+          <attr name='FF-Time (Top Down)' value='1.5'/>
+          <attr name='CR-Time (Top Down)' value='1.5'/>
+        </wbsNode>
+        <wbsNode name='Seguimiento(4)' id='14645813' type='Documentation Task' indentLevel='3'>
+          <attr name='GM-Time (Top Down)' value='1.5'/>
+          <attr name='Time (Top Down)' value='9.0'/>
+          <attr name='DA-Time (Top Down)' value='1.5'/>
+          <attr name='Time Per Person' value='1.5'/>
+          <attr name='PC-Time (Top Down)' value='1.5'/>
+          <attr name='IE-Time (Top Down)' value='1.5'/>
+          <attr name='FF-Time (Top Down)' value='1.5'/>
+          <attr name='CR-Time (Top Down)' value='1.5'/>
+        </wbsNode>
+        <wbsNode name='Seguimiento(5)' id='14645814' type='Documentation Task' indentLevel='3'>
+          <attr name='GM-Time (Top Down)' value='1.5'/>
+          <attr name='Time (Top Down)' value='9.0'/>
+          <attr name='DA-Time (Top Down)' value='1.5'/>
+          <attr name='Time Per Person' value='1.5'/>
+          <attr name='PC-Time (Top Down)' value='1.5'/>
+          <attr name='IE-Time (Top Down)' value='1.5'/>
+          <attr name='FF-Time (Top Down)' value='1.5'/>
+          <attr name='CR-Time (Top Down)' value='1.5'/>
+        </wbsNode>
+      <wbsNode name='Reputacion' id='14645564' type='Component' indentLevel='2'>
+        <attr name='Milestone' value='15036108'/>
+        <attr name='Dependencies' value='hyegb1b9:14645562'/>
+        <attr name='Dependency Name 0' value='/Proyecto3/Conocimiento de Cliente'/>
+      </wbsNode>
+          <wbsNode name='Portal' id='14645770' type='Component' indentLevel='4'>
+            <attr name='workflowSourceIDs' value='6849906'/>
+          </wbsNode>
+            <wbsNode name='Portlet' id='14645771' type='PSP Task' indentLevel='5'>
+              <attr name='GM-Time (Top Down)' value='0.0'/>
+              <attr name='Time (Top Down)' value='5.555555555555555'/>
+              <attr name='DA-Time (Top Down)' value='0.0'/>
+              <attr name='Task Size Units' value='Portlet'/>
+              <attr name='Time Per Person' value='5.555555555555555'/>
+              <attr name='PC-Time (Top Down)' value='0.0'/>
+              <attr name='workflowSourceIDs' value='6849893'/>
+              <attr name='FF-Time (Top Down)' value='5.555555555555555'/>
+              <attr name='Rate' value='0.18'/>
+              <attr name='Misc Size' value='1.0'/>
+              <attr name='Modified-LOC (Top Down)' value='2.0'/>
+              <attr name='Workflow Rate' value='1.0'/>
+            </wbsNode>
+            <wbsNode name='Bean Session' id='14645772' type='PSP Task' indentLevel='5'>
+              <attr name='Time (Top Down)' value='1.25'/>
+              <attr name='DA-Time (Top Down)' value='0.0'/>
+              <attr name='Task Size Units' value='Bean'/>
+              <attr name='Time Per Person' value='1.25'/>
+              <attr name='IE-Time (Top Down)' value='0.0'/>
+              <attr name='workflowSourceIDs' value='6849894'/>
+              <attr name='FF-Time (Top Down)' value='1.25'/>
+              <attr name='Rate' value='0.8'/>
+              <attr name='Misc Size' value='1.0'/>
+              <attr name='Modified-LOC (Top Down)' value='2.0'/>
+              <attr name='Workflow Rate' value='1.0'/>
+            </wbsNode>
+            <wbsNode name='Proxy' id='14645773' type='PSP Task' indentLevel='5'>
+              <attr name='GM-Time (Top Down)' value='0.0'/>
+              <attr name='Time (Top Down)' value='4.545454545454546'/>
+              <attr name='DA-Time (Top Down)' value='0.0'/>
+              <attr name='Task Size Units' value='Proxy'/>
+              <attr name='Time Per Person' value='4.545454545454546'/>
+              <attr name='PC-Time (Top Down)' value='0.0'/>
+              <attr name='workflowSourceIDs' value='6849895'/>
+              <attr name='FF-Time (Top Down)' value='4.545454545454546'/>
+              <attr name='Rate' value='0.22'/>
+              <attr name='Misc Size' value='1.0'/>
+              <attr name='Modified-LOC (Top Down)' value='2.0'/>
+              <attr name='Workflow Rate' value='1.0'/>
+            </wbsNode>
+            <wbsNode name='JSPX' id='14645774' type='PSP Task' indentLevel='5'>
+              <attr name='GM-Time (Top Down)' value='0.0'/>
+              <attr name='Time (Top Down)' value='0.8'/>
+              <attr name='DA-Time (Top Down)' value='0.0'/>
+              <attr name='Task Size Units' value='JSPX'/>
+              <attr name='Time Per Person' value='0.8'/>
+              <attr name='IE-Time (Top Down)' value='0.0'/>
+              <attr name='workflowSourceIDs' value='6849896'/>
+              <attr name='FF-Time (Top Down)' value='0.8'/>
+              <attr name='Rate' value='1.25'/>
+              <attr name='Misc Size' value='1.0'/>
+              <attr name='Modified-LOC (Top Down)' value='2.0'/>
+              <attr name='Workflow Rate' value='1.0'/>
+            </wbsNode>
+          <wbsNode name='OSB Front' id='14645775' type='PSP Task' indentLevel='4'>
+            <attr name='Time (Top Down)' value='0.6666666666666666'/>
+            <attr name='Task Size Units' value='Transf'/>
+            <attr name='Time Per Person' value='0.6666666666666666'/>
+            <attr name='IE-Time (Top Down)' value='0.6666666666666666'/>
+            <attr name='workflowSourceIDs' value='6849897'/>
+            <attr name='Rate' value='1.5'/>
+            <attr name='Misc Size' value='1.0'/>
+            <attr name='Modified-LOC (Top Down)' value='1.0'/>
             <attr name='Workflow Rate' value='1.0'/>
           </wbsNode>
-          <wbsNode name='Bean Session' id='14645772' type='PSP Task' indentLevel='4'>
-            <attr name='Time (Top Down)' value='4.0'/>
-            <attr name='DA-Time (Top Down)' value='2.0'/>
-            <attr name='Task Size Units' value='Bean'/>
-            <attr name='Time Per Person' value='2.0'/>
-            <attr name='IE-Time (Top Down)' value='2.0'/>
-            <attr name='workflowSourceIDs' value='6849894'/>
-            <attr name='Modified-LOC (Top Down)' value='2.0'/>
+          <wbsNode name='BPEL' id='14645776' type='PSP Task' indentLevel='4'>
+            <attr name='Time (Top Down)' value='2.5'/>
+            <attr name='Added-LOC (Top Down)' value='1.0'/>
+            <attr name='Task Size Units' value='Bloque'/>
+            <attr name='Time Per Person' value='2.5'/>
+            <attr name='workflowSourceIDs' value='6849898'/>
+            <attr name='Rate' value='0.4'/>
+            <attr name='Misc Size' value='1.0'/>
+            <attr name='Modified-LOC (Top Down)' value='24.0'/>
             <attr name='Workflow Rate' value='1.0'/>
+            <attr name='CR-Time (Top Down)' value='2.5'/>
           </wbsNode>
-          <wbsNode name='Proxy' id='14645773' type='PSP Task' indentLevel='4'>
-            <attr name='GM-Time (Top Down)' value='3.0'/>
-            <attr name='Time (Top Down)' value='3.0'/>
-            <attr name='DA-Time (Top Down)' value='0.0'/>
-            <attr name='Task Size Units' value='Proxy'/>
-            <attr name='Time Per Person' value='3.0'/>
-            <attr name='PC-Time (Top Down)' value='0.0'/>
-            <attr name='workflowSourceIDs' value='6849895'/>
-            <attr name='Modified-LOC (Top Down)' value='2.0'/>
-            <attr name='Workflow Rate' value='1.0'/>
-          </wbsNode>
-          <wbsNode name='JSPX' id='14645774' type='PSP Task' indentLevel='4'>
-            <attr name='GM-Time (Top Down)' value='3.0'/>
-            <attr name='Time (Top Down)' value='6.0'/>
-            <attr name='DA-Time (Top Down)' value='3.0'/>
-            <attr name='Task Size Units' value='JSPX'/>
-            <attr name='Time Per Person' value='3.0'/>
+          <wbsNode name='BAM' id='14645777' type='PSP Task' indentLevel='4'>
+            <attr name='Time (Top Down)' value='1.0'/>
+            <attr name='Added-LOC (Top Down)' value='2.0'/>
+            <attr name='Task Size Units' value='entidad'/>
+            <attr name='Time Per Person' value='1.0'/>
+            <attr name='PC-Time (Top Down)' value='1.0'/>
             <attr name='IE-Time (Top Down)' value='0.0'/>
-            <attr name='workflowSourceIDs' value='6849896'/>
-            <attr name='Modified-LOC (Top Down)' value='2.0'/>
+            <attr name='workflowSourceIDs' value='6849899'/>
+            <attr name='Rate' value='1.0'/>
+            <attr name='Misc Size' value='1.0'/>
+            <attr name='Workflow Rate' value='1.0'/>
+            <attr name='CR-Time (Top Down)' value='0.0'/>
+          </wbsNode>
+          <wbsNode name='CRM-SugarCallOut' id='14645779' type='PSP Task' indentLevel='4'>
+            <attr name='GM-Time (Top Down)' value='4.0'/>
+            <attr name='Time (Top Down)' value='4.0'/>
+            <attr name='Added-LOC (Top Down)' value='0.0'/>
+            <attr name='Task Size Units' value='Metodo'/>
+            <attr name='Time Per Person' value='4.0'/>
+            <attr name='workflowSourceIDs' value='6849901'/>
+            <attr name='Misc Size' value='1.0'/>
+            <attr name='Modified-LOC (Top Down)' value='1.0'/>
             <attr name='Workflow Rate' value='1.0'/>
           </wbsNode>
-        <wbsNode name='OSB Front' id='14645775' type='PSP Task' indentLevel='3'>
-          <attr name='Time (Top Down)' value='4.0'/>
-          <attr name='Task Size Units' value='Transf'/>
-          <attr name='Time Per Person' value='4.0'/>
-          <attr name='IE-Time (Top Down)' value='4.0'/>
-          <attr name='workflowSourceIDs' value='6849897'/>
-          <attr name='Modified-LOC (Top Down)' value='1.0'/>
-          <attr name='Workflow Rate' value='1.0'/>
-        </wbsNode>
-        <wbsNode name='BPEL' id='14645776' type='PSP Task' indentLevel='3'>
-          <attr name='Time (Top Down)' value='12.0'/>
-          <attr name='Added-LOC (Top Down)' value='1.0'/>
-          <attr name='Task Size Units' value='Bloque'/>
-          <attr name='Time Per Person' value='12.0'/>
-          <attr name='workflowSourceIDs' value='6849898'/>
-          <attr name='Modified-LOC (Top Down)' value='24.0'/>
-          <attr name='Workflow Rate' value='1.0'/>
-          <attr name='CR-Time (Top Down)' value='12.0'/>
-        </wbsNode>
-        <wbsNode name='BAM-Entidad' id='14645777' type='PSP Task' indentLevel='3'>
-          <attr name='Time (Top Down)' value='2.0'/>
-          <attr name='Added-LOC (Top Down)' value='2.0'/>
-          <attr name='Task Size Units' value='entidad'/>
-          <attr name='Time Per Person' value='2.0'/>
-          <attr name='PC-Time (Top Down)' value='0.0'/>
-          <attr name='IE-Time (Top Down)' value='0.0'/>
-          <attr name='workflowSourceIDs' value='6849899'/>
-          <attr name='Workflow Rate' value='1.0'/>
-          <attr name='CR-Time (Top Down)' value='2.0'/>
-        </wbsNode>
-        <wbsNode name='BAM- KPI' id='14645778' type='PSP Task' indentLevel='3'>
-          <attr name='Time (Top Down)' value='4.0'/>
-          <attr name='Added-LOC (Top Down)' value='2.0'/>
-          <attr name='Task Size Units' value='KPI'/>
-          <attr name='Time Per Person' value='4.0'/>
-          <attr name='PC-Time (Top Down)' value='0.0'/>
-          <attr name='IE-Time (Top Down)' value='4.0'/>
-          <attr name='workflowSourceIDs' value='6849900'/>
-          <attr name='Workflow Rate' value='1.0'/>
-        </wbsNode>
-        <wbsNode name='CRM' id='14645779' type='PSP Task' indentLevel='3'>
-          <attr name='GM-Time (Top Down)' value='11.0'/>
-          <attr name='Time (Top Down)' value='11.0'/>
-          <attr name='Added-LOC (Top Down)' value='20.0'/>
-          <attr name='Time Per Person' value='11.0'/>
-          <attr name='workflowSourceIDs' value='6849901'/>
-          <attr name='Modified-LOC (Top Down)' value='100.0'/>
-          <attr name='Workflow Rate' value='1.0'/>
-        </wbsNode>
-        <wbsNode name='OSB Back' id='14645780' type='PSP Task' indentLevel='3'>
-          <attr name='Time (Top Down)' value='4.0'/>
-          <attr name='Added-LOC (Top Down)' value='1.0'/>
-          <attr name='Task Size Units' value='Transf'/>
-          <attr name='Time Per Person' value='4.0'/>
-          <attr name='IE-Time (Top Down)' value='4.0'/>
-          <attr name='workflowSourceIDs' value='6849902'/>
-          <attr name='Workflow Rate' value='1.0'/>
-        </wbsNode>
-        <wbsNode name='Aplicaciones' id='14645781' type='PSP Task' indentLevel='3'>
-          <attr name='Time (Top Down)' value='12.499999999999998'/>
-          <attr name='Added-LOC (Top Down)' value='120.0'/>
-          <attr name='DA-Time (Top Down)' value='4.166666666666666'/>
-          <attr name='Time Per Person' value='4.166666666666666'/>
-          <attr name='PC-Time (Top Down)' value='4.166666666666666'/>
-          <attr name='workflowSourceIDs' value='6849903'/>
-          <attr name='FF-Time (Top Down)' value='4.166666666666666'/>
-          <attr name='Workflow Rate' value='1.0'/>
-        </wbsNode>
-        <wbsNode name='Base de datos-Atributos' id='14645782' type='PSP Task' indentLevel='3'>
-          <attr name='GM-Time (Top Down)' value='1.0'/>
-          <attr name='Time (Top Down)' value='1.0'/>
-          <attr name='Added-LOC (Top Down)' value='1.0'/>
-          <attr name='Task Size Units' value='Atributos'/>
-          <attr name='Time Per Person' value='1.0'/>
-          <attr name='workflowSourceIDs' value='6849904'/>
-          <attr name='Workflow Rate' value='1.0'/>
-        </wbsNode>
-    <wbsNode name='Promociones fabricantes' id='14645563' type='Component' indentLevel='1' expanded='true'>
-      <attr name='Milestone' value='15036108'/>
-      <attr name='Dependencies' value='hyegb1b9:14645562'/>
-      <attr name='Dependency Name 0' value='/Proyecto3/Conocimiento de Cliente'/>
-    </wbsNode>
-      <wbsNode name='P9: Actualización del Portal del MarketPlace de los Alpes' id='14645574' type='Component' indentLevel='2'>
-        <attr name='workflowSourceIDs' value='6849884'/>
+          <wbsNode name='CRM-DB' id='14645827' type='PSP Task' indentLevel='4'>
+            <attr name='GM-Time (Top Down)' value='0.25'/>
+            <attr name='Time (Top Down)' value='0.25'/>
+            <attr name='Added-LOC (Top Down)' value='1.0'/>
+            <attr name='Task Size Units' value='Atributo'/>
+            <attr name='Time Per Person' value='0.25'/>
+            <attr name='Rate' value='4.0'/>
+            <attr name='Misc Size' value='1.0'/>
+          </wbsNode>
+          <wbsNode name='OSB Back' id='14645780' type='PSP Task' indentLevel='4'>
+            <attr name='Time (Top Down)' value='0.6666666666666666'/>
+            <attr name='Added-LOC (Top Down)' value='1.0'/>
+            <attr name='Task Size Units' value='Transf'/>
+            <attr name='Time Per Person' value='0.6666666666666666'/>
+            <attr name='IE-Time (Top Down)' value='0.6666666666666666'/>
+            <attr name='workflowSourceIDs' value='6849902'/>
+            <attr name='Rate' value='1.5'/>
+            <attr name='Misc Size' value='1.0'/>
+            <attr name='Workflow Rate' value='1.0'/>
+          </wbsNode>
+          <wbsNode name='Aplicacion Lagado' id='14645781' type='PSP Task' indentLevel='4'>
+            <attr name='Time (Top Down)' value='0.11933174224343675'/>
+            <attr name='Added-LOC (Top Down)' value='1.0'/>
+            <attr name='DA-Time (Top Down)' value='0.0'/>
+            <attr name='Time Per Person' value='0.11933174224343675'/>
+            <attr name='PC-Time (Top Down)' value='0.0'/>
+            <attr name='FF-Time (Top Down)' value='0.11933174224343675'/>
+            <attr name='workflowSourceIDs' value='6849903'/>
+            <attr name='Rate' value='8.38'/>
+            <attr name='Workflow Rate' value='1.0'/>
+          </wbsNode>
+          <wbsNode name='Integracion' id='14645828' type='PSP Task' indentLevel='4'>
+            <attr name='GM-Time (Top Down)' value='2.0'/>
+            <attr name='Time (Top Down)' value='12.0'/>
+            <attr name='DA-Time (Top Down)' value='2.0'/>
+            <attr name='Time Per Person' value='2.0'/>
+            <attr name='PC-Time (Top Down)' value='2.0'/>
+            <attr name='IE-Time (Top Down)' value='2.0'/>
+            <attr name='FF-Time (Top Down)' value='2.0'/>
+            <attr name='CR-Time (Top Down)' value='2.0'/>
+          </wbsNode>
+      <wbsNode name='Promociones fabricantes' id='14645563' type='Component' indentLevel='2' expanded='true'>
+        <attr name='Milestone' value='15036108'/>
+        <attr name='Dependencies' value='hyegb1b9:14645562'/>
+        <attr name='Dependency Name 0' value='/Proyecto3/Conocimiento de Cliente'/>
       </wbsNode>
         <wbsNode name='Portal' id='14645741' type='Component' indentLevel='3' expanded='true'>
           <attr name='workflowSourceIDs' value='6849906'/>
         </wbsNode>
           <wbsNode name='Portlet' id='14645742' type='PSP Task' indentLevel='4'>
-            <attr name='GM-Time (Top Down)' value='7.0'/>
-            <attr name='Time (Top Down)' value='7.0'/>
+            <attr name='GM-Time (Top Down)' value='0.0'/>
+            <attr name='Time (Top Down)' value='5.0'/>
             <attr name='Added-LOC (Top Down)' value='3.0'/>
-            <attr name='DA-Time (Top Down)' value='0.0'/>
+            <attr name='DA-Time (Top Down)' value='5.0'/>
             <attr name='Task Size Units' value='Portlet'/>
-            <attr name='Time Per Person' value='7.0'/>
+            <attr name='Time Per Person' value='5.0'/>
             <attr name='workflowSourceIDs' value='6849893'/>
+            <attr name='FF-Time (Top Down)' value='0.0'/>
+            <attr name='Rate' value='0.2'/>
+            <attr name='Misc Size' value='1.0'/>
             <attr name='Workflow Rate' value='1.0'/>
           </wbsNode>
           <wbsNode name='Bean Session' id='14645743' type='PSP Task' indentLevel='4'>
-            <attr name='GM-Time (Top Down)' value='4.0'/>
-            <attr name='Time (Top Down)' value='4.0'/>
+            <attr name='GM-Time (Top Down)' value='0.0'/>
+            <attr name='Time (Top Down)' value='1.25'/>
             <attr name='Added-LOC (Top Down)' value='2.0'/>
-            <attr name='DA-Time (Top Down)' value='0.0'/>
+            <attr name='DA-Time (Top Down)' value='1.25'/>
             <attr name='Task Size Units' value='Bean'/>
-            <attr name='Time Per Person' value='4.0'/>
+            <attr name='Time Per Person' value='1.25'/>
             <attr name='workflowSourceIDs' value='6849894'/>
+            <attr name='FF-Time (Top Down)' value='0.0'/>
+            <attr name='Rate' value='0.8'/>
+            <attr name='Misc Size' value='1.0'/>
             <attr name='Workflow Rate' value='1.0'/>
           </wbsNode>
           <wbsNode name='Proxy' id='14645744' type='PSP Task' indentLevel='4'>
-            <attr name='GM-Time (Top Down)' value='1.5'/>
-            <attr name='Time (Top Down)' value='1.5'/>
+            <attr name='GM-Time (Top Down)' value='0.0'/>
+            <attr name='Time (Top Down)' value='5.0'/>
             <attr name='Added-LOC (Top Down)' value='1.0'/>
-            <attr name='DA-Time (Top Down)' value='0.0'/>
+            <attr name='DA-Time (Top Down)' value='5.0'/>
             <attr name='Task Size Units' value='Proxy'/>
-            <attr name='Time Per Person' value='1.5'/>
+            <attr name='Time Per Person' value='5.0'/>
             <attr name='workflowSourceIDs' value='6849895'/>
+            <attr name='FF-Time (Top Down)' value='0.0'/>
+            <attr name='Rate' value='0.2'/>
+            <attr name='Misc Size' value='1.0'/>
             <attr name='Workflow Rate' value='1.0'/>
           </wbsNode>
           <wbsNode name='JSPX' id='14645745' type='PSP Task' indentLevel='4'>
-            <attr name='Time (Top Down)' value='6.0'/>
+            <attr name='Time (Top Down)' value='0.8333333333333334'/>
             <attr name='Added-LOC (Top Down)' value='2.0'/>
-            <attr name='DA-Time (Top Down)' value='0.0'/>
+            <attr name='DA-Time (Top Down)' value='0.8333333333333334'/>
             <attr name='Task Size Units' value='JSPX'/>
-            <attr name='Time Per Person' value='6.0'/>
-            <attr name='IE-Time (Top Down)' value='6.0'/>
+            <attr name='Time Per Person' value='0.8333333333333334'/>
+            <attr name='IE-Time (Top Down)' value='0.0'/>
             <attr name='workflowSourceIDs' value='6849896'/>
+            <attr name='FF-Time (Top Down)' value='0.0'/>
+            <attr name='Rate' value='1.2'/>
+            <attr name='Misc Size' value='1.0'/>
             <attr name='Workflow Rate' value='1.0'/>
           </wbsNode>
         <wbsNode name='OSB Front' id='14645746' type='PSP Task' indentLevel='3'>
-          <attr name='Time (Top Down)' value='8.0'/>
+          <attr name='Time (Top Down)' value='0.6666666666666666'/>
           <attr name='Added-LOC (Top Down)' value='2.0'/>
           <attr name='Task Size Units' value='Transf'/>
-          <attr name='Time Per Person' value='8.0'/>
-          <attr name='IE-Time (Top Down)' value='8.0'/>
+          <attr name='Time Per Person' value='0.6666666666666666'/>
+          <attr name='IE-Time (Top Down)' value='0.6666666666666666'/>
           <attr name='workflowSourceIDs' value='6849897'/>
+          <attr name='Rate' value='1.5'/>
+          <attr name='Misc Size' value='1.0'/>
           <attr name='Workflow Rate' value='1.0'/>
         </wbsNode>
         <wbsNode name='BPEL' id='14645747' type='PSP Task' indentLevel='3'>
           <attr name='GM-Time (Top Down)' value='0.0'/>
-          <attr name='Time (Top Down)' value='52.0'/>
+          <attr name='Time (Top Down)' value='2.5'/>
           <attr name='Added-LOC (Top Down)' value='104.0'/>
-          <attr name='DA-Time (Top Down)' value='26.0'/>
+          <attr name='DA-Time (Top Down)' value='0.0'/>
           <attr name='Task Size Units' value='Bloque'/>
-          <attr name='Time Per Person' value='26.0'/>
+          <attr name='Time Per Person' value='2.5'/>
           <attr name='workflowSourceIDs' value='6849898'/>
+          <attr name='Rate' value='0.4'/>
+          <attr name='Misc Size' value='1.0'/>
           <attr name='Workflow Rate' value='1.0'/>
-          <attr name='CR-Time (Top Down)' value='26.0'/>
+          <attr name='CR-Time (Top Down)' value='2.5'/>
         </wbsNode>
-        <wbsNode name='CRM-Realicaion' id='14645750' type='PSP Task' indentLevel='3'>
-          <attr name='GM-Time (Top Down)' value='1.0'/>
+        <wbsNode name='BAM' id='14645824' type='PSP Task' indentLevel='3'>
           <attr name='Time (Top Down)' value='1.0'/>
           <attr name='Added-LOC (Top Down)' value='1.0'/>
           <attr name='Time Per Person' value='1.0'/>
-          <attr name='workflowSourceIDs' value='6849901'/>
+          <attr name='PC-Time (Top Down)' value='1.0'/>
           <attr name='Rate' value='1.0'/>
-          <attr name='Workflow Rate' value='1.0'/>
         </wbsNode>
-        <wbsNode name='CRM' id='14645755' type='PSP Task' indentLevel='3'>
-          <attr name='GM-Time (Top Down)' value='2.0'/>
-          <attr name='Time (Top Down)' value='2.0'/>
+        <wbsNode name='CRM-SugarCallout' id='14645755' type='PSP Task' indentLevel='3'>
+          <attr name='GM-Time (Top Down)' value='5.0'/>
+          <attr name='Time (Top Down)' value='5.0'/>
           <attr name='Added-LOC (Top Down)' value='1.0'/>
-          <attr name='Time Per Person' value='2.0'/>
+          <attr name='Time Per Person' value='5.0'/>
+          <attr name='Rate' value='0.2'/>
+        </wbsNode>
+        <wbsNode name='CRM-DB' id='14645825' type='PSP Task' indentLevel='3'>
+          <attr name='GM-Time (Top Down)' value='0.25'/>
+          <attr name='Time (Top Down)' value='0.25'/>
+          <attr name='Added-LOC (Top Down)' value='1.0'/>
+          <attr name='Time Per Person' value='0.25'/>
+          <attr name='Rate' value='4.0'/>
         </wbsNode>
         <wbsNode name='OSB Back' id='14645751' type='PSP Task' indentLevel='3'>
-          <attr name='Time (Top Down)' value='8.0'/>
+          <attr name='Time (Top Down)' value='0.6666666666666666'/>
           <attr name='Added-LOC (Top Down)' value='2.0'/>
           <attr name='Task Size Units' value='Transf'/>
-          <attr name='Time Per Person' value='8.0'/>
-          <attr name='IE-Time (Top Down)' value='8.0'/>
+          <attr name='Time Per Person' value='0.6666666666666666'/>
+          <attr name='IE-Time (Top Down)' value='0.6666666666666666'/>
           <attr name='workflowSourceIDs' value='6849902'/>
+          <attr name='Rate' value='1.5'/>
+          <attr name='Misc Size' value='1.0'/>
           <attr name='Workflow Rate' value='1.0'/>
         </wbsNode>
-        <wbsNode name='Base de datos-Atributos' id='14645753' type='PSP Task' indentLevel='3'>
-          <attr name='GM-Time (Top Down)' value='2.0'/>
-          <attr name='Time (Top Down)' value='2.0'/>
-          <attr name='Added-LOC (Top Down)' value='2.0'/>
-          <attr name='Task Size Units' value='Atributos'/>
-          <attr name='Time Per Person' value='2.0'/>
-          <attr name='workflowSourceIDs' value='6849904'/>
-          <attr name='Workflow Rate' value='1.0'/>
-        </wbsNode>
-      <wbsNode name='P10: Permitir Promocionar de manera automática a fabricantes' id='14645575' type='Component' indentLevel='2'>
-        <attr name='workflowSourceIDs' value='6849884'/>
-      </wbsNode>
-        <wbsNode name='BAM-Entidad' id='14645763' type='PSP Task' indentLevel='3'>
-          <attr name='Time (Top Down)' value='2.0'/>
-          <attr name='Added-LOC (Top Down)' value='2.0'/>
-          <attr name='DA-Time (Top Down)' value='0.0'/>
-          <attr name='Task Size Units' value='entidad'/>
-          <attr name='Time Per Person' value='2.0'/>
-          <attr name='PC-Time (Top Down)' value='0.0'/>
-          <attr name='IE-Time (Top Down)' value='2.0'/>
-          <attr name='workflowSourceIDs' value='6849899'/>
-          <attr name='Workflow Rate' value='1.0'/>
-        </wbsNode>
-        <wbsNode name='BAM- KPI' id='14645764' type='PSP Task' indentLevel='3'>
-          <attr name='Time (Top Down)' value='4.0'/>
-          <attr name='Added-LOC (Top Down)' value='2.0'/>
-          <attr name='DA-Time (Top Down)' value='0.0'/>
-          <attr name='Task Size Units' value='KPI'/>
-          <attr name='Time Per Person' value='4.0'/>
-          <attr name='PC-Time (Top Down)' value='0.0'/>
-          <attr name='FF-Time (Top Down)' value='4.0'/>
-          <attr name='workflowSourceIDs' value='6849900'/>
-          <attr name='Workflow Rate' value='1.0'/>
-        </wbsNode>
-        <wbsNode name='OSB Back' id='14645766' type='PSP Task' indentLevel='3'>
-          <attr name='Time (Top Down)' value='36.0'/>
-          <attr name='Task Size Units' value='Transf'/>
-          <attr name='Time Per Person' value='36.0'/>
-          <attr name='PC-Time (Top Down)' value='36.0'/>
-          <attr name='IE-Time (Top Down)' value='0.0'/>
-          <attr name='workflowSourceIDs' value='6849902'/>
-          <attr name='Modified-LOC (Top Down)' value='6.0'/>
-          <attr name='Workflow Rate' value='1.0'/>
-        </wbsNode>
-        <wbsNode name='Aplicaciones' id='14645767' type='PSP Task' indentLevel='3'>
-          <attr name='Time (Top Down)' value='31.0'/>
-          <attr name='Time Per Person' value='31.0'/>
-          <attr name='workflowSourceIDs' value='6849903'/>
-          <attr name='FF-Time (Top Down)' value='31.0'/>
-          <attr name='Modified-LOC (Top Down)' value='300.0'/>
-          <attr name='Workflow Rate' value='1.0'/>
-        </wbsNode>
-        <wbsNode name='Base de datos-Atributos' id='14645768' type='PSP Task' indentLevel='3'>
-          <attr name='GM-Time (Top Down)' value='2.0'/>
-          <attr name='Time (Top Down)' value='2.0'/>
-          <attr name='Reused-LOC (Top Down)' value='0.0'/>
-          <attr name='Added-LOC (Top Down)' value='3.0'/>
-          <attr name='Task Size Units' value='Atributos'/>
-          <attr name='Time Per Person' value='2.0'/>
-          <attr name='workflowSourceIDs' value='6849904'/>
-          <attr name='Workflow Rate' value='1.0'/>
-        </wbsNode>
-    <wbsNode name='EntregaFinal' id='14645784' type='Component' indentLevel='1'>
-      <attr name='Milestone' value='15036108'/>
-      <attr name='Dependencies' value='hyegb1b9:14645562'/>
-      <attr name='Dependency Name 0' value='/Proyecto3/Conocimiento de Cliente'/>
-    </wbsNode>
-      <wbsNode name='Postmortem' id='14645786' type='Postmortem Task' indentLevel='2'>
-        <attr name='GM-Time (Top Down)' value='3.0'/>
-        <attr name='Time (Top Down)' value='18.0'/>
-        <attr name='DA-Time (Top Down)' value='3.0'/>
-        <attr name='Task Size Units' value='Req Pages '/>
-        <attr name='Time Per Person' value='3.0'/>
-        <attr name='PC-Time (Top Down)' value='3.0'/>
-        <attr name='IE-Time (Top Down)' value='3.0'/>
-        <attr name='FF-Time (Top Down)' value='3.0'/>
-        <attr name='Misc Size' value='40.0'/>
-        <attr name='CR-Time (Top Down)' value='3.0'/>
-      </wbsNode>
-    <wbsNode name='Cruce Bolsa' id='14645560' type='Component' indentLevel='1'/>
-      <wbsNode name='P1: Permitir hacer cruce entre varias bolsas e informar a los clientes' id='14645578' type='Component' indentLevel='2'>
-        <attr name='workflowSourceIDs' value='6849884'/>
-      </wbsNode>
-        <wbsNode name='Portal' id='6849906' type='Component' indentLevel='3' expanded='true'>
-          <attr name='workflowSourceIDs' value='6849906'/>
-        </wbsNode>
-          <wbsNode name='Portlet' id='6849893' type='PSP Task' indentLevel='4'>
-            <attr name='Time (Top Down)' value='4.0'/>
-            <attr name='DA-Time (Top Down)' value='0.0'/>
-            <attr name='Task Size Units' value='Portlet'/>
-            <attr name='Time Per Person' value='4.0'/>
-            <attr name='workflowSourceIDs' value='6849893'/>
-            <attr name='Modified-LOC (Top Down)' value='1.0'/>
-            <attr name='Workflow Rate' value='1.0'/>
-            <attr name='CR-Time (Top Down)' value='4.0'/>
-          </wbsNode>
-          <wbsNode name='Bean Session' id='6849894' type='PSP Task' indentLevel='4'>
-            <attr name='Time (Top Down)' value='2.0'/>
-            <attr name='DA-Time (Top Down)' value='0.0'/>
-            <attr name='Task Size Units' value='Bean'/>
-            <attr name='Time Per Person' value='2.0'/>
-            <attr name='workflowSourceIDs' value='6849894'/>
-            <attr name='Modified-LOC (Top Down)' value='1.0'/>
-            <attr name='Workflow Rate' value='1.0'/>
-            <attr name='CR-Time (Top Down)' value='2.0'/>
-          </wbsNode>
-          <wbsNode name='Proxy' id='6849895' type='PSP Task' indentLevel='4'>
-            <attr name='Time (Top Down)' value='1.5'/>
-            <attr name='DA-Time (Top Down)' value='0.0'/>
-            <attr name='Task Size Units' value='Proxy'/>
-            <attr name='Time Per Person' value='1.5'/>
-            <attr name='workflowSourceIDs' value='6849895'/>
-            <attr name='Modified-LOC (Top Down)' value='1.0'/>
-            <attr name='Workflow Rate' value='1.0'/>
-            <attr name='CR-Time (Top Down)' value='1.5'/>
-          </wbsNode>
-          <wbsNode name='JSPX' id='6849896' type='PSP Task' indentLevel='4'>
-            <attr name='Time (Top Down)' value='3.0'/>
-            <attr name='DA-Time (Top Down)' value='0.0'/>
-            <attr name='Task Size Units' value='JSPX'/>
-            <attr name='Time Per Person' value='3.0'/>
-            <attr name='workflowSourceIDs' value='6849896'/>
-            <attr name='Modified-LOC (Top Down)' value='1.0'/>
-            <attr name='Workflow Rate' value='1.0'/>
-            <attr name='CR-Time (Top Down)' value='3.0'/>
-          </wbsNode>
-        <wbsNode name='OSB Front' id='6849897' type='PSP Task' indentLevel='3'>
-          <attr name='Time (Top Down)' value='4.0'/>
-          <attr name='Task Size Units' value='Transf'/>
-          <attr name='Time Per Person' value='4.0'/>
-          <attr name='IE-Time (Top Down)' value='0.0'/>
-          <attr name='FF-Time (Top Down)' value='4.0'/>
-          <attr name='workflowSourceIDs' value='6849897'/>
-          <attr name='Modified-LOC (Top Down)' value='1.0'/>
-          <attr name='Workflow Rate' value='1.0'/>
-        </wbsNode>
-        <wbsNode name='BPEL' id='6849898' type='PSP Task' indentLevel='3'>
-          <attr name='GM-Time (Top Down)' value='10.0'/>
-          <attr name='Time (Top Down)' value='20.0'/>
-          <attr name='Added-LOC (Top Down)' value='4.0'/>
-          <attr name='Task Size Units' value='Bloque'/>
-          <attr name='Time Per Person' value='10.0'/>
-          <attr name='PC-Time (Top Down)' value='10.0'/>
-          <attr name='workflowSourceIDs' value='6849898'/>
-          <attr name='Modified-LOC (Top Down)' value='28.0'/>
-          <attr name='Workflow Rate' value='1.0'/>
-          <attr name='CR-Time (Top Down)' value='0.0'/>
-        </wbsNode>
-        <wbsNode name='BAM-Entidad' id='6849899' type='PSP Task' indentLevel='3'>
-          <attr name='Time (Top Down)' value='1.0'/>
+        <wbsNode name='Aplicacion Legado' id='14645826' type='PSP Task' indentLevel='3'>
+          <attr name='Time (Top Down)' value='0.11904761904761904'/>
           <attr name='Added-LOC (Top Down)' value='1.0'/>
-          <attr name='DA-Time (Top Down)' value='1.0'/>
-          <attr name='Task Size Units' value='entidad'/>
-          <attr name='Time Per Person' value='1.0'/>
-          <attr name='PC-Time (Top Down)' value='0.0'/>
-          <attr name='workflowSourceIDs' value='6849899'/>
-          <attr name='Workflow Rate' value='1.0'/>
+          <attr name='Time Per Person' value='0.11904761904761904'/>
+          <attr name='FF-Time (Top Down)' value='0.11904761904761904'/>
+          <attr name='Rate' value='8.4'/>
         </wbsNode>
-        <wbsNode name='BAM- KPI' id='6849900' type='PSP Task' indentLevel='3'>
-          <attr name='Time (Top Down)' value='4.0'/>
-          <attr name='Added-LOC (Top Down)' value='2.0'/>
+        <wbsNode name='Integracion' id='14645829' type='PSP Task' indentLevel='3'>
+          <attr name='GM-Time (Top Down)' value='2.0'/>
+          <attr name='Time (Top Down)' value='12.0'/>
           <attr name='DA-Time (Top Down)' value='2.0'/>
-          <attr name='Task Size Units' value='KPI'/>
           <attr name='Time Per Person' value='2.0'/>
-          <attr name='PC-Time (Top Down)' value='0.0'/>
-          <attr name='workflowSourceIDs' value='6849900'/>
-          <attr name='Workflow Rate' value='1.0'/>
+          <attr name='PC-Time (Top Down)' value='2.0'/>
+          <attr name='IE-Time (Top Down)' value='2.0'/>
+          <attr name='FF-Time (Top Down)' value='2.0'/>
           <attr name='CR-Time (Top Down)' value='2.0'/>
         </wbsNode>
-        <wbsNode name='OSB Back' id='6849902' type='PSP Task' indentLevel='3'>
-          <attr name='Time (Top Down)' value='4.0'/>
-          <attr name='Task Size Units' value='Transf'/>
-          <attr name='Time Per Person' value='4.0'/>
-          <attr name='IE-Time (Top Down)' value='4.0'/>
-          <attr name='workflowSourceIDs' value='6849902'/>
-          <attr name='Modified-LOC (Top Down)' value='1.0'/>
-          <attr name='Workflow Rate' value='1.0'/>
-        </wbsNode>
-        <wbsNode name='Aplicaciones' id='6849903' type='PSP Task' indentLevel='3'>
-          <attr name='GM-Time (Top Down)' value='7.0'/>
-          <attr name='Time (Top Down)' value='14.0'/>
-          <attr name='Added-LOC (Top Down)' value='100.0'/>
-          <attr name='DA-Time (Top Down)' value='7.0'/>
-          <attr name='Time Per Person' value='7.0'/>
-          <attr name='IE-Time (Top Down)' value='0.0'/>
-          <attr name='FF-Time (Top Down)' value='0.0'/>
-          <attr name='workflowSourceIDs' value='6849903'/>
-          <attr name='Modified-LOC (Top Down)' value='40.0'/>
-          <attr name='Workflow Rate' value='1.0'/>
-        </wbsNode>
-        <wbsNode name='Base de datos-Atributos' id='6849904' type='PSP Task' indentLevel='3'>
-          <attr name='GM-Time (Top Down)' value='0.0'/>
-          <attr name='Time (Top Down)' value='1.5'/>
-          <attr name='Added-LOC (Top Down)' value='3.0'/>
-          <attr name='Task Size Units' value='Atributos'/>
-          <attr name='Time Per Person' value='1.5'/>
-          <attr name='IE-Time (Top Down)' value='1.5'/>
-          <attr name='workflowSourceIDs' value='6849904'/>
-          <attr name='Workflow Rate' value='1.0'/>
-        </wbsNode>
-        <wbsNode name='Base de datos-Relacion' id='6849905' type='PSP Task' indentLevel='3'>
-          <attr name='GM-Time (Top Down)' value='3.0'/>
-          <attr name='Time (Top Down)' value='3.0'/>
-          <attr name='Task Size Units' value='Relación'/>
-          <attr name='Time Per Person' value='3.0'/>
-          <attr name='workflowSourceIDs' value='6849905'/>
-          <attr name='Modified-LOC (Top Down)' value='3.0'/>
-          <attr name='Workflow Rate' value='1.0'/>
-        </wbsNode>
-      <wbsNode name='P2: Permitir que una orden de compra sea solucionada por varios fabricantes' id='14645566' type='Component' indentLevel='2'>
-        <attr name='workflowSourceIDs' value='6849884'/>
+      <wbsNode name='IntegracionFinal' id='14645784' type='Component' indentLevel='2'>
+        <attr name='Milestone' value='15036108'/>
+        <attr name='Dependencies' value='hyegb1b9:14645562'/>
+        <attr name='Dependency Name 0' value='/Proyecto3/Conocimiento de Cliente'/>
       </wbsNode>
-        <wbsNode name='Portal' id='14645649' type='Component' indentLevel='3' expanded='true'>
-          <attr name='workflowSourceIDs' value='6849906'/>
-        </wbsNode>
-          <wbsNode name='Portlet' id='14645650' type='PSP Task' indentLevel='4'>
-            <attr name='Time (Top Down)' value='4.0'/>
-            <attr name='DA-Time (Top Down)' value='4.0'/>
-            <attr name='Task Size Units' value='Portlet'/>
-            <attr name='Time Per Person' value='4.0'/>
-            <attr name='workflowSourceIDs' value='6849893'/>
-            <attr name='Modified-LOC (Top Down)' value='1.0'/>
-            <attr name='Workflow Rate' value='1.0'/>
-            <attr name='CR-Time (Top Down)' value='0.0'/>
-          </wbsNode>
-          <wbsNode name='Bean Session' id='14645651' type='PSP Task' indentLevel='4'>
-            <attr name='Time (Top Down)' value='2.0'/>
-            <attr name='DA-Time (Top Down)' value='0.0'/>
-            <attr name='Task Size Units' value='Bean'/>
-            <attr name='Time Per Person' value='2.0'/>
-            <attr name='IE-Time (Top Down)' value='2.0'/>
-            <attr name='workflowSourceIDs' value='6849894'/>
-            <attr name='Modified-LOC (Top Down)' value='1.0'/>
-            <attr name='Workflow Rate' value='1.0'/>
-          </wbsNode>
-          <wbsNode name='JSPX' id='14645653' type='PSP Task' indentLevel='4'>
-            <attr name='Time (Top Down)' value='3.0'/>
-            <attr name='DA-Time (Top Down)' value='0.0'/>
-            <attr name='Task Size Units' value='JSPX'/>
-            <attr name='Time Per Person' value='3.0'/>
-            <attr name='workflowSourceIDs' value='6849896'/>
-            <attr name='Modified-LOC (Top Down)' value='1.0'/>
-            <attr name='Workflow Rate' value='1.0'/>
-            <attr name='CR-Time (Top Down)' value='3.0'/>
-          </wbsNode>
-        <wbsNode name='OSB Front' id='14645654' type='PSP Task' indentLevel='3'>
-          <attr name='Time (Top Down)' value='6.0'/>
-          <attr name='DA-Time (Top Down)' value='6.0'/>
-          <attr name='Task Size Units' value='Transf'/>
-          <attr name='Time Per Person' value='6.0'/>
-          <attr name='IE-Time (Top Down)' value='0.0'/>
-          <attr name='workflowSourceIDs' value='6849897'/>
-          <attr name='Modified-LOC (Top Down)' value='1.0'/>
-          <attr name='Workflow Rate' value='1.0'/>
-        </wbsNode>
-        <wbsNode name='BPEL' id='14645655' type='PSP Task' indentLevel='3'>
-          <attr name='GM-Time (Top Down)' value='0.0'/>
-          <attr name='Time (Top Down)' value='16.0'/>
-          <attr name='Task Size Units' value='Bloque'/>
-          <attr name='Time Per Person' value='8.0'/>
-          <attr name='PC-Time (Top Down)' value='8.0'/>
-          <attr name='IE-Time (Top Down)' value='8.0'/>
-          <attr name='workflowSourceIDs' value='6849898'/>
-          <attr name='Modified-LOC (Top Down)' value='32.0'/>
-          <attr name='Workflow Rate' value='1.0'/>
-          <attr name='CR-Time (Top Down)' value='0.0'/>
-        </wbsNode>
-        <wbsNode name='BAM-Entidad' id='14645656' type='PSP Task' indentLevel='3'>
-          <attr name='Time (Top Down)' value='2.0'/>
-          <attr name='Added-LOC (Top Down)' value='2.0'/>
-          <attr name='Task Size Units' value='entidad'/>
+        <wbsNode name='Informe' id='14645786' type='Postmortem Task' indentLevel='3'>
+          <attr name='GM-Time (Top Down)' value='2.0'/>
+          <attr name='Time (Top Down)' value='12.0'/>
+          <attr name='DA-Time (Top Down)' value='2.0'/>
+          <attr name='Task Size Units' value='Req Pages '/>
           <attr name='Time Per Person' value='2.0'/>
-          <attr name='PC-Time (Top Down)' value='0.0'/>
-          <attr name='workflowSourceIDs' value='6849899'/>
-          <attr name='Workflow Rate' value='1.0'/>
+          <attr name='PC-Time (Top Down)' value='2.0'/>
+          <attr name='IE-Time (Top Down)' value='2.0'/>
+          <attr name='FF-Time (Top Down)' value='2.0'/>
+          <attr name='Misc Size' value='40.0'/>
           <attr name='CR-Time (Top Down)' value='2.0'/>
         </wbsNode>
-        <wbsNode name='BAM- KPI' id='14645657' type='PSP Task' indentLevel='3'>
-          <attr name='Time (Top Down)' value='4.0'/>
-          <attr name='Added-LOC (Top Down)' value='2.0'/>
-          <attr name='Task Size Units' value='KPI'/>
-          <attr name='Time Per Person' value='4.0'/>
-          <attr name='PC-Time (Top Down)' value='0.0'/>
-          <attr name='workflowSourceIDs' value='6849900'/>
-          <attr name='Workflow Rate' value='1.0'/>
-          <attr name='CR-Time (Top Down)' value='4.0'/>
-        </wbsNode>
-        <wbsNode name='OSB Back' id='14645659' type='PSP Task' indentLevel='3'>
-          <attr name='Time (Top Down)' value='6.0'/>
-          <attr name='Task Size Units' value='Transf'/>
-          <attr name='Time Per Person' value='6.0'/>
-          <attr name='IE-Time (Top Down)' value='6.0'/>
-          <attr name='workflowSourceIDs' value='6849902'/>
-          <attr name='Modified-LOC (Top Down)' value='1.0'/>
-          <attr name='Workflow Rate' value='1.0'/>
-        </wbsNode>
-        <wbsNode name='Aplicaciones' id='14645660' type='PSP Task' indentLevel='3'>
-          <attr name='Time (Top Down)' value='15.5'/>
-          <attr name='Time Per Person' value='15.5'/>
-          <attr name='workflowSourceIDs' value='6849903'/>
-          <attr name='FF-Time (Top Down)' value='15.5'/>
-          <attr name='Modified-LOC (Top Down)' value='150.0'/>
-          <attr name='Workflow Rate' value='1.0'/>
-        </wbsNode>
-        <wbsNode name='Base de datos-Atributos' id='14645661' type='PSP Task' indentLevel='3'>
-          <attr name='GM-Time (Top Down)' value='0.0'/>
-          <attr name='Time (Top Down)' value='2.0'/>
+        <wbsNode name='Pruebas SAT' id='14645830' type='PSP Task' indentLevel='3'>
+          <attr name='GM-Time (Top Down)' value='2.0'/>
+          <attr name='Time (Top Down)' value='12.0'/>
           <attr name='DA-Time (Top Down)' value='2.0'/>
-          <attr name='Task Size Units' value='Atributos'/>
           <attr name='Time Per Person' value='2.0'/>
-          <attr name='workflowSourceIDs' value='6849904'/>
-          <attr name='Modified-LOC (Top Down)' value='0.0'/>
-          <attr name='Workflow Rate' value='1.0'/>
+          <attr name='PC-Time (Top Down)' value='2.0'/>
+          <attr name='IE-Time (Top Down)' value='2.0'/>
+          <attr name='FF-Time (Top Down)' value='2.0'/>
+          <attr name='CR-Time (Top Down)' value='2.0'/>
         </wbsNode>
 </wbsModel>
