@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<project name='Proyecto3' id='14645833' tid='hyegb1b9:14645833' labels='none' dumpFileVersion='4.0.0' dumpTimestamp='@1413437788348'>
+<project name='Proyecto3' id='14645847' tid='hyegb1b9:14645847' labels='none' dumpFileVersion='4.0.0' dumpTimestamp='@1413517036949'>
   <teamMember name='Carlos Felipe Roa' tmid='463994169' initials='CR' startDate='@1406505600000' startCalendarDate='2014-07-28' endWeek='14' hoursPerWeek='6.5'>
     <scheduleException week='9' hours='0.0'/>
     <scheduleException week='10' hours='0.0'/>
@@ -53,7 +53,6 @@
 		<psp name='Integracion' id='14645788' tid='hyegb1b9:14645788' labels='Ciclo1' time=',CR=15,IE=5,PC=5,DA=5,FF=5,GM=5,' syncTime=',CR=15.0,'/>
 	</component>
 	<component name='Conocimiento de Cliente' id='14645562' tid='hyegb1b9:14645562' labels='Ciclo2'>
-		<dependency name='/Proyecto3/Encuestas' tid='hyegb1b9:14645561' source='wbs'/>
 		<component name='Lanzamiento' id='14645789' tid='hyegb1b9:14645789' labels='Ciclo2'>
 			<task name='Asignar roles y tareas' id='14645792' tid='hyegb1b9:14645792' labels='Ciclo2' phaseName='Planning' phaseType='PLAN' time=',CR=1,IE=1,PC=1,DA=1,FF=1,GM=1,'/>
 			<task name='Metas del producto' id='14645791' tid='hyegb1b9:14645791' labels='Ciclo2' phaseName='Planning' phaseType='PLAN' time=',CR=1,IE=1,'/>
@@ -130,8 +129,7 @@
 			<task name='Seguimiento(4)' id='14645813' tid='hyegb1b9:14645813' labels='Ciclo3' phaseName='Documentation' phaseType='DOC' time=',CR=1.5,IE=1.5,PC=1.5,DA=1.5,FF=1.5,GM=1.5,'/>
 			<task name='Seguimiento(5)' id='14645814' tid='hyegb1b9:14645814' labels='Ciclo3' phaseName='Documentation' phaseType='DOC' time=',CR=1.5,IE=1.5,PC=1.5,DA=1.5,FF=1.5,GM=1.5,'/>
 		</component>
-		<component name='Reputacion' id='14645564' tid='hyegb1b9:14645564' labels='Ciclo3'>
-			<dependency name='/Proyecto3/Conocimiento de Cliente' tid='hyegb1b9:14645562' source='wbs'/>
+		<component name='P11: Reputacion' id='14645564' tid='hyegb1b9:14645564' labels='Ciclo3'>
 			<component name='Portal' id='14645770' tid='hyegb1b9:14645770' labels='Ciclo3' wid='6849906'>
 				<psp name='Portlet' id='14645771' tid='hyegb1b9:14645771' labels='Ciclo3' wid='6849893' time=',FF=5.555555555555555,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='2' sizeAdd='0' sizeReu='0' sizeNC='2'/>
 				<psp name='Bean Session' id='14645772' tid='hyegb1b9:14645772' labels='Ciclo3' wid='6849894' time=',FF=1.25,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='2' sizeAdd='0' sizeReu='0' sizeNC='2'/>
@@ -147,8 +145,7 @@
 			<psp name='Aplicacion Lagado' id='14645781' tid='hyegb1b9:14645781' labels='Ciclo3' wid='6849903' time=',FF=0.11933174224343675,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
 			<psp name='Integracion' id='14645828' tid='hyegb1b9:14645828' labels='Ciclo3' time=',CR=2,IE=2,PC=2,DA=2,FF=2,GM=2,'/>
 		</component>
-		<component name='Promociones fabricantes' id='14645563' tid='hyegb1b9:14645563' labels='Ciclo3'>
-			<dependency name='/Proyecto3/Conocimiento de Cliente' tid='hyegb1b9:14645562' source='wbs'/>
+		<component name='P9: Crear Combos promocionales' id='14645563' tid='hyegb1b9:14645563' labels='Ciclo3'>
 			<component name='Portal' id='14645741' tid='hyegb1b9:14645741' labels='Ciclo3' wid='6849906'>
 				<psp name='Portlet' id='14645742' tid='hyegb1b9:14645742' labels='Ciclo3' wid='6849893' time=',DA=5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='3' sizeReu='0' sizeNC='3'/>
 				<psp name='Bean Session' id='14645743' tid='hyegb1b9:14645743' labels='Ciclo3' wid='6849894' time=',DA=1.25,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
@@ -164,8 +161,23 @@
 			<psp name='Aplicacion Legado' id='14645826' tid='hyegb1b9:14645826' labels='Ciclo3' time=',FF=0.11904761904761904,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
 			<psp name='Integracion' id='14645829' tid='hyegb1b9:14645829' labels='Ciclo3' time=',CR=2,IE=2,PC=2,DA=2,FF=2,GM=2,'/>
 		</component>
+		<component name='P10: Comprar combos' id='14645833' tid='hyegb1b9:14645833' labels='Ciclo3'>
+			<component name='Portal' id='14645834' tid='hyegb1b9:14645834' labels='Ciclo3' wid='6849906'>
+				<psp name='Portlet' id='14645835' tid='hyegb1b9:14645835' labels='Ciclo3' wid='6849893' time=',DA=5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='3' sizeReu='0' sizeNC='3'/>
+				<psp name='Bean Session' id='14645836' tid='hyegb1b9:14645836' labels='Ciclo3' wid='6849894' time=',DA=1.25,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+				<psp name='Proxy' id='14645837' tid='hyegb1b9:14645837' labels='Ciclo3' wid='6849895' time=',DA=5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
+				<psp name='JSPX' id='14645838' tid='hyegb1b9:14645838' labels='Ciclo3' wid='6849896' time=',DA=0.8333333333333334,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+			</component>
+			<psp name='OSB Front' id='14645839' tid='hyegb1b9:14645839' labels='Ciclo3' wid='6849897' time=',IE=0.6666666666666666,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+			<psp name='BPEL' id='14645840' tid='hyegb1b9:14645840' labels='Ciclo3' wid='6849898' time=',CR=2.5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='104' sizeReu='0' sizeNC='104'/>
+			<psp name='BAM' id='14645841' tid='hyegb1b9:14645841' labels='Ciclo3' time=',PC=1,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
+			<psp name='CRM-SugarCallout' id='14645842' tid='hyegb1b9:14645842' labels='Ciclo3' time=',GM=5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
+			<psp name='CRM-DB' id='14645843' tid='hyegb1b9:14645843' labels='Ciclo3' time=',GM=0.25,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
+			<psp name='OSB Back' id='14645844' tid='hyegb1b9:14645844' labels='Ciclo3' wid='6849902' time=',IE=0.6666666666666666,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+			<psp name='Aplicacion Legado' id='14645845' tid='hyegb1b9:14645845' labels='Ciclo3' time=',FF=0.11904761904761904,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
+			<psp name='Integracion' id='14645846' tid='hyegb1b9:14645846' labels='Ciclo3' time=',CR=2,IE=2,PC=2,DA=2,FF=2,GM=2,'/>
+		</component>
 		<component name='IntegracionFinal' id='14645784' tid='hyegb1b9:14645784' labels='Ciclo3'>
-			<dependency name='/Proyecto3/Conocimiento de Cliente' tid='hyegb1b9:14645562' source='wbs'/>
 			<task name='Informe' id='14645786' tid='hyegb1b9:14645786' labels='Ciclo3' phaseName='Postmortem' phaseType='PM' time=',CR=2,IE=2,PC=2,DA=2,FF=2,GM=2,'/>
 			<psp name='Pruebas SAT' id='14645830' tid='hyegb1b9:14645830' labels='Ciclo3' time=',CR=2,IE=2,PC=2,DA=2,FF=2,GM=2,'/>
 		</component>
