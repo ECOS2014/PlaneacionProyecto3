@@ -1,6 +1,5 @@
 #include <TSP/indiv2_empty_dataFile.txt>
 = Data for /Proyecto/Proyecto3_IE/Conocimiento de Cliente
-EV_Task_Dependencies="<list><dependency tid='hyegb1b9:14645561' name='/Proyecto3/Encuestas' source='wbs'/></list>
 EV_Task_IDs=="hyegb1b9:14645562
 Started=@1411610639977
 Time=null

@@ -123,7 +123,7 @@
           <node name="Seguimiento(4)" templateID="TSP/Indiv2Task" dataFile="65.dat" defectLog="64.def"/>
           <node name="Seguimiento(5)" templateID="TSP/Indiv2Task" dataFile="66.dat" defectLog="65.def"/>
         </node>
-        <node name="Reputacion" templateID="TSP/Indiv2ReadOnlyNode" dataFile="15.dat" defectLog="14.def">
+        <node name="P11: Reputacion" templateID="TSP/Indiv2ReadOnlyNode" dataFile="15.dat" defectLog="14.def">
           <node name="OSB Front" templateID="PSP2.1" dataFile="19.dat" defectLog="18.def" selected="true">
             <node name="Planning" selected="true"/>
             <node name="Design"/>
@@ -155,7 +155,7 @@
             <node name="Postmortem"/>
           </node>
         </node>
-        <node name="Promociones fabricantes" templateID="TSP/Indiv2ReadOnlyNode" dataFile="22.dat" defectLog="21.def">
+        <node name="P9: Crear Combos promocionales" templateID="TSP/Indiv2ReadOnlyNode" dataFile="22.dat" defectLog="21.def">
           <node name="OSB Front" templateID="PSP2.1" dataFile="26.dat" defectLog="25.def" selected="true">
             <node name="Planning" selected="true"/>
             <node name="Design"/>
@@ -177,6 +177,38 @@
             <node name="Postmortem"/>
           </node>
           <node name="Integracion" templateID="PSP2.1" dataFile="68.dat" defectLog="67.def">
+            <node name="Planning" selected="true"/>
+            <node name="Design"/>
+            <node name="Design Review"/>
+            <node name="Code"/>
+            <node name="Code Review"/>
+            <node name="Compile"/>
+            <node name="Test"/>
+            <node name="Postmortem"/>
+          </node>
+        </node>
+        <node name="P10: Comprar combos" templateID="TSP/Indiv2ReadOnlyNode" dataFile="70.dat" defectLog="69.def">
+          <node name="OSB Front" templateID="PSP2.1" dataFile="71.dat" defectLog="70.def" selected="true">
+            <node name="Planning" selected="true"/>
+            <node name="Design"/>
+            <node name="Design Review"/>
+            <node name="Code"/>
+            <node name="Code Review"/>
+            <node name="Compile"/>
+            <node name="Test"/>
+            <node name="Postmortem"/>
+          </node>
+          <node name="OSB Back" templateID="PSP2.1" dataFile="72.dat" defectLog="71.def">
+            <node name="Planning" selected="true"/>
+            <node name="Design"/>
+            <node name="Design Review"/>
+            <node name="Code"/>
+            <node name="Code Review"/>
+            <node name="Compile"/>
+            <node name="Test"/>
+            <node name="Postmortem"/>
+          </node>
+          <node name="Integracion" templateID="PSP2.1" dataFile="73.dat" defectLog="72.def">
             <node name="Planning" selected="true"/>
             <node name="Design"/>
             <node name="Design Review"/>
