@@ -1,7 +1,7 @@
 #include <TSP/team2_root_dataFile.txt>
 = Data for /Project/Proyecto3
 EV_Task_IDs=="hyegb1b9:root
-EXPORT_FILE/Last_Export_Timestamp=@1413518646018
+EXPORT_FILE/Last_Export_Timestamp=@1413521104357
 Project_Component_Info="<components><comp name='Encuestas' id='14645561'><comp name='P3: Implementación módulo de encuestas del AP_CRM' id='14645568'/><comp name='P4: Implementación de políticas para creación de encuestas de satisfacción a las campañas de MPLA' id='14645569'/><comp name='P5: Integración de sistemas de información para activar proceso de envío de encuestas' id='14645570'/></comp><comp name='Conocimiento de Cliente' id='14645562'><comp name='Lanzamiento' id='14645789'/><comp name='Tarea de Rol' id='14645800'/><comp name='P6: Crear servicio de consulta de transacciones en AP_BCS' id='14645571'><comp name='Portal' id='14645698'/></comp><comp name='P7: Crear campañas enfocadas a clientes con baja actividad.' id='14645572'><comp name='Portal' id='14645712'/></comp><comp name='P8: Integrar el subproceso de confirmar transacción' id='14645573'/></comp><comp name='Ciclo3' id='14645831'><comp name='Lanzamiento' id='14645809'/><comp name='Proceso' id='14645823'/><comp name='P11: Reputacion' id='14645564'><comp name='Portal' id='14645770'/></comp><comp name='P9: Crear Combos promocionales' id='14645563'><comp name='Portal' id='14645741'/></comp><comp name='P10: Comprar combos' id='14645833'><comp name='Portal' id='14645834'/></comp><comp name='IntegracionFinal' id='14645784'/></comp></components>
 Project_ID="hyegb1b9
 Project_Schedule_ID="lyth0i.hyegb1vz
