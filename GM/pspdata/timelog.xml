@@ -47,7 +47,7 @@
   <time id="49" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Lanzamiento/Plan de riesgos" start="@1410296328560" delta="19" />
   <time id="50" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(1)" start="@1410697523000" delta="40" />
   <time id="51" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(2)" start="@1411302334000" delta="2400" />
-  <time id="52" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(3)" start="@1411907142000" delta="2400" />
+  <time id="52" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(3)" start="@1411907142000" delta="40" />
   <time id="53" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Base de datos-Atributos/Planning" start="@1414499276000" delta="30" />
   <time id="54" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Base de datos-Atributos/Design" start="@1412425727209" delta="10" />
   <time id="55" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Base de datos-Atributos/Design Review" start="@1412425746672" delta="5" />
@@ -115,4 +115,5 @@
   <time id="129" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(4)" start="@1413202514843" delta="141" />
   <time id="130" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Integracion de estrategia/Postmortem" start="@1413211000124" delta="44" />
   <time id="131" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Integracion de estrategia/Postmortem" start="@1413218285117" delta="120" />
+  <time id="132" path="/Proyecto/Proyecto3GM/Ciclo3/Lanzamiento/Asignar roles y tareas" start="@1413136191000" delta="60" comment="Lanzamiento" />
 </timeLogEntries>
