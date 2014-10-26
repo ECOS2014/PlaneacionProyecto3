@@ -1,33 +1,26 @@
-Process Dashboard - logging started at Sat Oct 25 16:47:01 COT 2014
+Process Dashboard - logging started at Sun Oct 26 12:05:09 COT 2014
 Sun Microsystems Inc. JRE 1.6.0_18; Windows NT (unknown)
 Using LocalWorkingDirectory[C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata]
 Created default translation engine.
-25/10/2014 04:47:07 PM net.sourceforge.processdash.ProcessDashboard <init>
+26/10/2014 12:05:11 PM net.sourceforge.processdash.ProcessDashboard <init>
 INFO: Process Dashboard version 2.0
-25/10/2014 04:47:13 PM net.sourceforge.processdash.tool.export.DataImporter importData
+26/10/2014 12:05:12 PM net.sourceforge.processdash.tool.export.DataImporter importData
 INFO: importing C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\Equipo\data\hyegb1b9\disseminate\team-data.pdash
-schedule simulation took 156 ms.
-schedule simulation took 94 ms.
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\58.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\59.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\60.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\62.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\61.dat
 Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\0.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\15.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\56.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-schedule simulation took 82 ms.
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-schedule simulation took 106 ms.
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-schedule simulation took 105 ms.
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-schedule simulation took 98 ms.
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\62.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\62.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\62.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\62.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\62.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\62.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\62.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\62.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\62.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\62.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\62.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\62.dat
 Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
 Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
 Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
@@ -41,63 +34,19 @@ Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
 Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
 Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
 Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
+schedule simulation took 40 ms.
 Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
 Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
 Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
 Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
 Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
+schedule simulation took 27 ms.
 Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-schedule simulation took 32 ms.
-schedule simulation took 18 ms.
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-schedule simulation took 15 ms.
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\19.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\19.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\19.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\19.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\19.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\19.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\19.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\19.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\19.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\19.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\19.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\19.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\19.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\19.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\19.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\19.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\19.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\19.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\19.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\19.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\19.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\19.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\21.dat
-25/10/2014 10:11:21 PM net.sourceforge.processdash.ProcessDashboard quit
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\62.dat
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\62.dat
+26/10/2014 01:36:24 PM net.sourceforge.processdash.ProcessDashboard quit
 INFO: Successfully saved all data.
-schedule simulation took 32 ms.
+schedule simulation took 30 ms.
 Completed user-scheduled data export.
 Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\0.dat
 Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\global.dat

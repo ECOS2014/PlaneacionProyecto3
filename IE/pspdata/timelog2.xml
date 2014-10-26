@@ -1,16 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="125" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Back/Planning" start="@1414273689416" delta="4" flag="A" />
-  <time id="126" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Back/Design" start="@1414275454448" delta="8" flag="A" />
-  <time id="127" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Back/Design Review" start="@1414275969050" delta="8" flag="A" />
-  <time id="128" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Back/Code" start="@1414276434795" delta="12" flag="A" />
-  <time id="129" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Back/Planning" start="@1414277175011" delta="6" flag="A" />
-  <time id="130" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Back/Design" start="@1414277540855" delta="19" flag="A" />
-  <time id="131" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Back/Code" start="@1414284614960" delta="13" flag="A" />
-  <time id="132" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Back/Code Review" start="@1414285404814" delta="26" flag="A" />
-  <time id="133" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Front/Design" start="@1414289829962" delta="7" flag="A" />
-  <time id="134" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Front/Design Review" start="@1414290266143" delta="10" flag="A" />
-  <time id="135" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Front/Code" start="@1414290850097" delta="17" flag="A" />
-  <time id="136" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Front/Code Review" start="@1414291875781" delta="9" flag="A" />
-  <time id="137" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Back/Code Review" start="@1414292433307" delta="5" flag="A" />
+  <time id="138" path="/Proyecto/Proyecto3_IE/Ciclo3/Proceso/Seguimiento(1)" start="@1414343127660" delta="80" flag="A" />
+  <time id="139" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Back/Code Review" start="@1414344627051" delta="37" flag="A" />
 </timeLogEntries>
