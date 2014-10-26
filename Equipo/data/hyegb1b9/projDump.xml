@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<project name='Proyecto3' id='14645847' tid='hyegb1b9:14645847' labels='none' dumpFileVersion='4.0.0' dumpTimestamp='@1414286991024'>
+<project name='Proyecto3' id='14645847' tid='hyegb1b9:14645847' labels='none' dumpFileVersion='4.0.0' dumpTimestamp='@1414361750439'>
   <teamMember name='Carlos Felipe Roa' tmid='463994169' initials='CR' startDate='@1406505600000' startCalendarDate='2014-07-28' endWeek='14' hoursPerWeek='6.5'>
     <scheduleException week='9' hours='0.0'/>
     <scheduleException week='10' hours='0.0'/>
@@ -131,18 +131,18 @@
 		</component>
 		<component name='P11: Reputacion' id='14645564' tid='hyegb1b9:14645564' labels='Ciclo3'>
 			<component name='Portal' id='14645770' tid='hyegb1b9:14645770' labels='Ciclo3' wid='6849906'>
-				<psp name='Portlet' id='14645771' tid='hyegb1b9:14645771' labels='Ciclo3' wid='6849893' time=',FF=5.555555555555555,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='2' sizeAdd='0' sizeReu='0' sizeNC='2'/>
-				<psp name='Bean Session' id='14645772' tid='hyegb1b9:14645772' labels='Ciclo3' wid='6849894' time=',FF=1.25,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='2' sizeAdd='0' sizeReu='0' sizeNC='2'/>
-				<psp name='Proxy' id='14645773' tid='hyegb1b9:14645773' labels='Ciclo3' wid='6849895' time=',FF=4.545454545454546,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='2' sizeAdd='0' sizeReu='0' sizeNC='2'/>
-				<psp name='JSPX' id='14645774' tid='hyegb1b9:14645774' labels='Ciclo3' wid='6849896' time=',FF=0.8,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='2' sizeAdd='0' sizeReu='0' sizeNC='2'/>
+				<psp name='Portlet' id='14645771' tid='hyegb1b9:14645771' labels='Ciclo3' wid='6849893' time=',DA=2.8,FF=2.8,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='2' sizeAdd='0' sizeReu='0' sizeNC='2'/>
+				<psp name='Bean Session' id='14645772' tid='hyegb1b9:14645772' labels='Ciclo3' wid='6849894' time=',DA=0.6,FF=0.6,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='2' sizeAdd='0' sizeReu='0' sizeNC='2'/>
+				<psp name='Proxy' id='14645773' tid='hyegb1b9:14645773' labels='Ciclo3' wid='6849895' time=',DA=2.25,FF=2.25,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='2' sizeAdd='0' sizeReu='0' sizeNC='2'/>
+				<psp name='JSPX' id='14645774' tid='hyegb1b9:14645774' labels='Ciclo3' wid='6849896' time=',DA=0.8,FF=0.8,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='2' sizeAdd='0' sizeReu='0' sizeNC='2'/>
 			</component>
-			<psp name='OSB Front' id='14645775' tid='hyegb1b9:14645775' labels='Ciclo3' wid='6849897' time=',IE=0.6666666666666666,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
+			<psp name='OSB Front' id='14645775' tid='hyegb1b9:14645775' labels='Ciclo3' wid='6849897' time=',IE=1.3333333333333333,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
 			<psp name='BPEL' id='14645776' tid='hyegb1b9:14645776' labels='Ciclo3' wid='6849898' time=',CR=45,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='24' sizeAdd='1' sizeReu='0' sizeNC='25'/>
-			<psp name='BAM' id='14645777' tid='hyegb1b9:14645777' labels='Ciclo3' wid='6849899' time=',PC=1,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
-			<psp name='CRM-SugarCallOut' id='14645779' tid='hyegb1b9:14645779' labels='Ciclo3' wid='6849901' time=',GM=4,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
+			<psp name='BAM' id='14645777' tid='hyegb1b9:14645777' labels='Ciclo3' wid='6849899' time=',PC=3.3333333333333335,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+			<psp name='CRM-SugarCallOut' id='14645779' tid='hyegb1b9:14645779' labels='Ciclo3' wid='6849901' time=',GM=20,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
 			<psp name='CRM-DB' id='14645827' tid='hyegb1b9:14645827' labels='Ciclo3' time=',GM=0.25,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
-			<psp name='OSB Back' id='14645780' tid='hyegb1b9:14645780' labels='Ciclo3' wid='6849902' time=',IE=0.6666666666666666,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
-			<psp name='Aplicacion Lagado' id='14645781' tid='hyegb1b9:14645781' labels='Ciclo3' wid='6849903' time=',FF=0.11933174224343675,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
+			<psp name='OSB Back' id='14645780' tid='hyegb1b9:14645780' labels='Ciclo3' wid='6849902' time=',IE=6.666666666666667,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
+			<psp name='Aplicacion Lagado' id='14645781' tid='hyegb1b9:14645781' labels='Ciclo3' wid='6849903' time=',PC=1.1933174224343674,FF=1.1933174224343674,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='10' sizeReu='0' sizeNC='10'/>
 			<psp name='Integracion' id='14645828' tid='hyegb1b9:14645828' labels='Ciclo3' time=',CR=2,IE=2,PC=2,DA=2,FF=2,GM=2,'/>
 		</component>
 		<component name='P9: Crear Combos promocionales' id='14645563' tid='hyegb1b9:14645563' labels='Ciclo3'>
@@ -150,15 +150,15 @@
 				<psp name='Portlet' id='14645742' tid='hyegb1b9:14645742' labels='Ciclo3' wid='6849893' time=',DA=5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='3' sizeReu='0' sizeNC='3'/>
 				<psp name='Bean Session' id='14645743' tid='hyegb1b9:14645743' labels='Ciclo3' wid='6849894' time=',DA=1.25,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
 				<psp name='Proxy' id='14645744' tid='hyegb1b9:14645744' labels='Ciclo3' wid='6849895' time=',DA=5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
-				<psp name='JSPX' id='14645745' tid='hyegb1b9:14645745' labels='Ciclo3' wid='6849896' time=',DA=0.8333333333333334,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+				<psp name='JSPX' id='14645745' tid='hyegb1b9:14645745' labels='Ciclo3' wid='6849896' time=',DA=1.6666666666666667,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
 			</component>
-			<psp name='OSB Front' id='14645746' tid='hyegb1b9:14645746' labels='Ciclo3' wid='6849897' time=',IE=0.6666666666666666,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
-			<psp name='BPEL' id='14645747' tid='hyegb1b9:14645747' labels='Ciclo3' wid='6849898' time=',CR=45,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='104' sizeReu='0' sizeNC='104'/>
-			<psp name='BAM' id='14645824' tid='hyegb1b9:14645824' labels='Ciclo3' time=',PC=1,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
+			<psp name='OSB Front' id='14645746' tid='hyegb1b9:14645746' labels='Ciclo3' wid='6849897' time=',IE=1.3333333333333333,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+			<psp name='BPEL' id='14645747' tid='hyegb1b9:14645747' labels='Ciclo3' wid='6849898' time=',CR=22.5,PC=22.5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='104' sizeReu='0' sizeNC='104'/>
+			<psp name='BAM' id='14645824' tid='hyegb1b9:14645824' labels='Ciclo3' time=',PC=3.3333333333333335,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
 			<psp name='CRM-SugarCallout' id='14645755' tid='hyegb1b9:14645755' labels='Ciclo3' time=',GM=5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
-			<psp name='CRM-DB' id='14645825' tid='hyegb1b9:14645825' labels='Ciclo3' time=',GM=0.25,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
-			<psp name='OSB Back' id='14645751' tid='hyegb1b9:14645751' labels='Ciclo3' wid='6849902' time=',IE=0.6666666666666666,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
-			<psp name='Aplicacion Legado' id='14645826' tid='hyegb1b9:14645826' labels='Ciclo3' time=',FF=0.11904761904761904,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
+			<psp name='CRM-DB' id='14645825' tid='hyegb1b9:14645825' labels='Ciclo3' time=',GM=2,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
+			<psp name='OSB Back' id='14645751' tid='hyegb1b9:14645751' labels='Ciclo3' wid='6849902' time=',IE=4,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+			<psp name='Aplicacion Legado' id='14645826' tid='hyegb1b9:14645826' labels='Ciclo3' time=',FF=2.380952380952381,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='20' sizeReu='0' sizeNC='20'/>
 			<psp name='Integracion' id='14645829' tid='hyegb1b9:14645829' labels='Ciclo3' time=',CR=2,IE=2,PC=2,DA=2,FF=2,GM=2,'/>
 		</component>
 		<component name='P10: Comprar combos' id='14645833' tid='hyegb1b9:14645833' labels='Ciclo3'>
@@ -166,15 +166,13 @@
 				<psp name='Portlet' id='14645835' tid='hyegb1b9:14645835' labels='Ciclo3' wid='6849893' time=',DA=5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='3' sizeReu='0' sizeNC='3'/>
 				<psp name='Bean Session' id='14645836' tid='hyegb1b9:14645836' labels='Ciclo3' wid='6849894' time=',DA=1.25,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
 				<psp name='Proxy' id='14645837' tid='hyegb1b9:14645837' labels='Ciclo3' wid='6849895' time=',DA=5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
-				<psp name='JSPX' id='14645838' tid='hyegb1b9:14645838' labels='Ciclo3' wid='6849896' time=',DA=0.8333333333333334,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+				<psp name='JSPX' id='14645838' tid='hyegb1b9:14645838' labels='Ciclo3' wid='6849896' time=',DA=2.5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
 			</component>
-			<psp name='OSB Front' id='14645839' tid='hyegb1b9:14645839' labels='Ciclo3' wid='6849897' time=',IE=0.6666666666666666,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
-			<psp name='BPEL' id='14645840' tid='hyegb1b9:14645840' labels='Ciclo3' wid='6849898' time=',CR=75,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='104' sizeReu='0' sizeNC='104'/>
-			<psp name='BAM' id='14645841' tid='hyegb1b9:14645841' labels='Ciclo3' time=',PC=1,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
+			<psp name='OSB Front' id='14645839' tid='hyegb1b9:14645839' labels='Ciclo3' wid='6849897' time=',IE=2.6666666666666665,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+			<psp name='BPEL' id='14645840' tid='hyegb1b9:14645840' labels='Ciclo3' wid='6849898' time=',CR=23.863636363636363,PC=51.13636363636363,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='104' sizeReu='0' sizeNC='104'/>
 			<psp name='CRM-SugarCallout' id='14645842' tid='hyegb1b9:14645842' labels='Ciclo3' time=',GM=5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
-			<psp name='CRM-DB' id='14645843' tid='hyegb1b9:14645843' labels='Ciclo3' time=',GM=0.25,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
-			<psp name='OSB Back' id='14645844' tid='hyegb1b9:14645844' labels='Ciclo3' wid='6849902' time=',IE=0.6666666666666666,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
-			<psp name='Aplicacion Legado' id='14645845' tid='hyegb1b9:14645845' labels='Ciclo3' time=',FF=0.11904761904761904,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
+			<psp name='OSB Back' id='14645844' tid='hyegb1b9:14645844' labels='Ciclo3' wid='6849902' time=',IE=2.6666666666666665,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
+			<psp name='Aplicacion Legado' id='14645845' tid='hyegb1b9:14645845' labels='Ciclo3' time=',FF=2.380952380952381,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='20' sizeReu='0' sizeNC='20'/>
 			<psp name='Integracion' id='14645846' tid='hyegb1b9:14645846' labels='Ciclo3' time=',CR=2,IE=2,PC=2,DA=2,FF=2,GM=2,'/>
 		</component>
 		<component name='IntegracionFinal' id='14645784' tid='hyegb1b9:14645784' labels='Ciclo3'>
