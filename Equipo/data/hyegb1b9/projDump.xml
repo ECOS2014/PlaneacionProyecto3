@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<project name='Proyecto3' id='14645847' tid='hyegb1b9:14645847' labels='none' dumpFileVersion='4.0.0' dumpTimestamp='@1413517036949'>
+<project name='Proyecto3' id='14645847' tid='hyegb1b9:14645847' labels='none' dumpFileVersion='4.0.0' dumpTimestamp='@1414286991024'>
   <teamMember name='Carlos Felipe Roa' tmid='463994169' initials='CR' startDate='@1406505600000' startCalendarDate='2014-07-28' endWeek='14' hoursPerWeek='6.5'>
     <scheduleException week='9' hours='0.0'/>
     <scheduleException week='10' hours='0.0'/>
@@ -137,7 +137,7 @@
 				<psp name='JSPX' id='14645774' tid='hyegb1b9:14645774' labels='Ciclo3' wid='6849896' time=',FF=0.8,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='2' sizeAdd='0' sizeReu='0' sizeNC='2'/>
 			</component>
 			<psp name='OSB Front' id='14645775' tid='hyegb1b9:14645775' labels='Ciclo3' wid='6849897' time=',IE=0.6666666666666666,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
-			<psp name='BPEL' id='14645776' tid='hyegb1b9:14645776' labels='Ciclo3' wid='6849898' time=',CR=2.5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='24' sizeAdd='1' sizeReu='0' sizeNC='25'/>
+			<psp name='BPEL' id='14645776' tid='hyegb1b9:14645776' labels='Ciclo3' wid='6849898' time=',CR=45,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='24' sizeAdd='1' sizeReu='0' sizeNC='25'/>
 			<psp name='BAM' id='14645777' tid='hyegb1b9:14645777' labels='Ciclo3' wid='6849899' time=',PC=1,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
 			<psp name='CRM-SugarCallOut' id='14645779' tid='hyegb1b9:14645779' labels='Ciclo3' wid='6849901' time=',GM=4,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='1' sizeAdd='0' sizeReu='0' sizeNC='1'/>
 			<psp name='CRM-DB' id='14645827' tid='hyegb1b9:14645827' labels='Ciclo3' time=',GM=0.25,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
@@ -153,7 +153,7 @@
 				<psp name='JSPX' id='14645745' tid='hyegb1b9:14645745' labels='Ciclo3' wid='6849896' time=',DA=0.8333333333333334,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
 			</component>
 			<psp name='OSB Front' id='14645746' tid='hyegb1b9:14645746' labels='Ciclo3' wid='6849897' time=',IE=0.6666666666666666,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
-			<psp name='BPEL' id='14645747' tid='hyegb1b9:14645747' labels='Ciclo3' wid='6849898' time=',CR=2.5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='104' sizeReu='0' sizeNC='104'/>
+			<psp name='BPEL' id='14645747' tid='hyegb1b9:14645747' labels='Ciclo3' wid='6849898' time=',CR=45,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='104' sizeReu='0' sizeNC='104'/>
 			<psp name='BAM' id='14645824' tid='hyegb1b9:14645824' labels='Ciclo3' time=',PC=1,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
 			<psp name='CRM-SugarCallout' id='14645755' tid='hyegb1b9:14645755' labels='Ciclo3' time=',GM=5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
 			<psp name='CRM-DB' id='14645825' tid='hyegb1b9:14645825' labels='Ciclo3' time=',GM=0.25,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
@@ -169,7 +169,7 @@
 				<psp name='JSPX' id='14645838' tid='hyegb1b9:14645838' labels='Ciclo3' wid='6849896' time=',DA=0.8333333333333334,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
 			</component>
 			<psp name='OSB Front' id='14645839' tid='hyegb1b9:14645839' labels='Ciclo3' wid='6849897' time=',IE=0.6666666666666666,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='2' sizeReu='0' sizeNC='2'/>
-			<psp name='BPEL' id='14645840' tid='hyegb1b9:14645840' labels='Ciclo3' wid='6849898' time=',CR=2.5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='104' sizeReu='0' sizeNC='104'/>
+			<psp name='BPEL' id='14645840' tid='hyegb1b9:14645840' labels='Ciclo3' wid='6849898' time=',CR=75,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='104' sizeReu='0' sizeNC='104'/>
 			<psp name='BAM' id='14645841' tid='hyegb1b9:14645841' labels='Ciclo3' time=',PC=1,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
 			<psp name='CRM-SugarCallout' id='14645842' tid='hyegb1b9:14645842' labels='Ciclo3' time=',GM=5,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>
 			<psp name='CRM-DB' id='14645843' tid='hyegb1b9:14645843' labels='Ciclo3' time=',GM=0.25,' sizeUnits='LOC' sizeBase='0' sizeDel='0' sizeMod='0' sizeAdd='1' sizeReu='0' sizeNC='1'/>

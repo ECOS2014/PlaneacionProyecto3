@@ -731,16 +731,16 @@
             <attr name='Workflow Rate' value='1.0'/>
           </wbsNode>
           <wbsNode name='BPEL' id='14645776' type='PSP Task' indentLevel='4'>
-            <attr name='Time (Top Down)' value='2.5'/>
+            <attr name='Time (Top Down)' value='45.0'/>
             <attr name='Added-LOC (Top Down)' value='1.0'/>
             <attr name='Task Size Units' value='Bloque'/>
-            <attr name='Time Per Person' value='2.5'/>
+            <attr name='Time Per Person' value='45.0'/>
             <attr name='workflowSourceIDs' value='6849898'/>
             <attr name='Rate' value='0.4'/>
-            <attr name='Misc Size' value='1.0'/>
+            <attr name='Misc Size' value='18.0'/>
             <attr name='Modified-LOC (Top Down)' value='24.0'/>
             <attr name='Workflow Rate' value='1.0'/>
-            <attr name='CR-Time (Top Down)' value='2.5'/>
+            <attr name='CR-Time (Top Down)' value='45.0'/>
           </wbsNode>
           <wbsNode name='BAM' id='14645777' type='PSP Task' indentLevel='4'>
             <attr name='Time (Top Down)' value='1.0'/>
@@ -878,16 +878,16 @@
         </wbsNode>
         <wbsNode name='BPEL' id='14645747' type='PSP Task' indentLevel='3'>
           <attr name='GM-Time (Top Down)' value='0.0'/>
-          <attr name='Time (Top Down)' value='2.5'/>
+          <attr name='Time (Top Down)' value='45.0'/>
           <attr name='Added-LOC (Top Down)' value='104.0'/>
           <attr name='DA-Time (Top Down)' value='0.0'/>
           <attr name='Task Size Units' value='Bloque'/>
-          <attr name='Time Per Person' value='2.5'/>
+          <attr name='Time Per Person' value='45.0'/>
           <attr name='workflowSourceIDs' value='6849898'/>
           <attr name='Rate' value='0.4'/>
-          <attr name='Misc Size' value='1.0'/>
+          <attr name='Misc Size' value='18.0'/>
           <attr name='Workflow Rate' value='1.0'/>
-          <attr name='CR-Time (Top Down)' value='2.5'/>
+          <attr name='CR-Time (Top Down)' value='45.0'/>
         </wbsNode>
         <wbsNode name='BAM' id='14645824' type='PSP Task' indentLevel='3'>
           <attr name='Time (Top Down)' value='1.0'/>
@@ -1009,16 +1009,16 @@
         </wbsNode>
         <wbsNode name='BPEL' id='14645840' type='PSP Task' indentLevel='3'>
           <attr name='GM-Time (Top Down)' value='0.0'/>
-          <attr name='Time (Top Down)' value='2.5'/>
+          <attr name='Time (Top Down)' value='75.0'/>
           <attr name='Added-LOC (Top Down)' value='104.0'/>
           <attr name='DA-Time (Top Down)' value='0.0'/>
           <attr name='Task Size Units' value='Bloque'/>
-          <attr name='Time Per Person' value='2.5'/>
+          <attr name='Time Per Person' value='75.0'/>
           <attr name='workflowSourceIDs' value='6849898'/>
           <attr name='Rate' value='0.4'/>
-          <attr name='Misc Size' value='1.0'/>
+          <attr name='Misc Size' value='30.0'/>
           <attr name='Workflow Rate' value='1.0'/>
-          <attr name='CR-Time (Top Down)' value='2.5'/>
+          <attr name='CR-Time (Top Down)' value='75.0'/>
         </wbsNode>
         <wbsNode name='BAM' id='14645841' type='PSP Task' indentLevel='3'>
           <attr name='Time (Top Down)' value='1.0'/>
