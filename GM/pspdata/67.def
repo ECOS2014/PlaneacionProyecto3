@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="Assignment" inj="Code" rem="Test" ft="3.2" fd="" desc="Error de asignacion de variable de reputacion al query de inserción" date="@1414360149227" />
+  <defect num="2" type="Assignment" inj="Code" rem="Test" ft="3.4" fd="" desc="Error del tamaño de la lista de asignacion metodo  crearCliente" date="@1414360744656" />
+  <defect num="3" type="Assignment" inj="Code" rem="Test" ft="11.0" fd="" desc="error al redondear la variable de retorno del metodo de calcular reputacion" date="@1414360987744" />
+</defectLog>

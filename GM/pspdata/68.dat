@@ -1,6 +1,17 @@
 #include <psp2.1/dataFile.txt>
 = Data for /Proyecto/Proyecto3GM/Ciclo3/P11: Reputacion/Integracion
+Code/Defects Injected==3.0
+Code/Started=@1414357621571
+Code/Time==28.0
+Compile/Started=@1414361983117
+Compile/Time==8.0
+Design/Started=@1414357515033
+Design/Time==2.0
 EV_Task_IDs=="hyegb1b9:14645828
 Estimated Time=120.0
 Estimated Time_Last_Synced_Val=120.0
+Planning/Started=@1414356753830
+Planning/Time==12.0
+Started=@1414356753830
+Test/Defects Removed==3.0
 WBS_Unique_ID="14645828
