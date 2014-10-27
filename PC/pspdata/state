@@ -143,8 +143,8 @@
           <node name="Seguimiento(4)" templateID="TSP/Indiv2Task" dataFile="60.dat" defectLog="59.def"/>
           <node name="Seguimiento(5)" templateID="TSP/Indiv2Task" dataFile="61.dat" defectLog="60.def"/>
         </node>
-        <node name="P11: Reputacion" templateID="TSP/Indiv2ReadOnlyNode" dataFile="15.dat" defectLog="14.def">
-          <node name="BAM" templateID="PSP2.1" dataFile="62.dat" defectLog="61.def" selected="true">
+        <node name="P11: Reputacion" templateID="TSP/Indiv2ReadOnlyNode" dataFile="15.dat" defectLog="14.def" selected="true">
+          <node name="BAM" templateID="PSP2.1" dataFile="62.dat" defectLog="61.def">
             <node name="Planning"/>
             <node name="Design" selected="true"/>
             <node name="Design Review"/>
@@ -152,6 +152,16 @@
             <node name="Code Review"/>
             <node name="Compile"/>
             <node name="Test"/>
+            <node name="Postmortem"/>
+          </node>
+          <node name="Aplicacion Lagado" templateID="PSP2.1" dataFile="70.dat" defectLog="69.def" selected="true">
+            <node name="Planning"/>
+            <node name="Design"/>
+            <node name="Design Review"/>
+            <node name="Code"/>
+            <node name="Code Review"/>
+            <node name="Compile"/>
+            <node name="Test" selected="true"/>
             <node name="Postmortem"/>
           </node>
           <node name="Integracion" templateID="PSP2.1" dataFile="63.dat" defectLog="62.def">
@@ -165,7 +175,17 @@
             <node name="Postmortem"/>
           </node>
         </node>
-        <node name="P9: Crear Combos promocionales" templateID="TSP/Indiv2ReadOnlyNode" dataFile="18.dat" defectLog="17.def" selected="true">
+        <node name="P9: Crear Combos promocionales" templateID="TSP/Indiv2ReadOnlyNode" dataFile="18.dat" defectLog="17.def">
+          <node name="BPEL" templateID="PSP2.1" dataFile="71.dat" defectLog="70.def">
+            <node name="Planning" selected="true"/>
+            <node name="Design"/>
+            <node name="Design Review"/>
+            <node name="Code"/>
+            <node name="Code Review"/>
+            <node name="Compile"/>
+            <node name="Test"/>
+            <node name="Postmortem"/>
+          </node>
           <node name="BAM" templateID="PSP2.1" dataFile="64.dat" defectLog="63.def" selected="true">
             <node name="Planning"/>
             <node name="Design"/>
@@ -188,7 +208,7 @@
           </node>
         </node>
         <node name="P10: Comprar combos" templateID="TSP/Indiv2ReadOnlyNode" dataFile="66.dat" defectLog="65.def">
-          <node name="BAM" templateID="PSP2.1" dataFile="67.dat" defectLog="66.def" selected="true">
+          <node name="BPEL" templateID="PSP2.1" dataFile="72.dat" defectLog="71.def" selected="true">
             <node name="Planning" selected="true"/>
             <node name="Design"/>
             <node name="Design Review"/>
