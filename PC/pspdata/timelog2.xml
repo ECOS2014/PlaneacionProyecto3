@@ -1,10 +1,12 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="93" path="/Project/Proyecto3PC/Ciclo3/P11: Reputacion/BAM/Planning" start="@1414359162803" delta="10" flag="A" />
-  <time id="94" path="/Project/Proyecto3PC/Ciclo3/P11: Reputacion/BAM/Design" start="@1414359762887" delta="5" flag="A" />
-  <time id="95" path="/Project/Proyecto3PC/Ciclo3/P11: Reputacion/BAM/Design Review" start="@1414360040287" delta="2" flag="A" />
-  <time id="96" path="/Project/Proyecto3PC/Ciclo3/P11: Reputacion/BAM/Planning" start="@1414360230122" delta="3" flag="A" />
-  <time id="97" path="/Project/Proyecto3PC/Ciclo3/P9: Crear Combos promocionales/BAM/Planning" start="@1414360421429" delta="3" flag="A" />
-  <time id="98" path="/Project/Proyecto3PC/Ciclo3/P9: Crear Combos promocionales/BAM/Design" start="@1414360631591" delta="2" flag="A" />
-  <time id="99" path="/Project/Proyecto3PC/Ciclo3/P9: Crear Combos promocionales/BAM/Design Review" start="@1414360752150" delta="6" flag="A" />
+  <time id="100" path="/Project/Proyecto3PC/Ciclo3/P11: Reputacion/Aplicacion Lagado/Planning" start="@1414369216361" delta="15" flag="A" />
+  <time id="101" path="/Project/Proyecto3PC/Ciclo3/P11: Reputacion/Aplicacion Lagado/Design" start="@1414369227150" delta="10" flag="A" />
+  <time id="102" path="/Project/Proyecto3PC/Ciclo3/P11: Reputacion/Aplicacion Lagado/Design Review" start="@1414369231504" delta="5" flag="A" />
+  <time id="103" path="/Project/Proyecto3PC/Ciclo3/P11: Reputacion/Aplicacion Lagado/Code" start="@1414369243935" delta="20" flag="A" />
+  <time id="104" path="/Project/Proyecto3PC/Ciclo3/P11: Reputacion/Aplicacion Lagado/Code" start="@1414369253620" delta="17" flag="A" />
+  <time id="105" path="/Project/Proyecto3PC/Ciclo3/P11: Reputacion/Aplicacion Lagado/Test" start="@1414370267047" delta="7" flag="A" />
+  <time id="106" path="/Project/Proyecto3PC/Ciclo3/P11: Reputacion/Aplicacion Lagado/Code" start="@1414371549821" delta="22" flag="A" />
+  <time id="107" path="/Project/Proyecto3PC/Ciclo3/P11: Reputacion/Aplicacion Lagado/Code" start="@1414374708495" delta="8" flag="A" />
+  <time id="108" path="/Project/Proyecto3PC/Ciclo3/P11: Reputacion/Aplicacion Lagado/Test" start="@1414375173291" delta="10" flag="A" />
 </timeLogEntries>

@@ -1,0 +1,18 @@
+#include <psp2.1/dataFile.txt>
+= Data for /Project/Proyecto3PC/Ciclo3/P10: Comprar combos/BPEL
+Base_Parts/0/Base=0.0
+Base_Parts/0/Deleted=0.0
+Base_Parts/0/Modified=0.0
+EV_Task_IDs=="hyegb1b9:14645840
+Estimated Base LOC_Last_Synced_Val=0.0
+Estimated Deleted LOC_Last_Synced_Val=0.0
+Estimated Modified LOC_Last_Synced_Val=0.0
+Estimated New & Changed LOC=70.9090909090909
+Estimated New & Changed LOC_Last_Synced_Val=70.9090909090909
+Estimated Time=3068.181818181818
+Estimated Time_Last_Synced_Val=3068.181818181818
+New Objects/0/LOC=70.9090909090909
+New Objects/0/LOC_Last_Synced_Val=70.9090909090909
+Reused Objects/0/LOC_Last_Synced_Val=0.0
+WBS_Unique_ID="14645840
+Workflow_Source_ID="6849898

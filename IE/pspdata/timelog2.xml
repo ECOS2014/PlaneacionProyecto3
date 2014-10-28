@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="138" path="/Proyecto/Proyecto3_IE/Ciclo3/Proceso/Seguimiento(1)" start="@1414343127660" delta="80" flag="A" />
-  <time id="139" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Back/Code Review" start="@1414344627051" delta="37" flag="A" />
+  <time path="/Proyecto/Proyecto3_IE/Ciclo3/Lanzamiento/Asignar roles y tareas&#10;/Proyecto/Proyecto3_IE/Ciclo3/Test_/Lanzamiento/Asignar roles y tareas" flag="R" />
+  <time path="/Proyecto/Proyecto3_IE/Ciclo3/Lanzamiento/Metas del producto&#10;/Proyecto/Proyecto3_IE/Ciclo3/Test_/Lanzamiento/Metas del producto" flag="R" />
+  <time path="/Proyecto/Proyecto3_IE/Ciclo3/Lanzamiento/PDT&#10;/Proyecto/Proyecto3_IE/Ciclo3/Test_/Lanzamiento/PDT" flag="R" />
+  <time path="/Proyecto/Proyecto3_IE/Ciclo3/Lanzamiento&#10;/Proyecto/Proyecto3_IE/Ciclo3/Test_/Lanzamiento" flag="R" />
+  <time path="/Proyecto/Proyecto3_IE/Ciclo3/Proceso/Seguimiento(1)&#10;/Proyecto/Proyecto3_IE/Ciclo3/Test_/Proceso/Seguimiento(1)" flag="R" />
+  <time path="/Proyecto/Proyecto3_IE/Ciclo3/Proceso/Seguimiento(2)&#10;/Proyecto/Proyecto3_IE/Ciclo3/Test_/Proceso/Seguimiento(2)" flag="R" />
+  <time path="/Proyecto/Proyecto3_IE/Ciclo3/Proceso/Seguimiento(3)&#10;/Proyecto/Proyecto3_IE/Ciclo3/Test_/Proceso/Seguimiento(3)" flag="R" />
+  <time path="/Proyecto/Proyecto3_IE/Ciclo3/Proceso/Seguimiento(4)&#10;/Proyecto/Proyecto3_IE/Ciclo3/Test_/Proceso/Seguimiento(4)" flag="R" />
+  <time path="/Proyecto/Proyecto3_IE/Ciclo3/Proceso/Seguimiento(5)&#10;/Proyecto/Proyecto3_IE/Ciclo3/Test_/Proceso/Seguimiento(5)" flag="R" />
+  <time path="/Proyecto/Proyecto3_IE/Ciclo3/Proceso&#10;/Proyecto/Proyecto3_IE/Ciclo3/Test_/Proceso" flag="R" />
+  <time path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Front&#10;/Proyecto/Proyecto3_IE/Ciclo3/Test_/P11: Reputacion/OSB Front" flag="R" />
+  <time path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Back&#10;/Proyecto/Proyecto3_IE/Ciclo3/Test_/P11: Reputacion/OSB Back" flag="R" />
+  <time path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/Integracion&#10;/Proyecto/Proyecto3_IE/Ciclo3/Test_/P11: Reputacion/Integracion" flag="R" />
+  <time path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion&#10;/Proyecto/Proyecto3_IE/Ciclo3/Test_/P11: Reputacion" flag="R" />
+  <time path="/Proyecto/Proyecto3_IE/Ciclo3/IntegracionFinal/Informe&#10;/Proyecto/Proyecto3_IE/Ciclo3/Test_/IntegracionFinal/Informe" flag="R" />
+  <time path="/Proyecto/Proyecto3_IE/Ciclo3/IntegracionFinal/Pruebas SAT&#10;/Proyecto/Proyecto3_IE/Ciclo3/Test_/IntegracionFinal/Pruebas SAT" flag="R" />
+  <time path="/Proyecto/Proyecto3_IE/Ciclo3/IntegracionFinal&#10;/Proyecto/Proyecto3_IE/Ciclo3/Test_/IntegracionFinal" flag="R" />
+  <time id="140" path="/Proyecto/Proyecto3_IE/Ciclo3/Test_/P11: Reputacion/OSB Back/Planning" start="@1414461309609" delta="52" interrupt="35" flag="A" />
 </timeLogEntries>
