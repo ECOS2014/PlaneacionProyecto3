@@ -1,0 +1,18 @@
+#include <psp2.1/dataFile.txt>
+= Data for /Proyecto/Proyecto3_IE/Ciclo3/P9: Crear Combos promocionales/BPEL
+Base_Parts/0/Base=0.0
+Base_Parts/0/Deleted=0.0
+Base_Parts/0/Modified=0.0
+EV_Task_IDs=="hyegb1b9:14645747
+Estimated Base LOC_Last_Synced_Val=0.0
+Estimated Deleted LOC_Last_Synced_Val=0.0
+Estimated Modified LOC_Last_Synced_Val=0.0
+Estimated New & Changed LOC=64.19557398036945
+Estimated New & Changed LOC_Last_Synced_Val=64.19557398036945
+Estimated Time=1666.615862951899
+Estimated Time_Last_Synced_Val=1666.615862951899
+New Objects/0/LOC=64.19557398036945
+New Objects/0/LOC_Last_Synced_Val=64.19557398036945
+Reused Objects/0/LOC_Last_Synced_Val=0.0
+WBS_Unique_ID="14645747
+Workflow_Source_ID="6849898
