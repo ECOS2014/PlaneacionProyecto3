@@ -1,17 +1,174 @@
 #include <psp2.1/dataFile.txt>
-= Data for /Proyecto/Proyecto3GM/Ciclo3/P11: Reputacion/Integracion
+= Data for /Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/Integracion
+After Development/Estimated Defects Removed==#NaN=DEFAULT
+Before Development/Estimated Defects Injected==#NaN=DEFAULT
+Code Review vs Code/Estimated Time Ratio==#0.023696682464454975=DEFAULT
+Code Review/Completed=@1414554535989
+Code Review/Completed_Last_Synced_Val=@1414554535989
+Code Review/Estimated Appraisal Rate==#NaN=DEFAULT
+Code Review/Estimated DRL==#NaN=DEFAULT
+Code Review/Estimated Defect Density==#NaN=DEFAULT
+Code Review/Estimated Defect Injection Density==#NaN=DEFAULT
+Code Review/Estimated Defects Injected per Hour==#NaN=DEFAULT
+Code Review/Estimated Defects Injected==#NaN=DEFAULT
+Code Review/Estimated Defects Removed per Hour==#NaN=DEFAULT
+Code Review/Estimated Defects Removed==#NaN=DEFAULT
+Code Review/Estimated Time==#0.9193776520509194=DEFAULT
+Code/Combined Estimated Time==#39.71711456859972=DEFAULT
+Code/Completed=@1414554535965
+Code/Completed_Last_Synced_Val=@1414554535965
 Code/Defects Injected==3.0
+Code/Estimated Defect Density==#NaN=DEFAULT
+Code/Estimated Defect Injection Density==#NaN=DEFAULT
+Code/Estimated Defects Injected per Hour==#NaN=DEFAULT
+Code/Estimated Defects Injected==#NaN=DEFAULT
+Code/Estimated Defects Removed per Hour==#NaN=DEFAULT
+Code/Estimated Defects Removed==#NaN=DEFAULT
+Code/Estimated Time==#38.7977369165488=DEFAULT
 Code/Started=@1414357621571
-Code/Time==28.0
+Code/Time==0.0
+Compile/Completed_Last_Synced_Val=@1414554536014
+Compile/Estimated DRL==#NaN=DEFAULT
+Compile/Estimated Defect Density==#NaN=DEFAULT
+Compile/Estimated Defect Injection Density==#NaN=DEFAULT
+Compile/Estimated Defects Injected per Hour==#NaN=DEFAULT
+Compile/Estimated Defects Injected==#NaN=DEFAULT
+Compile/Estimated Defects Removed per Hour==#NaN=DEFAULT
+Compile/Estimated Defects Removed==#NaN=DEFAULT
+Compile/Estimated Time==#0.0=DEFAULT
 Compile/Started=@1414361983117
-Compile/Time==8.0
+Compile/Time==0.0
+Design Review vs Design/Estimated Time Ratio==#1.2454545454545454=DEFAULT
+Design Review/Completed=@1414554535943
+Design Review/Completed_Last_Synced_Val=@1414554535943
+Design Review/Estimated Appraisal Rate==#NaN=DEFAULT
+Design Review/Estimated DRL==#NaN=DEFAULT
+Design Review/Estimated Defect Density==#NaN=DEFAULT
+Design Review/Estimated Defect Injection Density==#NaN=DEFAULT
+Design Review/Estimated Defects Injected per Hour==#NaN=DEFAULT
+Design Review/Estimated Defects Injected==#NaN=DEFAULT
+Design Review/Estimated Defects Removed per Hour==#NaN=DEFAULT
+Design Review/Estimated Defects Removed==#NaN=DEFAULT
+Design Review/Estimated Time==#9.688826025459688=DEFAULT
+Design vs Code/Estimated Time Ratio==#0.2005103900838498=DEFAULT
+Design/Combined Estimated Time==#17.468175388967467=DEFAULT
+Design/Completed=@1414554535917
+Design/Completed_Last_Synced_Val=@1414554535917
+Design/Estimated Defect Density==#NaN=DEFAULT
+Design/Estimated Defect Injection Density==#NaN=DEFAULT
+Design/Estimated Defects Injected per Hour==#NaN=DEFAULT
+Design/Estimated Defects Injected==#NaN=DEFAULT
+Design/Estimated Defects Removed per Hour==#NaN=DEFAULT
+Design/Estimated Defects Removed==#NaN=DEFAULT
+Design/Estimated Time==#7.779349363507779=DEFAULT
 Design/Started=@1414357515033
-Design/Time==2.0
-EV_Task_IDs=="hyegb1b9:14645828
-Estimated Time=120.0
-Estimated Time_Last_Synced_Val=120.0
+Design/Time==0.0
+EV_Task_IDs=="
+Estimated % Appraisal COQ==#0.08840169731258839=DEFAULT
+Estimated % COQ==#0.37293729372937295=DEFAULT
+Estimated % Failure COQ==#0.28453559641678455=DEFAULT
+Estimated % New Reused==#NaN=DEFAULT
+Estimated % Reused==#NaN=DEFAULT
+Estimated AFR==#0.3106876553438276=DEFAULT
+Estimated Added & Modified Size/Beta0==#0.0=DEFAULT
+Estimated Added & Modified Size/Beta1==#0.0=DEFAULT
+Estimated Added & Modified Size/Interval Percent==#0.0=DEFAULT
+Estimated Added & Modified Size/LPI==#0.0=DEFAULT
+Estimated Added & Modified Size/Probe Method==#"D  =DEFAULT
+Estimated Added & Modified Size/R Squared==#0.0=DEFAULT
+Estimated Added & Modified Size/Range==#0.0=DEFAULT
+Estimated Added & Modified Size/UPI==#0.0=DEFAULT
+Estimated Added & Modified Size==#?NaN=DEFAULT
+Estimated Added LOC==#NaN=DEFAULT
+Estimated Additions LOC==#0.0=DEFAULT
+Estimated Aggregate Size==#NaN=DEFAULT
+Estimated Base Added LOC==#0.0=DEFAULT
+Estimated Base Additions LOC==#0.0=DEFAULT
+Estimated Base LOC==#0.0=DEFAULT
+Estimated Defect Density==#NaN=DEFAULT
+Estimated Defects Injected==#NaN=DEFAULT
+Estimated Defects Removed per KLOC==#NaN=DEFAULT
+Estimated Defects Removed==#NaN=DEFAULT
+Estimated Defects per KLOC==#52.083333333333336=DEFAULT
+Estimated Deleted LOC==#0.0=DEFAULT
+Estimated LOC per Hour==#NaN=DEFAULT
+Estimated Max LOC==#0.0=DEFAULT
+Estimated Max Time==#0.0=DEFAULT
+Estimated Min LOC==#0.0=DEFAULT
+Estimated Min Time==#0.0=DEFAULT
+Estimated Modified LOC==#0.0=DEFAULT
+Estimated New & Changed KLOC==#NaN=DEFAULT
+Estimated New & Changed LOC/Beta0==#0.0DEFAULT
+Estimated New & Changed LOC/Beta1==#0.0DEFAULT
+Estimated New & Changed LOC/Interval Percent==#0.0DEFAULT
+Estimated New & Changed LOC/LPI==#0.0DEFAULT
+Estimated New & Changed LOC/Probe Method==#"D  DEFAULT
+Estimated New & Changed LOC/R Squared==#0.0DEFAULT
+Estimated New & Changed LOC/Range==#0.0DEFAULT
+Estimated New & Changed LOC/UPI==#0.0DEFAULT
+Estimated New & Changed LOC==#?NaNDEFAULT
+Estimated New Objects LOC==#0.0=DEFAULT
+Estimated New Reused LOC==#0.0=DEFAULT
+Estimated Object LOC==#0.0=DEFAULT
+Estimated PQI==#0.00950286208928198=DEFAULT
+Estimated Productivity==#NaN=DEFAULT
+Estimated Proxy Size==#0.0=DEFAULT
+Estimated Quality_Profile_1==#0.2005103900838498=DEFAULT
+Estimated Quality_Profile_2==#0.04739336492890995=DEFAULT
+Estimated Quality_Profile_3==#1.0=DEFAULT
+Estimated Quality_Profile_4==#1.0=DEFAULT
+Estimated Quality_Profile_5==#2.4909090909090907=DEFAULT
+Estimated Reused LOC==#0.0=DEFAULT
+Estimated Size==#?NaN=DEFAULT
+Estimated Time/Beta0==#0.0DEFAULT
+Estimated Time/Beta1==#0.0DEFAULT
+Estimated Time/Interval Percent==#0.0DEFAULT
+Estimated Time/LPI==#0.0DEFAULT
+Estimated Time/Probe Method==#"D  DEFAULT
+Estimated Time/R Squared==#0.0DEFAULT
+Estimated Time/Range==#0.0DEFAULT
+Estimated Time/UPI==#0.0DEFAULT
+Estimated Time==#120.0120.0
+Estimated Time_Last_Synced_Val==#120.0120.0
+Estimated Total LOC/Range==#0.0=DEFAULT
+Estimated Total LOC==#NaN=DEFAULT
+Estimated Yield==#Infinity=DEFAULT
+HLD Review vs HLD/Estimated Time Ratio==#NaN=DEFAULT
+HLD vs Design/Estimated Time Ratio==#NaN=DEFAULT
+Normalized_Estimated_Defects_Injected==#NaN=DEFAULT
+Normalized_Estimated_Defects_Removed==#NaN=DEFAULT
+Normalized_Estimated_Time==#120.0=DEFAULT
+PM/Estimated Time==#12.404526166902404=DEFAULT
+Planning/Completed=@1414554535595
+Planning/Completed_Last_Synced_Val=@1414554535595
+Planning/Estimated Defect Density==#NaN=DEFAULT
+Planning/Estimated Defect Injection Density==#NaN=DEFAULT
+Planning/Estimated Defects Injected per Hour==#NaN=DEFAULT
+Planning/Estimated Defects Injected==#NaN=DEFAULT
+Planning/Estimated Defects Removed per Hour==#NaN=DEFAULT
+Planning/Estimated Defects Removed==#NaN=DEFAULT
+Planning/Estimated Time==#16.265912305516267=DEFAULT
 Planning/Started=@1414356753830
-Planning/Time==12.0
+Planning/Time==0.0
+Postmortem/Completed=@1414554536089
+Postmortem/Completed_Last_Synced_Val=@1414554536089
+Postmortem/Estimated Defect Density==#NaN=DEFAULT
+Postmortem/Estimated Defect Injection Density==#NaN=DEFAULT
+Postmortem/Estimated Defects Injected per Hour==#NaN=DEFAULT
+Postmortem/Estimated Defects Injected==#NaN=DEFAULT
+Postmortem/Estimated Defects Removed per Hour==#NaN=DEFAULT
+Postmortem/Estimated Defects Removed==#NaN=DEFAULT
+Postmortem/Estimated Time==#12.404526166902404=DEFAULT
 Started=@1414356753830
+Test/Completed=@1414554536068
+Test/Completed_Last_Synced_Val=@1414554536068
 Test/Defects Removed==3.0
+Test/Estimated Defect Density==#NaN=DEFAULT
+Test/Estimated Defect Injection Density==#NaN=DEFAULT
+Test/Estimated Defects Injected per Hour==#NaN=DEFAULT
+Test/Estimated Defects Injected==#NaN=DEFAULT
+Test/Estimated Defects Removed per Hour==#NaN=DEFAULT
+Test/Estimated Defects Removed per KLOC==#NaN=DEFAULT
+Test/Estimated Defects Removed==#NaN=DEFAULT
+Test/Estimated Time==#34.14427157001415=DEFAULT
 WBS_Unique_ID="14645828

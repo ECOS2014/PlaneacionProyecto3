@@ -1,4 +1,27 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="141" comment="tiempo de subida al servidor. pruebas en servidor y publicacion del nuevo jar" flag="M" />
+  <time path="/Proyecto/Proyecto3GM/Ciclo3/Lanzamiento/Asignar roles y tareas&#10;/Proyecto/Proyecto3GM/Ciclo3/Test_/Lanzamiento/Asignar roles y tareas" flag="R" />
+  <time path="/Proyecto/Proyecto3GM/Ciclo3/Lanzamiento/Plan de riesgos&#10;/Proyecto/Proyecto3GM/Ciclo3/Test_/Lanzamiento/Plan de riesgos" flag="R" />
+  <time path="/Proyecto/Proyecto3GM/Ciclo3/Lanzamiento&#10;/Proyecto/Proyecto3GM/Ciclo3/Test_/Lanzamiento" flag="R" />
+  <time path="/Proyecto/Proyecto3GM/Ciclo3/Proceso/Seguimiento(1)&#10;/Proyecto/Proyecto3GM/Ciclo3/Test_/Proceso/Seguimiento(1)" flag="R" />
+  <time path="/Proyecto/Proyecto3GM/Ciclo3/Proceso/Seguimiento(2)&#10;/Proyecto/Proyecto3GM/Ciclo3/Test_/Proceso/Seguimiento(2)" flag="R" />
+  <time path="/Proyecto/Proyecto3GM/Ciclo3/Proceso/Seguimiento(3)&#10;/Proyecto/Proyecto3GM/Ciclo3/Test_/Proceso/Seguimiento(3)" flag="R" />
+  <time path="/Proyecto/Proyecto3GM/Ciclo3/Proceso/Seguimiento(4)&#10;/Proyecto/Proyecto3GM/Ciclo3/Test_/Proceso/Seguimiento(4)" flag="R" />
+  <time path="/Proyecto/Proyecto3GM/Ciclo3/Proceso/Seguimiento(5)&#10;/Proyecto/Proyecto3GM/Ciclo3/Test_/Proceso/Seguimiento(5)" flag="R" />
+  <time path="/Proyecto/Proyecto3GM/Ciclo3/Proceso&#10;/Proyecto/Proyecto3GM/Ciclo3/Test_/Proceso" flag="R" />
+  <time path="/Proyecto/Proyecto3GM/Ciclo3/P11: Reputacion/CRM-SugarCallOut&#10;/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-SugarCallOut" flag="R" />
+  <time path="/Proyecto/Proyecto3GM/Ciclo3/P11: Reputacion/CRM-DB&#10;/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-DB" flag="R" />
+  <time path="/Proyecto/Proyecto3GM/Ciclo3/P11: Reputacion/Integracion&#10;/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/Integracion" flag="R" />
+  <time path="/Proyecto/Proyecto3GM/Ciclo3/P11: Reputacion&#10;/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion" flag="R" />
+  <time path="/Proyecto/Proyecto3GM/Ciclo3/IntegracionFinal/Informe&#10;/Proyecto/Proyecto3GM/Ciclo3/Test_/IntegracionFinal/Informe" flag="R" />
+  <time path="/Proyecto/Proyecto3GM/Ciclo3/IntegracionFinal/Pruebas SAT&#10;/Proyecto/Proyecto3GM/Ciclo3/Test_/IntegracionFinal/Pruebas SAT" flag="R" />
+  <time path="/Proyecto/Proyecto3GM/Ciclo3/IntegracionFinal&#10;/Proyecto/Proyecto3GM/Ciclo3/Test_/IntegracionFinal" flag="R" />
+  <time id="143" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-SugarCallOut/Planning" start="@1414554594886" delta="13" flag="A" />
+  <time id="144" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-SugarCallOut/Design" start="@1414555352573" delta="3" flag="A" />
+  <time id="145" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-SugarCallOut/Compile" start="@1414556049457" delta="1" flag="A" />
+  <time id="137" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-SugarCallOut/Planning" flag="M" />
+  <time id="138" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-SugarCallOut/Design" flag="M" />
+  <time id="139" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-SugarCallOut/Code" flag="M" />
+  <time id="140" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-SugarCallOut/Code" flag="M" />
+  <time id="141" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-SugarCallOut/Compile" flag="M" />
 </timeLogEntries>

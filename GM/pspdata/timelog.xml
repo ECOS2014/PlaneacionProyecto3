@@ -46,7 +46,7 @@
   <time id="48" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Lanzamiento/Plan de riesgos" start="@1410231139928" delta="3" />
   <time id="49" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Lanzamiento/Plan de riesgos" start="@1410296328560" delta="19" />
   <time id="50" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(1)" start="@1410697523000" delta="40" />
-  <time id="51" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(2)" start="@1411302334000" delta="2400" />
+  <time id="51" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(2)" start="@1411302334000" delta="40" />
   <time id="52" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(3)" start="@1411907142000" delta="40" />
   <time id="53" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Base de datos-Atributos/Planning" start="@1414499276000" delta="30" />
   <time id="54" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Base de datos-Atributos/Design" start="@1412425727209" delta="10" />
@@ -123,5 +123,6 @@
   <time id="138" path="/Proyecto/Proyecto3GM/Ciclo3/P11: Reputacion/Integracion/Design" start="@1414357515033" delta="2" />
   <time id="139" path="/Proyecto/Proyecto3GM/Ciclo3/P11: Reputacion/Integracion/Code" start="@1414357621571" delta="26" />
   <time id="140" path="/Proyecto/Proyecto3GM/Ciclo3/P11: Reputacion/Integracion/Code" start="@1414361845095" delta="2" />
-  <time id="141" path="/Proyecto/Proyecto3GM/Ciclo3/P11: Reputacion/Integracion/Compile" start="@1414361983117" delta="8" />
+  <time id="141" path="/Proyecto/Proyecto3GM/Ciclo3/P11: Reputacion/Integracion/Compile" start="@1414361983117" delta="8" comment="tiempo de subida al servidor. pruebas en servidor y publicacion del nuevo jar" />
+  <time id="142" path="/Proyecto/Proyecto3GM/Ciclo3/P11: Reputacion/CRM-SugarCallOut/Test" start="@1414363543090" delta="14" interrupt="1" />
 </timeLogEntries>
