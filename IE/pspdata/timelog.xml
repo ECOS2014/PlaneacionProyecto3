@@ -114,28 +114,31 @@
   <time id="112" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/Tarea de Rol/Seguimiento(4)" start="@1412957188000" delta="10" />
   <time id="113" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/Tarea de Rol/Seguimiento(4)" start="@1413131044863" delta="10" />
   <time id="114" path="/Proyecto/Proyecto3_IE/Conocimiento de Cliente/Integracion de estrategia/Postmortem" start="@1413122069000" delta="40" />
-  <time id="116" path="/Proyecto/Proyecto3_IE/Ciclo3/Lanzamiento/Metas del producto" start="@1413433800000" delta="50" />
-  <time id="117" path="/Proyecto/Proyecto3_IE/Ciclo3/Lanzamiento/PDT" start="@1413438991246" delta="50" />
-  <time id="118" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Front/Planning" start="@1413431214000" delta="5" />
-  <time id="119" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Front/Planning" start="@1413517629194" />
-  <time id="120" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Back/Planning" start="@1413431234000" delta="5" />
+  <time id="116" path="/Proyecto/Proyecto3_IE/Ciclo3/Test_/Lanzamiento/Metas del producto" start="@1413433800000" delta="50" />
+  <time id="117" path="/Proyecto/Proyecto3_IE/Ciclo3/Test_/Lanzamiento/PDT" start="@1413438991246" delta="50" />
+  <time id="118" path="/Proyecto/Proyecto3_IE/Ciclo3/Test_/P11: Reputacion/OSB Front/Planning" start="@1413431214000" delta="5" />
+  <time id="119" path="/Proyecto/Proyecto3_IE/Ciclo3/Test_/P11: Reputacion/OSB Front/Planning" start="@1413517629194" />
+  <time id="120" path="/Proyecto/Proyecto3_IE/Ciclo3/Test_/P11: Reputacion/OSB Back/Planning" start="@1413431234000" delta="5" />
   <time id="121" path="/Proyecto/Proyecto3_IE/Ciclo3/P9: Crear Combos promocionales/OSB Back/Planning" start="@1413431305000" delta="5" />
-  <time id="122" path="/Proyecto/Proyecto3_IE/Ciclo3/Lanzamiento/Asignar roles y tareas" start="@1413520676814" delta="30" />
+  <time id="122" path="/Proyecto/Proyecto3_IE/Ciclo3/Test_/Lanzamiento/Asignar roles y tareas" start="@1413520676814" delta="30" />
   <time id="123" path="/Proyecto/Proyecto3_IE/Ciclo3/P10: Comprar combos/OSB Front/Planning" start="@1413434423000" delta="5" />
   <time id="124" path="/Proyecto/Proyecto3_IE/Ciclo3/P10: Comprar combos/OSB Back/Planning" start="@1413434436000" delta="5" />
-  <time id="125" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Back/Planning" start="@1414273689416" delta="4" />
-  <time id="126" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Back/Design" start="@1414275454448" delta="8" />
-  <time id="127" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Back/Design Review" start="@1414275969050" delta="8" />
-  <time id="128" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Back/Code" start="@1414276434795" delta="12" />
-  <time id="129" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Back/Planning" start="@1414277175011" delta="6" />
-  <time id="130" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Back/Design" start="@1414277540855" delta="19" />
-  <time id="131" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Back/Code" start="@1414284614960" delta="13" />
-  <time id="132" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Back/Code Review" start="@1414285404814" delta="26" />
-  <time id="133" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Front/Design" start="@1414289829962" delta="7" />
-  <time id="134" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Front/Design Review" start="@1414290266143" delta="10" />
-  <time id="135" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Front/Code" start="@1414290850097" delta="17" />
-  <time id="136" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Front/Code Review" start="@1414291875781" delta="9" />
-  <time id="137" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Back/Code Review" start="@1414292433307" delta="5" />
-  <time id="138" path="/Proyecto/Proyecto3_IE/Ciclo3/Proceso/Seguimiento(1)" start="@1414343127660" delta="80" />
-  <time id="139" path="/Proyecto/Proyecto3_IE/Ciclo3/P11: Reputacion/OSB Back/Code Review" start="@1414344627051" delta="37" />
+  <time id="125" path="/Proyecto/Proyecto3_IE/Ciclo3/Test_/P11: Reputacion/OSB Back/Planning" start="@1414273689416" delta="4" />
+  <time id="126" path="/Proyecto/Proyecto3_IE/Ciclo3/Test_/P11: Reputacion/OSB Back/Design" start="@1414275454448" delta="8" />
+  <time id="127" path="/Proyecto/Proyecto3_IE/Ciclo3/Test_/P11: Reputacion/OSB Back/Design Review" start="@1414275969050" delta="8" />
+  <time id="128" path="/Proyecto/Proyecto3_IE/Ciclo3/Test_/P11: Reputacion/OSB Back/Code" start="@1414276434795" delta="12" />
+  <time id="129" path="/Proyecto/Proyecto3_IE/Ciclo3/Test_/P11: Reputacion/OSB Back/Planning" start="@1414277175011" delta="6" />
+  <time id="130" path="/Proyecto/Proyecto3_IE/Ciclo3/Test_/P11: Reputacion/OSB Back/Design" start="@1414277540855" delta="19" />
+  <time id="131" path="/Proyecto/Proyecto3_IE/Ciclo3/Test_/P11: Reputacion/OSB Back/Code" start="@1414284614960" delta="13" />
+  <time id="132" path="/Proyecto/Proyecto3_IE/Ciclo3/Test_/P11: Reputacion/OSB Back/Code Review" start="@1414285404814" delta="26" />
+  <time id="133" path="/Proyecto/Proyecto3_IE/Ciclo3/Test_/P11: Reputacion/OSB Front/Design" start="@1414289829962" delta="7" />
+  <time id="134" path="/Proyecto/Proyecto3_IE/Ciclo3/Test_/P11: Reputacion/OSB Front/Design Review" start="@1414290266143" delta="10" />
+  <time id="135" path="/Proyecto/Proyecto3_IE/Ciclo3/Test_/P11: Reputacion/OSB Front/Code" start="@1414290850097" delta="17" />
+  <time id="136" path="/Proyecto/Proyecto3_IE/Ciclo3/Test_/P11: Reputacion/OSB Front/Code Review" start="@1414291875781" delta="9" />
+  <time id="137" path="/Proyecto/Proyecto3_IE/Ciclo3/Test_/P11: Reputacion/OSB Back/Code Review" start="@1414292433307" delta="5" />
+  <time id="138" path="/Proyecto/Proyecto3_IE/Ciclo3/Test_/Proceso/Seguimiento(1)" start="@1414343127660" delta="80" />
+  <time id="139" path="/Proyecto/Proyecto3_IE/Ciclo3/Test_/P11: Reputacion/OSB Back/Code Review" start="@1414344627051" delta="37" />
+  <time id="140" path="/Proyecto/Proyecto3_IE/Ciclo3/Test_/P11: Reputacion/OSB Back/Planning" start="@1414461309609" delta="52" interrupt="35" />
+  <time id="141" path="/Proyecto/Proyecto3_IE/Ciclo3/Test_/P11: Reputacion/OSB Back/Planning" start="@1414645928517" delta="30" />
+  <time id="142" path="/Proyecto/Proyecto3_IE/Ciclo3/Test_/P11: Reputacion/OSB Back/Design" start="@1414645966196" delta="20" />
 </timeLogEntries>
