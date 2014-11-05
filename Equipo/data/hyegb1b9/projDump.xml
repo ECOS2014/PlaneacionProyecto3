@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<project name='Proyecto3' id='14645849' tid='hyegb1b9:14645849' labels='none' dumpFileVersion='4.0.0' dumpTimestamp='@1414538852005'>
+<project name='Proyecto3' id='14645849' tid='hyegb1b9:14645849' labels='none' dumpFileVersion='4.0.0' dumpTimestamp='@1415159506395'>
   <teamMember name='Carlos Felipe Roa' tmid='463994169' initials='CR' startDate='@1406505600000' startCalendarDate='2014-07-28' endWeek='14' hoursPerWeek='6.5'>
     <scheduleException week='9' hours='0.0'/>
     <scheduleException week='10' hours='0.0'/>
@@ -113,7 +113,7 @@
 		<psp name='Integracion de estrategia' id='14645799' tid='hyegb1b9:14645799' labels='Ciclo2' time=',CR=5,IE=5,PC=5,DA=5,FF=5,GM=5,'/>
 	</component>
 	<component name='Ciclo3' id='14645831' tid='hyegb1b9:14645831' labels='none'>
-		<component name='Test' id='14645847' tid='hyegb1b9:14645847' labels='none'>
+		<component name='Reputacion' id='14645847' tid='hyegb1b9:14645847' labels='none'>
 			<component name='Lanzamiento' id='14645809' tid='hyegb1b9:14645809' labels='Ciclo3'>
 				<task name='Asignar roles y tareas' id='14645816' tid='hyegb1b9:14645816' labels='Ciclo3' phaseName='Planning' phaseType='PLAN' time=',CR=0.3,IE=0.3,PC=0.3,DA=0.3,FF=0.3,GM=0.3,'/>
 				<task name='Metas del producto' id='14645817' tid='hyegb1b9:14645817' labels='Ciclo3' phaseName='Planning' phaseType='PLAN' time=',CR=0.5,IE=0.5,'/>
