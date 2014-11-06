@@ -1,57 +1,77 @@
-Process Dashboard - logging started at Sun Oct 26 19:19:38 COT 2014
+Process Dashboard - logging started at Wed Nov 05 20:39:22 COT 2014
 Apple Inc. JRE 1.6.0_65; Mac OS X
 Using LocalWorkingDirectory[/Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata]
-Oct 26, 2014 7:19:40 PM net.sourceforge.processdash.ProcessDashboard <init>
+Nov 5, 2014 8:39:25 PM net.sourceforge.processdash.ProcessDashboard <init>
 INFO: Process Dashboard version 2.0
-Oct 26, 2014 7:19:41 PM net.sourceforge.processdash.tool.export.DataImporter importData
+Nov 5, 2014 8:39:26 PM net.sourceforge.processdash.tool.export.DataImporter importData
 INFO: importing /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/Equipo/data/hyegb1b9/disseminate/team-data.pdash
 Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/71.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/72.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/67.dat
-schedule simulation took 39 ms.
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/71.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/64.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/72.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
 Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/0.dat
 Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/global.dat
 Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
 Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
+schedule simulation took 43 ms.
 Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/70.dat
-Oct 26, 2014 9:09:36 PM net.sourceforge.processdash.ProcessDashboard quit
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/0.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/global.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/62.dat
+Nov 5, 2014 10:58:58 PM net.sourceforge.processdash.ProcessDashboard quit
 INFO: Successfully saved all data.
-schedule simulation took 28 ms.
+schedule simulation took 29 ms.
 Completed user-scheduled data export.
 Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/0.dat
 Saved /Users/paulacastellanos/Documents/ECOS/PROYECTO/Proyecto3/PlaneacionProyecto3/PC/pspdata/global.dat

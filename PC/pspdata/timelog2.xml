@@ -1,12 +1,28 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="100" path="/Project/Proyecto3PC/Ciclo3/P11: Reputacion/Aplicacion Lagado/Planning" start="@1414369216361" delta="15" flag="A" />
-  <time id="101" path="/Project/Proyecto3PC/Ciclo3/P11: Reputacion/Aplicacion Lagado/Design" start="@1414369227150" delta="10" flag="A" />
-  <time id="102" path="/Project/Proyecto3PC/Ciclo3/P11: Reputacion/Aplicacion Lagado/Design Review" start="@1414369231504" delta="5" flag="A" />
-  <time id="103" path="/Project/Proyecto3PC/Ciclo3/P11: Reputacion/Aplicacion Lagado/Code" start="@1414369243935" delta="20" flag="A" />
-  <time id="104" path="/Project/Proyecto3PC/Ciclo3/P11: Reputacion/Aplicacion Lagado/Code" start="@1414369253620" delta="17" flag="A" />
-  <time id="105" path="/Project/Proyecto3PC/Ciclo3/P11: Reputacion/Aplicacion Lagado/Test" start="@1414370267047" delta="7" flag="A" />
-  <time id="106" path="/Project/Proyecto3PC/Ciclo3/P11: Reputacion/Aplicacion Lagado/Code" start="@1414371549821" delta="22" flag="A" />
-  <time id="107" path="/Project/Proyecto3PC/Ciclo3/P11: Reputacion/Aplicacion Lagado/Code" start="@1414374708495" delta="8" flag="A" />
-  <time id="108" path="/Project/Proyecto3PC/Ciclo3/P11: Reputacion/Aplicacion Lagado/Test" start="@1414375173291" delta="10" flag="A" />
+  <time path="/Project/Proyecto3PC/Ciclo3/Test_/Lanzamiento/Asignar roles y tareas&#10;/Project/Proyecto3PC/Ciclo3/Reputacion/Lanzamiento/Asignar roles y tareas" flag="R" />
+  <time path="/Project/Proyecto3PC/Ciclo3/Test_/Lanzamiento/Plan de desarrollo&#10;/Project/Proyecto3PC/Ciclo3/Reputacion/Lanzamiento/Plan de desarrollo" flag="R" />
+  <time path="/Project/Proyecto3PC/Ciclo3/Test_/Lanzamiento&#10;/Project/Proyecto3PC/Ciclo3/Reputacion/Lanzamiento" flag="R" />
+  <time path="/Project/Proyecto3PC/Ciclo3/Test_/Proceso/Seguimiento(1)&#10;/Project/Proyecto3PC/Ciclo3/Reputacion/Proceso/Seguimiento(1)" flag="R" />
+  <time path="/Project/Proyecto3PC/Ciclo3/Test_/Proceso/Seguimiento(2)&#10;/Project/Proyecto3PC/Ciclo3/Reputacion/Proceso/Seguimiento(2)" flag="R" />
+  <time path="/Project/Proyecto3PC/Ciclo3/Test_/Proceso/Seguimiento(3)&#10;/Project/Proyecto3PC/Ciclo3/Reputacion/Proceso/Seguimiento(3)" flag="R" />
+  <time path="/Project/Proyecto3PC/Ciclo3/Test_/Proceso/Seguimiento(4)&#10;/Project/Proyecto3PC/Ciclo3/Reputacion/Proceso/Seguimiento(4)" flag="R" />
+  <time path="/Project/Proyecto3PC/Ciclo3/Test_/Proceso/Seguimiento(5)&#10;/Project/Proyecto3PC/Ciclo3/Reputacion/Proceso/Seguimiento(5)" flag="R" />
+  <time path="/Project/Proyecto3PC/Ciclo3/Test_/Proceso&#10;/Project/Proyecto3PC/Ciclo3/Reputacion/Proceso" flag="R" />
+  <time path="/Project/Proyecto3PC/Ciclo3/Test_/P11: Reputacion/BPEL&#10;/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BPEL" flag="R" />
+  <time path="/Project/Proyecto3PC/Ciclo3/Test_/P11: Reputacion/BAM&#10;/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM" flag="R" />
+  <time path="/Project/Proyecto3PC/Ciclo3/Test_/P11: Reputacion/Aplicacion Lagado&#10;/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/Aplicacion Lagado" flag="R" />
+  <time path="/Project/Proyecto3PC/Ciclo3/Test_/P11: Reputacion&#10;/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion" flag="R" />
+  <time path="/Project/Proyecto3PC/Ciclo3/Test_/IntegracionFinal/Pruebas SAT&#10;/Project/Proyecto3PC/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT" flag="R" />
+  <time path="/Project/Proyecto3PC/Ciclo3/Test_/IntegracionFinal&#10;/Project/Proyecto3PC/Ciclo3/Reputacion/IntegracionFinal" flag="R" />
+  <time path="/Project/Proyecto3PC/Ciclo3/Test_&#10;/Project/Proyecto3PC/Ciclo3/Reputacion" flag="R" />
+  <time id="115" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Code" start="@1415239147198" delta="4" flag="A" />
+  <time id="116" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Code" start="@1415239362087" delta="26" interrupt="3" flag="A" />
+  <time id="117" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Code Review" start="@1415241129280" delta="2" flag="A" />
+  <time id="118" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Test" start="@1415241243558" delta="4" flag="A" />
+  <time id="119" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Code" start="@1415241801357" delta="31" flag="A" />
+  <time id="120" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Code Review" start="@1415243673274" delta="2" flag="A" />
+  <time id="121" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Test" start="@1415243804978" delta="5" flag="A" />
+  <time id="122" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Code" start="@1415244112158" delta="11" flag="A" />
+  <time id="123" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Test" start="@1415244812678" delta="22" flag="A" />
 </timeLogEntries>

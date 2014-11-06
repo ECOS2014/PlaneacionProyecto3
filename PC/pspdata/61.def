@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="Function" inj="Test Devel" rem="Code" ft="3.3" fd="" desc="Se debe cambiar el nombre del objeto devolucion a transaccion.&#10;Por otro lado este objeto no tiene fecha en la que se realizó la transacción" date="@1415240827896" />
+  <defect num="2" type="Function" inj="Design" rem="Code" ft="5.2" fd="" desc="En el objeto ReputacionFabricante" date="@1415241485711" />
+  <defect num="3" type="Function" inj="Code" rem="Test" ft="7.6" fd="" desc=": No se reconoce el identificador de campo PromReputacion." date="@1415245229163" />
+</defectLog>
