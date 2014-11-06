@@ -111,7 +111,7 @@
         </node>
       </node>
       <node name="Ciclo3" templateID="TSP/Indiv2ReadOnlyNode" dataFile="56.dat" defectLog="55.def" selected="true">
-        <node name="Test_" templateID="TSP/Indiv2ReadOnlyNode" dataFile="74.dat" defectLog="73.def" selected="true">
+        <node name="Reputacion" templateID="TSP/Indiv2ReadOnlyNode" dataFile="74.dat" defectLog="73.def" selected="true">
           <node name="Lanzamiento" templateID="TSP/Indiv2ReadOnlyNode" dataFile="57.dat" defectLog="56.def">
             <node name="Asignar roles y tareas" templateID="TSP/Indiv2Task" dataFile="58.dat" defectLog="57.def"/>
             <node name="Metas del producto" templateID="TSP/Indiv2Task" dataFile="59.dat" defectLog="58.def"/>
@@ -148,11 +148,11 @@
             <node name="OSB Back" templateID="PSP2.1" dataFile="21.dat" defectLog="20.def" selected="true">
               <node name="Planning"/>
               <node name="Design"/>
-              <node name="Design Review" selected="true"/>
+              <node name="Design Review"/>
               <node name="Code"/>
               <node name="Code Review"/>
               <node name="Compile"/>
-              <node name="Test"/>
+              <node name="Test" selected="true"/>
               <node name="Postmortem"/>
             </node>
           </node>
