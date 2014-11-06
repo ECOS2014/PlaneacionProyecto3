@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="Assignment" inj="Code" rem="Test" ft="11.0" fd="" desc="Error en consulta al comparar la reputacion. El query lo toma como un entero por lo que hay que quitarle las comillas al numero a comparar " date="@1415251686607" />
+</defectLog>
