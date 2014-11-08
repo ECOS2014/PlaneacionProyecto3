@@ -6,11 +6,11 @@ Base_Parts/0/Modified=0.0
 Code Review/Started=@1414285404814
 Code Review/Time==68.0
 Code/Started=@1414276434795
-Code/Time==25.0
+Code/Time==54.0
 Design Review/Started=@1414275969050
 Design Review/Time==38.0
 Design/Started=@1414275454448
-Design/Time==47.0
+Design/Time==73.0
 EV_Task_IDs=="hyegb1b9:14645780
 Estimated Base LOC_Last_Synced_Val=0.0
 Estimated Deleted LOC_Last_Synced_Val=0.0
@@ -22,10 +22,10 @@ Estimated Time_Last_Synced_Val=400.0
 New Objects/0/LOC=1.0
 New Objects/0/LOC_Last_Synced_Val=1.0
 Planning/Started=@1414273689416
-Planning/Time==97.0
+Planning/Time==109.0
 Reused Objects/0/LOC_Last_Synced_Val=0.0
 Started=@1414273689416
 Test/Started=@1415238734773
-Test/Time==89.0
+Test/Time==91.0
 WBS_Unique_ID="14645780
 Workflow_Source_ID="6849902

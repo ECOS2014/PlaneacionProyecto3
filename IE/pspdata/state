@@ -135,7 +135,7 @@
               <node name="Test"/>
               <node name="Postmortem"/>
             </node>
-            <node name="CRM-SugarCallOut" templateID="PSP2.1" dataFile="76.dat" defectLog="75.def" selected="true">
+            <node name="CRM-SugarCallOut" templateID="PSP2.1" dataFile="76.dat" defectLog="75.def">
               <node name="Planning"/>
               <node name="Design"/>
               <node name="Design Review"/>
@@ -145,10 +145,10 @@
               <node name="Test"/>
               <node name="Postmortem"/>
             </node>
-            <node name="OSB Back" templateID="PSP2.1" dataFile="21.dat" defectLog="20.def">
+            <node name="OSB Back" templateID="PSP2.1" dataFile="21.dat" defectLog="20.def" selected="true">
               <node name="Planning"/>
-              <node name="Design"/>
-              <node name="Design Review" selected="true"/>
+              <node name="Design" selected="true"/>
+              <node name="Design Review"/>
               <node name="Code"/>
               <node name="Code Review"/>
               <node name="Compile"/>
