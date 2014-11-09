@@ -147,9 +147,9 @@
             </node>
             <node name="OSB Back" templateID="PSP2.1" dataFile="21.dat" defectLog="20.def" selected="true">
               <node name="Planning"/>
-              <node name="Design" selected="true"/>
+              <node name="Design"/>
               <node name="Design Review"/>
-              <node name="Code"/>
+              <node name="Code" selected="true"/>
               <node name="Code Review"/>
               <node name="Compile"/>
               <node name="Test"/>
