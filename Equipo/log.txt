@@ -29,3 +29,16 @@ Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Eq
 Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/global.dat
 Nov 9, 2014 2:05:53 AM com.tuma_solutions.tpidw.client.addon.TpidwAddOnDataLoader$DatasetLoaderThread loadDatasetImpl
 INFO: Refreshed database with project data (took 167 ms)
+schedule simulation took 70 ms.
+schedule simulation took 67 ms.
+schedule simulation took 118 ms.
+schedule simulation took 77 ms.
+schedule simulation took 77 ms.
+schedule simulation took 63 ms.
+Nov 9, 2014 2:08:09 AM net.sourceforge.processdash.tool.bridge.client.WorkingDirectoryFactory get
+INFO: Using local working directory /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/data/hyegb1b9
+setValueAt(12.29279128248114)
+Nov 9, 2014 2:08:54 AM net.sourceforge.processdash.ProcessDashboard quit
+INFO: Successfully saved all data.
+Completed user-scheduled data export.
+Saved /Volumes/Datos/User/CarlosFelipeRoaChavez/Documents/PlaneacionProyecto3/Equipo/global.dat
