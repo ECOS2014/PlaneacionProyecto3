@@ -156,11 +156,11 @@
           </node>
           <node name="P11: Reputacion" templateID="TSP/Indiv2ReadOnlyNode" dataFile="15.dat" defectLog="14.def" selected="true">
             <node name="CRM-SugarCallOut" templateID="PSP2.1" dataFile="21.dat" defectLog="20.def" selected="true">
-              <node name="Planning" selected="true"/>
+              <node name="Planning"/>
               <node name="Design"/>
               <node name="Design Review"/>
               <node name="Code"/>
-              <node name="Code Review"/>
+              <node name="Code Review" selected="true"/>
               <node name="Compile"/>
               <node name="Test"/>
               <node name="Postmortem"/>

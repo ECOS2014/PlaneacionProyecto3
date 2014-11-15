@@ -115,30 +115,36 @@
   <time id="129" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(4)" start="@1413202514843" delta="141" />
   <time id="130" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Integracion de estrategia/Postmortem" start="@1413211000124" delta="44" />
   <time id="131" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Integracion de estrategia/Postmortem" start="@1413218285117" delta="120" />
-  <time id="132" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/Lanzamiento/Asignar roles y tareas" start="@1413136191000" delta="60" comment="Lanzamiento" />
-  <time id="134" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/Lanzamiento/Plan de riesgos" start="@1414295206403" delta="60" />
-  <time id="135" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/Proceso/Seguimiento(1)" start="@1414305674644" delta="50" />
-  <time id="136" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/Proceso/Seguimiento(1)" start="@1414343123214" delta="91" />
-  <time id="137" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-SugarCallOut/Planning" start="@1414356753830" delta="12" />
-  <time id="138" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-SugarCallOut/Design" start="@1414357515033" delta="2" />
-  <time id="139" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-SugarCallOut/Code" start="@1414357621571" delta="26" />
-  <time id="140" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-SugarCallOut/Code" start="@1414361845095" delta="2" />
-  <time id="141" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-SugarCallOut/Compile" start="@1414361983117" delta="8" comment="tiempo de subida al servidor. pruebas en servidor y publicacion del nuevo jar" />
-  <time id="142" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-SugarCallOut/Test" start="@1414363543090" delta="14" interrupt="1" />
-  <time id="143" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-SugarCallOut/Planning" start="@1414554594886" delta="13" />
-  <time id="144" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-SugarCallOut/Design" start="@1414555352573" delta="3" />
-  <time id="145" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-SugarCallOut/Compile" start="@1414556049457" delta="1" />
-  <time id="146" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/Integracion/Planning" start="@1414728720000" delta="50" />
-  <time id="147" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-DB/Planning" start="@1415241258475" delta="5" />
-  <time id="148" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-DB/Design" start="@1415241574748" delta="4" />
-  <time id="149" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-DB/Design Review" start="@1415241837315" delta="3" />
-  <time id="150" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-DB/Code" start="@1415242005055" delta="1" />
-  <time id="151" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-SugarCallOut/Planning" start="@1415242657924" delta="3" />
-  <time id="152" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-SugarCallOut/Design" start="@1415242809803" delta="4" />
-  <time id="153" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-SugarCallOut/Planning" start="@1415243059293" delta="4" />
-  <time id="154" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-SugarCallOut/Code" start="@1415243274268" delta="3" />
-  <time id="155" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-SugarCallOut/Postmortem" start="@1415243555339" delta="2" />
-  <time id="156" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-SugarCallOut/Compile" start="@1415243790203" delta="6" />
-  <time id="157" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-SugarCallOut/Test" start="@1415244329752" delta="3" />
-  <time id="158" path="/Proyecto/Proyecto3GM/Ciclo3/Test_/P11: Reputacion/CRM-SugarCallOut/Compile" start="@1415244774564" delta="10" />
+  <time id="132" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/Lanzamiento/Asignar roles y tareas" start="@1413136191000" delta="60" comment="Lanzamiento" />
+  <time id="134" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/Lanzamiento/Plan de riesgos" start="@1414295206403" delta="60" />
+  <time id="135" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/Proceso/Seguimiento(1)" start="@1414305674644" delta="50" />
+  <time id="136" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/Proceso/Seguimiento(1)" start="@1414343123214" delta="91" />
+  <time id="137" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Planning" start="@1414356753830" delta="12" />
+  <time id="138" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Design" start="@1414357515033" delta="2" />
+  <time id="139" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Code" start="@1414357621571" delta="26" />
+  <time id="140" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Code" start="@1414361845095" delta="2" />
+  <time id="141" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Compile" start="@1414361983117" delta="8" comment="tiempo de subida al servidor. pruebas en servidor y publicacion del nuevo jar" />
+  <time id="142" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Test" start="@1414363543090" delta="14" interrupt="1" />
+  <time id="143" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Planning" start="@1414554594886" delta="13" />
+  <time id="144" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Design" start="@1414555352573" delta="3" />
+  <time id="145" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Compile" start="@1414556049457" delta="1" />
+  <time id="146" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/Integracion/Planning" start="@1414728720000" delta="50" />
+  <time id="147" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-DB/Planning" start="@1415241258475" delta="5" />
+  <time id="148" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-DB/Design" start="@1415241574748" delta="4" />
+  <time id="149" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-DB/Design Review" start="@1415241837315" delta="3" />
+  <time id="150" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-DB/Code" start="@1415242005055" delta="1" />
+  <time id="151" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Planning" start="@1415242657924" delta="3" />
+  <time id="152" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Design" start="@1415242809803" delta="4" />
+  <time id="153" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Planning" start="@1415243059293" delta="4" />
+  <time id="154" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Code" start="@1415243274268" delta="3" />
+  <time id="155" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Postmortem" start="@1415243555339" delta="2" />
+  <time id="156" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Compile" start="@1415243790203" delta="6" />
+  <time id="157" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Test" start="@1415244329752" delta="3" />
+  <time id="158" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Compile" start="@1415244774564" delta="10" />
+  <time id="159" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Test" start="@1415248393058" delta="32" />
+  <time id="160" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Planning" start="@1415250503176" delta="2" />
+  <time id="161" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Test" start="@1415250648126" delta="22" />
+  <time id="162" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Postmortem" start="@1415251985358" delta="2" />
+  <time id="163" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Compile" start="@1415252100599" delta="3" />
+  <time id="164" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Planning" start="@1415252295334" delta="9" />
 </timeLogEntries>
