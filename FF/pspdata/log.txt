@@ -1,17 +1,10 @@
-Process Dashboard - logging started at Mon Oct 13 20:11:36 COT 2014
+Process Dashboard - logging started at Mon Oct 13 20:19:14 COT 2014
 Oracle Corporation JRE 1.7.0_60-ea; Windows 8.1
 Using LocalWorkingDirectory[C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata]
 Created default translation engine.
-oct 13, 2014 8:11:38 PM net.sourceforge.processdash.ProcessDashboard <init>
+oct 13, 2014 8:19:16 PM net.sourceforge.processdash.ProcessDashboard <init>
 INFORMACIÓN: Process Dashboard version 2.0
-oct 13, 2014 8:11:39 PM net.sourceforge.processdash.tool.export.DataImporter importData
+oct 13, 2014 8:19:18 PM net.sourceforge.processdash.tool.export.DataImporter importData
 INFORMACIÓN: importing C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\Equipo\data\hyegb1b9\disseminate\team-data.pdash
-schedule simulation took 72 ms.
-schedule simulation took 72 ms.
-schedule simulation took 26 ms.
-schedule simulation took 31 ms.
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\40.dat
-oct 13, 2014 8:13:27 PM net.sourceforge.processdash.ProcessDashboard quit
-INFORMACIÓN: Successfully saved all data.
-Completed user-scheduled data export.
-Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\global.dat
+schedule simulation took 55 ms.
+schedule simulation took 64 ms.
