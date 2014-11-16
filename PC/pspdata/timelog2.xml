@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="125" path="/Project/Proyecto3PC/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT/Code" start="@1416063255000" flag="A" />
-  <time id="124" delta="-124" interrupt="300" flag="M" />
-  <time id="126" path="/Project/Proyecto3PC/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT/Code" start="@1416102904175" delta="74" flag="A" />
+  <time id="127" path="/Project/Proyecto3PC/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT/Code" start="@1416148223093" delta="14" flag="A" />
+  <time id="128" path="/Project/Proyecto3PC/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT/Code" start="@1416149078186" delta="30" flag="A" />
 </timeLogEntries>
