@@ -87,30 +87,39 @@
   <time id="86" path="/Project/Proyecto3PC/Conocimiento de Cliente/Integracion de estrategia/Postmortem" start="@1413162174773" delta="16" interrupt="3" />
   <time id="87" path="/Project/Proyecto3PC/Conocimiento de Cliente/Integracion de estrategia/Postmortem" start="@1413164447597" delta="4" />
   <time id="88" path="/Project/Proyecto3PC/Conocimiento de Cliente/Integracion de estrategia/Postmortem" start="@1413166289571" delta="183" />
-  <time id="89" path="/Project/Proyecto3PC/Ciclo3/Test_/Lanzamiento/Asignar roles y tareas" start="@1414356652206" delta="20" />
-  <time id="90" path="/Project/Proyecto3PC/Ciclo3/Test_/Lanzamiento/Plan de desarrollo" start="@1414356658246" delta="30" />
-  <time id="91" path="/Project/Proyecto3PC/Ciclo3/Test_/Proceso/Seguimiento(1)" start="@1414342864000" delta="90" />
-  <time id="92" path="/Project/Proyecto3PC/Ciclo3/Test_/Proceso/Seguimiento(1)" start="@1414356690703" delta="9" />
-  <time id="93" path="/Project/Proyecto3PC/Ciclo3/Test_/P11: Reputacion/BAM/Planning" start="@1414359162803" delta="10" />
-  <time id="94" path="/Project/Proyecto3PC/Ciclo3/Test_/P11: Reputacion/BAM/Design" start="@1414359762887" delta="5" />
-  <time id="95" path="/Project/Proyecto3PC/Ciclo3/Test_/P11: Reputacion/BAM/Design Review" start="@1414360040287" delta="2" />
-  <time id="96" path="/Project/Proyecto3PC/Ciclo3/Test_/P11: Reputacion/BAM/Planning" start="@1414360230122" delta="3" />
+  <time id="89" path="/Project/Proyecto3PC/Ciclo3/Reputacion/Lanzamiento/Asignar roles y tareas" start="@1414356652206" delta="20" />
+  <time id="90" path="/Project/Proyecto3PC/Ciclo3/Reputacion/Lanzamiento/Plan de desarrollo" start="@1414356658246" delta="30" />
+  <time id="91" path="/Project/Proyecto3PC/Ciclo3/Reputacion/Proceso/Seguimiento(1)" start="@1414342864000" delta="90" />
+  <time id="92" path="/Project/Proyecto3PC/Ciclo3/Reputacion/Proceso/Seguimiento(1)" start="@1414356690703" delta="9" />
+  <time id="93" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Planning" start="@1414359162803" delta="10" />
+  <time id="94" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Design" start="@1414359762887" delta="5" />
+  <time id="95" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Design Review" start="@1414360040287" delta="2" />
+  <time id="96" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Planning" start="@1414360230122" delta="3" />
   <time id="97" path="/Project/Proyecto3PC/Ciclo3/P9: Crear Combos promocionales/BAM/Planning" start="@1414360421429" delta="3" />
   <time id="98" path="/Project/Proyecto3PC/Ciclo3/P9: Crear Combos promocionales/BAM/Design" start="@1414360631591" delta="2" />
   <time id="99" path="/Project/Proyecto3PC/Ciclo3/P9: Crear Combos promocionales/BAM/Design Review" start="@1414360752150" delta="6" />
-  <time id="100" path="/Project/Proyecto3PC/Ciclo3/Test_/P11: Reputacion/Aplicacion Lagado/Planning" start="@1414369216361" delta="15" />
-  <time id="101" path="/Project/Proyecto3PC/Ciclo3/Test_/P11: Reputacion/Aplicacion Lagado/Design" start="@1414369227150" delta="10" />
-  <time id="102" path="/Project/Proyecto3PC/Ciclo3/Test_/P11: Reputacion/Aplicacion Lagado/Design Review" start="@1414369231504" delta="5" />
-  <time id="103" path="/Project/Proyecto3PC/Ciclo3/Test_/P11: Reputacion/Aplicacion Lagado/Code" start="@1414369243935" delta="20" />
-  <time id="104" path="/Project/Proyecto3PC/Ciclo3/Test_/P11: Reputacion/Aplicacion Lagado/Code" start="@1414369253620" delta="17" />
-  <time id="105" path="/Project/Proyecto3PC/Ciclo3/Test_/P11: Reputacion/Aplicacion Lagado/Test" start="@1414370267047" delta="7" />
-  <time id="106" path="/Project/Proyecto3PC/Ciclo3/Test_/P11: Reputacion/Aplicacion Lagado/Code" start="@1414371549821" delta="22" />
-  <time id="107" path="/Project/Proyecto3PC/Ciclo3/Test_/P11: Reputacion/Aplicacion Lagado/Code" start="@1414374708495" delta="8" />
-  <time id="108" path="/Project/Proyecto3PC/Ciclo3/Test_/P11: Reputacion/Aplicacion Lagado/Test" start="@1414375173291" delta="10" />
-  <time id="109" path="/Project/Proyecto3PC/Ciclo3/Test_/P11: Reputacion/BAM/Design Review" start="@1414728359042" delta="7" />
-  <time id="110" path="/Project/Proyecto3PC/Ciclo3/Test_/P11: Reputacion/BAM/Planning" start="@1414728768417" delta="4" />
-  <time id="111" path="/Project/Proyecto3PC/Ciclo3/Test_/P11: Reputacion/BAM/Design" start="@1414729004079" delta="6" />
-  <time id="112" path="/Project/Proyecto3PC/Ciclo3/Test_/P11: Reputacion/BAM/Design Review" start="@1414729386441" delta="7" />
-  <time id="113" path="/Project/Proyecto3PC/Ciclo3/Test_/P11: Reputacion/BAM/Code" start="@1414730272565" delta="7" interrupt="4" />
-  <time id="114" path="/Project/Proyecto3PC/Ciclo3/Test_/P11: Reputacion/BAM/Code Review" start="@1414730973128" delta="5" />
+  <time id="100" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/Aplicacion Lagado/Planning" start="@1414369216361" delta="15" />
+  <time id="101" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/Aplicacion Lagado/Design" start="@1414369227150" delta="10" />
+  <time id="102" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/Aplicacion Lagado/Design Review" start="@1414369231504" delta="5" />
+  <time id="103" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/Aplicacion Lagado/Code" start="@1414369243935" delta="20" />
+  <time id="104" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/Aplicacion Lagado/Code" start="@1414369253620" delta="17" />
+  <time id="105" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/Aplicacion Lagado/Test" start="@1414370267047" delta="7" />
+  <time id="106" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/Aplicacion Lagado/Code" start="@1414371549821" delta="22" />
+  <time id="107" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/Aplicacion Lagado/Code" start="@1414374708495" delta="8" />
+  <time id="108" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/Aplicacion Lagado/Test" start="@1414375173291" delta="10" />
+  <time id="109" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Design Review" start="@1414728359042" delta="7" />
+  <time id="110" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Planning" start="@1414728768417" delta="4" />
+  <time id="111" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Design" start="@1414729004079" delta="6" />
+  <time id="112" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Design Review" start="@1414729386441" delta="7" />
+  <time id="113" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Code" start="@1414730272565" delta="7" interrupt="4" />
+  <time id="114" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Code Review" start="@1414730973128" delta="5" />
+  <time id="115" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Code" start="@1415239147198" delta="4" />
+  <time id="116" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Code" start="@1415239362087" delta="26" interrupt="3" />
+  <time id="117" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Code Review" start="@1415241129280" delta="2" />
+  <time id="118" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Test" start="@1415241243558" delta="4" />
+  <time id="119" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Code" start="@1415241801357" delta="31" />
+  <time id="120" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Code Review" start="@1415243673274" delta="2" />
+  <time id="121" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Test" start="@1415243804978" delta="5" />
+  <time id="122" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Code" start="@1415244112158" delta="11" />
+  <time id="123" path="/Project/Proyecto3PC/Ciclo3/Reputacion/P11: Reputacion/BAM/Test" start="@1415244812678" delta="22" />
 </timeLogEntries>

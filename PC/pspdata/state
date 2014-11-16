@@ -145,17 +145,17 @@
             <node name="Seguimiento(5)" templateID="TSP/Indiv2Task" dataFile="61.dat" defectLog="60.def"/>
           </node>
           <node name="P11: Reputacion" templateID="TSP/Indiv2ReadOnlyNode" dataFile="15.dat" defectLog="14.def" selected="true">
-            <node name="BPEL" templateID="PSP2.1" dataFile="74.dat" defectLog="73.def">
-              <node name="Planning" selected="true"/>
+            <node name="BPEL" templateID="PSP2.1" dataFile="74.dat" defectLog="73.def" selected="true">
+              <node name="Planning"/>
               <node name="Design"/>
               <node name="Design Review"/>
-              <node name="Code"/>
+              <node name="Code" selected="true"/>
               <node name="Code Review"/>
               <node name="Compile"/>
               <node name="Test"/>
               <node name="Postmortem"/>
             </node>
-            <node name="BAM" templateID="PSP2.1" dataFile="62.dat" defectLog="61.def" selected="true">
+            <node name="BAM" templateID="PSP2.1" dataFile="62.dat" defectLog="61.def">
               <node name="Planning"/>
               <node name="Design"/>
               <node name="Design Review"/>
