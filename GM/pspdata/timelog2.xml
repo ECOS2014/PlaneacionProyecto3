@@ -1,16 +1,4 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="168" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416066445753" delta="21" flag="A" />
-  <time id="169" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416068348588" delta="19" flag="A" />
-  <time id="170" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416071277984" delta="51" flag="A" />
-  <time id="171" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416079168841" delta="17" flag="A" />
-  <time id="172" path="/Proyecto/Proyecto3GM/Ciclo3/P9: Crear Combos promocionales/CRM-SugarCallout/Design" start="@1416081656079" delta="7" flag="A" />
-  <time id="173" path="/Proyecto/Proyecto3GM/Ciclo3/P9: Crear Combos promocionales/CRM-SugarCallout/Compile" start="@1416082084272" delta="28" interrupt="2" flag="A" />
-  <time id="174" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416085484609" delta="109" interrupt="19" flag="A" />
-  <time id="175" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/Integracion/Planning" start="@1416096465541" delta="25" flag="A" />
-  <time id="176" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416100577401" delta="11" flag="A" />
-  <time id="177" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/Proceso/Seguimiento(4)" start="@1416148265454" delta="40" flag="A" />
-  <time id="178" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416153980762" delta="30" flag="A" />
-  <time id="179" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416154004540" delta="17" flag="A" />
-  <time id="180" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416168041328" delta="69" flag="A" />
+  <time id="180" delta="1" flag="M" />
 </timeLogEntries>
