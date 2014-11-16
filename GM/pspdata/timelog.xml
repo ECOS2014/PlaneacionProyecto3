@@ -147,4 +147,7 @@
   <time id="162" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Postmortem" start="@1415251985358" delta="2" />
   <time id="163" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Compile" start="@1415252100599" delta="3" />
   <time id="164" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Planning" start="@1415252295334" delta="9" />
+  <time id="165" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Planning" start="@1415497392324" delta="6" />
+  <time id="166" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Code" start="@1415497733000" delta="15" />
+  <time id="167" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Code Review" start="@1415498142478" delta="10" />
 </timeLogEntries>

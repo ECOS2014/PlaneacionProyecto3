@@ -60,6 +60,8 @@ Compile/Estimated Defects Removed per Hour==#Infinity=DEFAULT
 Compile/Estimated Defects Removed==#0.0=DEFAULT
 Compile/Estimated Time To Date==#0.0=DEFAULT
 Compile/Estimated Time==#0.0=DEFAULT
+Compile/Started=@1416082084272
+Compile/Time==28.0
 Design Review vs Design/Estimated Time Ratio To Date==#1.6244033415349546=DEFAULT
 Design Review vs Design/Estimated Time Ratio==#1.2454545454545454=DEFAULT
 Design Review/Completed=@1414731864221
@@ -100,6 +102,8 @@ Design/Estimated Defects Removed per Hour==#0.0=DEFAULT
 Design/Estimated Defects Removed==#0.0=DEFAULT
 Design/Estimated Time To Date==#451.56432222102734=DEFAULT
 Design/Estimated Time==#19.44837340876945=DEFAULT
+Design/Started=@1416081656079
+Design/Time==7.0
 EV_Task_IDs=="hyegb1b9:14645755
 Estimated % Appraisal COQ To Date==#0.14020465296755963=DEFAULT
 Estimated % Appraisal COQ==#0.0884016973125884=DEFAULT
@@ -296,6 +300,7 @@ Reassessment/Estimated Defects Removed To Date==#0.0=DEFAULT
 Reassessment/Estimated Defects Removed per Hour To Date==#Infinity=DEFAULT
 Reassessment/Estimated Time To Date==#0.0=DEFAULT
 Reused Objects/0/LOC_Last_Synced_Val=0.0
+Started=@1416081656079
 Test/Completed=@1414731872470
 Test/Estimated Defect Density To Date==#6.4920198848770285=DEFAULT
 Test/Estimated Defect Density==#41.66666666666667=DEFAULT
