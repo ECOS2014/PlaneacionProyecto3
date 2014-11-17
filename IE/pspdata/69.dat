@@ -1,8 +1,16 @@
 #include <psp2.1/dataFile.txt>
 = Data for /Proyecto/Proyecto3_IE/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT
+Code/Started=@1416155331534
+Code/Time==36.0
+Design Review/Time==30.0
 Design/Time==20.0
 EV_Task_IDs=="hyegb1b9:14645830
 Estimated Time=164.0921752342365
 Estimated Time_Last_Synced_Val=164.0921752342365
 Planning/Time==40.0
+Postmortem/Started=@1416148222606
+Postmortem/Time==133.0
+Started=@1416148222606
+Test/Started=@1416166007564
+Test/Time==78.0
 WBS_Unique_ID="14645830

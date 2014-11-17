@@ -1,17 +1,16 @@
-Process Dashboard - logging started at Thu Nov 13 23:18:59 COT 2014
+Process Dashboard - logging started at Mon Nov 17 14:35:42 COT 2014
 Sun Microsystems Inc. JRE 1.6.0_18; Windows NT (unknown)
 Using LocalWorkingDirectory[C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata]
 Created default translation engine.
-13/11/2014 11:19:08 PM net.sourceforge.processdash.ProcessDashboard <init>
+17/11/2014 02:35:44 PM net.sourceforge.processdash.ProcessDashboard <init>
 INFO: Process Dashboard version 2.0
-13/11/2014 11:19:18 PM net.sourceforge.processdash.tool.export.DataImporter importData
+17/11/2014 02:35:46 PM net.sourceforge.processdash.tool.export.DataImporter importData
 INFO: importing C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\Equipo\data\hyegb1b9\disseminate\team-data.pdash
+Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\76.dat
 Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\0.dat
-Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\69.dat
-schedule simulation took 145 ms.
-13/11/2014 11:39:36 PM net.sourceforge.processdash.ProcessDashboard quit
+17/11/2014 02:36:49 PM net.sourceforge.processdash.ProcessDashboard quit
 INFO: Successfully saved all data.
-schedule simulation took 96 ms.
+schedule simulation took 39 ms.
 Completed user-scheduled data export.
 Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\0.dat
 Saved C:\Users\ingrid\Documents\GitHub\PlaneacionProyecto3\IE\pspdata\global.dat
