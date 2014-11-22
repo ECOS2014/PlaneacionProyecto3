@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="Function" inj="Design" rem="Test" ft="7.4" fd="" desc="Error en la generacion del servicio de Billing charges" date="@1416667632601" />
+</defectLog>

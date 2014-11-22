@@ -143,9 +143,9 @@
       </node>
       <node name="Ciclo3" templateID="TSP/Indiv2ReadOnlyNode" dataFile="57.dat" defectLog="56.def" selected="true">
         <node name="Reputacion" templateID="TSP/Indiv2ReadOnlyNode" dataFile="76.dat" defectLog="75.def" selected="true">
-          <node name="Lanzamiento" templateID="TSP/Indiv2ReadOnlyNode" dataFile="58.dat" defectLog="57.def">
-            <node name="Asignar roles y tareas" templateID="TSP/Indiv2Task" dataFile="59.dat" defectLog="58.def"/>
-            <node name="Plan de riesgos" templateID="TSP/Indiv2Task" dataFile="60.dat" defectLog="59.def" selected="true"/>
+          <node name="Lanzamiento" templateID="TSP/Indiv2ReadOnlyNode" dataFile="58.dat" defectLog="57.def" selected="true">
+            <node name="Asignar roles y tareas" templateID="TSP/Indiv2Task" dataFile="59.dat" defectLog="58.def" selected="true"/>
+            <node name="Plan de riesgos" templateID="TSP/Indiv2Task" dataFile="60.dat" defectLog="59.def"/>
           </node>
           <node name="Proceso" templateID="TSP/Indiv2ReadOnlyNode" dataFile="61.dat" defectLog="60.def">
             <node name="Seguimiento(1)" templateID="TSP/Indiv2Task" dataFile="62.dat" defectLog="61.def"/>
@@ -186,7 +186,7 @@
               <node name="Postmortem"/>
             </node>
           </node>
-          <node name="IntegracionFinal" templateID="TSP/Indiv2ReadOnlyNode" dataFile="34.dat" defectLog="33.def" selected="true">
+          <node name="IntegracionFinal" templateID="TSP/Indiv2ReadOnlyNode" dataFile="34.dat" defectLog="33.def">
             <node name="Informe" templateID="TSP/Indiv2Task" dataFile="35.dat" defectLog="34.def"/>
             <node name="Pruebas SAT" templateID="PSP2.1" dataFile="75.dat" defectLog="74.def" selected="true">
               <node name="Planning" selected="true"/>

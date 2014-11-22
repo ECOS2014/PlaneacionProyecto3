@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="Function" inj="Code" rem="Test" ft="5.4" fd="" desc="Error de billing charges" date="@1416667375244" />
+</defectLog>
