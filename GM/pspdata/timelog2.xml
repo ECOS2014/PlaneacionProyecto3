@@ -1,4 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="180" delta="1" flag="M" />
+  <time id="181" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/Proceso/Seguimiento(2)" start="@1415544130000" delta="30" flag="A" />
+  <time id="182" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/Proceso/Seguimiento(3)" start="@1416148939000" delta="30" flag="A" />
+  <time id="183" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/Proceso/Seguimiento(5)" start="@1416667346435" delta="30" flag="A" />
 </timeLogEntries>
