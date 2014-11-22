@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="Function" inj="Code" rem="Compile" ft="8.4" fd="" desc="Error inyectado en la codificacion del PO manager" count="2" date="@1416667218101" />
+</defectLog>
