@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="Syntax" inj="Code" rem="Int Test" ft="1.2" fd="" desc="El tag para la variable reputacion retornada al actualizar, no tenia namespace, por lo que el bpel no la podia leer." count="20" date="@1416230694607" />
+</defectLog>
