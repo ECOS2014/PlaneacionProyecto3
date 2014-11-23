@@ -1,8 +1,10 @@
 #include <TSP/indiv2_empty_dataFile.txt>
-= Data for /Project/Proyecto3PC/Ciclo3/Proceso/Seguimiento(5)
+= Data for /Project/Proyecto3PC/Ciclo3/Reputacion/Proceso/Seguimiento(5)
+Completed=@1416683494029
 EV_Task_IDs=="hyegb1b9:14645814
 Estimated Time=90.0
 Estimated Time_Last_Synced_Val=90.0
 TSP /Effective_Phase="Documentation
 TSP /Effective_Phase_Last_Synced_Val="Documentation
+Time==30.0
 WBS_Unique_ID="14645814

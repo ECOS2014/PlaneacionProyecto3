@@ -1,4 +1,10 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="166" path="/Proyecto/Proyecto3_IE/Ciclo3/Reputacion/P11: Reputacion/CRM-SugarCallOut/Test" start="@1416252970361" delta="15" flag="A" />
+  <time id="167" path="/Proyecto/Proyecto3_IE/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416576746000" delta="60" flag="A" />
+  <time id="168" path="/Proyecto/Proyecto3_IE/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416664262507" delta="93" flag="A" />
+  <time id="169" path="/Proyecto/Proyecto3_IE/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416672715172" delta="24" flag="A" />
+  <time id="171" flag="D" />
+  <time id="170" path="/Proyecto/Proyecto3_IE/Ciclo3/Reputacion/Proceso/Seguimiento(2)" start="@1414946190000" delta="30" flag="A" />
+  <time id="172" path="/Proyecto/Proyecto3_IE/Ciclo3/Reputacion/Proceso/Seguimiento(3)" start="@1415551163000" delta="30" flag="A" />
+  <time id="173" path="/Proyecto/Proyecto3_IE/Ciclo3/Reputacion/Proceso/Seguimiento(5)" start="@1416674388668" delta="30" flag="A" />
 </timeLogEntries>

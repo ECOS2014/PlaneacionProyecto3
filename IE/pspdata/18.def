@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="Data" inj="Design" rem="Int Test" ft="2.2" fd="" desc="las nuevas variables para la reputacion tenian tipos double y boolean, pero el portlet no podia accederlos. se cambiaron a String, que es el formato que no pone problema para el portal." count="15" date="@1415366917438" />
+</defectLog>
