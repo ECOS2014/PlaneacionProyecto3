@@ -181,11 +181,11 @@
               <node name="Planning"/>
               <node name="Design"/>
               <node name="Design Review"/>
-              <node name="Code" selected="true"/>
+              <node name="Code"/>
               <node name="Code Review"/>
               <node name="Compile"/>
               <node name="Test"/>
-              <node name="Postmortem"/>
+              <node name="Postmortem" selected="true"/>
             </node>
           </node>
         </node>

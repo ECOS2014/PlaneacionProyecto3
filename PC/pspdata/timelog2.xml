@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="133" path="/Project/Proyecto3PC/Ciclo3/Reputacion/Proceso/Seguimiento(2)" start="@1414935443000" delta="30" flag="A" />
-  <time id="134" path="/Project/Proyecto3PC/Ciclo3/Reputacion/Proceso/Seguimiento(3)" start="@1415540251000" delta="30" flag="A" />
-  <time id="135" path="/Project/Proyecto3PC/Ciclo3/Reputacion/Proceso/Seguimiento(4)" start="@1416145056000" delta="30" flag="A" />
-  <time id="136" path="/Project/Proyecto3PC/Ciclo3/Reputacion/Proceso/Seguimiento(5)" start="@1416663461223" delta="30" flag="A" />
+  <time id="137" path="/Project/Proyecto3PC/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT/Code" start="@1416801294583" delta="300" flag="A" />
+  <time id="138" path="/Project/Proyecto3PC/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT/Code" start="@1416714908000" delta="300" flag="A" />
+  <time id="139" path="/Project/Proyecto3PC/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT/Code" start="@1416887719000" delta="120" flag="A" />
 </timeLogEntries>
