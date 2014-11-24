@@ -1,10 +1,11 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="167" path="/Proyecto/Proyecto3_IE/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416576746000" delta="60" flag="A" />
-  <time id="168" path="/Proyecto/Proyecto3_IE/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416664262507" delta="93" flag="A" />
-  <time id="169" path="/Proyecto/Proyecto3_IE/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416672715172" delta="24" flag="A" />
-  <time id="171" flag="D" />
-  <time id="170" path="/Proyecto/Proyecto3_IE/Ciclo3/Reputacion/Proceso/Seguimiento(2)" start="@1414946190000" delta="30" flag="A" />
-  <time id="172" path="/Proyecto/Proyecto3_IE/Ciclo3/Reputacion/Proceso/Seguimiento(3)" start="@1415551163000" delta="30" flag="A" />
-  <time id="173" path="/Proyecto/Proyecto3_IE/Ciclo3/Reputacion/Proceso/Seguimiento(5)" start="@1416674388668" delta="30" flag="A" />
+  <time id="176" path="/Proyecto/Proyecto3_IE/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416773351000" delta="30" flag="A" />
+  <time id="177" path="/Proyecto/Proyecto3_IE/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416780574068" delta="36" flag="A" />
+  <time id="178" path="/Proyecto/Proyecto3_IE/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416783627276" delta="11" flag="A" />
+  <time id="179" path="/Proyecto/Proyecto3_IE/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416785211266" delta="58" flag="A" />
+  <time id="180" path="/Proyecto/Proyecto3_IE/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416792536554" delta="7" flag="A" />
+  <time id="181" path="/Proyecto/Proyecto3_IE/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416793810005" delta="65" flag="A" />
+  <time id="182" path="/Proyecto/Proyecto3_IE/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416799102908" delta="22" flag="A" />
+  <time id="183" path="/Proyecto/Proyecto3_IE/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416803635318" delta="60" flag="A" />
 </timeLogEntries>
