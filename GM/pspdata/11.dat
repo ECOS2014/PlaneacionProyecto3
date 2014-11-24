@@ -528,7 +528,7 @@ Test/Estimated Time To Date==#809.1185190424063=DEFAULT
 Test/Estimated Time==#13.142897848696396=DEFAULT
 Test/Started=@1412747717236
 Test/Time To Date==#2414.0=DEFAULT
-Test/Time==1389.0
+Test/Time==249.0
 Time Estimating Error To Date==#0.6078095238095238=DEFAULT
 Time To Date==#8441.0=DEFAULT
 Total LOC To Date==#2734.0=DEFAULT

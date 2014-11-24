@@ -163,7 +163,11 @@
   <time id="178" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416153980762" delta="30" />
   <time id="179" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416154004540" delta="17" />
   <time id="180" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416168041328" delta="70" />
-  <time id="181" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/Proceso/Seguimiento(2)" start="@1415544130000" delta="30" />
-  <time id="182" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/Proceso/Seguimiento(3)" start="@1416148939000" delta="30" />
+  <time id="181" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/Proceso/Seguimiento(2)" start="@1414939330000" delta="30" />
+  <time id="182" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/Proceso/Seguimiento(3)" start="@1415544139000" delta="30" />
   <time id="183" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/Proceso/Seguimiento(5)" start="@1416667346435" delta="30" />
+  <time id="186" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416715218000" delta="75" comment="Nuevo modelo canonico" />
+  <time id="187" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT/Planning" start="@1416690888135" delta="1" />
+  <time id="188" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT/Planning" start="@1416690972679" delta="367" interrupt="78" />
+  <time id="189" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT/Planning" start="@1416754588071" delta="59" />
 </timeLogEntries>

@@ -1,11 +1,8 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="184" flag="D" />
-  <time id="185" flag="D" />
-  <time id="186" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416715218000" delta="75" comment="Nuevo modelo canonico" flag="A" />
-  <time id="181" start="@1414939330000" flag="M" />
-  <time id="182" start="@1415544139000" flag="M" />
-  <time id="187" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT/Planning" start="@1416690888135" delta="1" flag="A" />
-  <time id="188" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT/Planning" start="@1416690972679" delta="367" interrupt="78" flag="A" />
-  <time id="189" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT/Planning" start="@1416754588071" delta="59" flag="A" />
+  <time id="190" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT/Postmortem" start="@1416764837000" delta="81" flag="A" />
+  <time id="191" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT/Postmortem" start="@1416778442000" delta="321" interrupt="180" flag="A" />
+  <time id="120" delta="-1140" comment="hay un tiempo de 21 horas se dejo en 2 horas" flag="M" />
+  <time id="192" flag="D" />
+  <time id="189" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT/Postmortem" flag="M" />
 </timeLogEntries>
