@@ -70,7 +70,7 @@ Code Review/Estimated Defects Removed==#0.0=DEFAULT
 Code Review/Estimated Time To Date==#16.945234585038925=DEFAULT
 Code Review/Estimated Time==#0.5529953917050692=DEFAULT
 Code Review/Time To Date==#65.0=DEFAULT
-Code Review/Time==10.0
+Code Review/Time==0.0
 Code/Combined Defects Injected To Date==#6.0=DEFAULT
 Code/Combined Defects Removed To Date==#1.0=DEFAULT
 Code/Combined Estimated Time To Date==#1446.077974037353=DEFAULT
@@ -101,7 +101,7 @@ Code/Estimated Time To Date==#1429.1327394523141=DEFAULT
 Code/Estimated Time==#29.308755760368662=DEFAULT
 Code/Started=@1412456444740
 Code/Time To Date==#2718.0=DEFAULT
-Code/Time==1558.0
+Code/Time==0.0
 Compile/Completed=@1412429178776
 Compile/Cumulative Defect Removal % To Date==#0.16666666666666666=DEFAULT
 Compile/DRL To Date==#Infinity=DEFAULT
@@ -172,7 +172,7 @@ Design Review/Estimated Defects Removed==#0.0=DEFAULT
 Design Review/Estimated Time To Date==#707.9019297320722=DEFAULT
 Design Review/Estimated Time==#31.797235023041473=DEFAULT
 Design Review/Time To Date==#685.0=DEFAULT
-Design Review/Time==5.0
+Design Review/Time==0.0
 Design vs Code/Estimated Time Ratio To Date==#0.30346851901303024=DEFAULT
 Design vs Code/Estimated Time Ratio==#0.44339622641509435=DEFAULT
 Design vs Code/Time Ratio To Date==#0.20235467255334805=DEFAULT
@@ -204,7 +204,7 @@ Design/Estimated Defects Removed==#0.0=DEFAULT
 Design/Estimated Time To Date==#433.6967959146286=DEFAULT
 Design/Estimated Time==#12.995391705069125=DEFAULT
 Design/Time To Date==#550.0=DEFAULT
-Design/Time==10.0
+Design/Time==0.0
 Design/Total Time To Date==#1235.0=DEFAULT
 ESTIMATED Time To Date==#5160.0=DEFAULT
 EV_Task_IDs=="hyegb1b9:14645710
@@ -441,7 +441,7 @@ Planning/Estimated Defects Removed==#0.0=DEFAULT
 Planning/Estimated Time To Date==#1152.0965695070815=DEFAULT
 Planning/Estimated Time==#50.59907834101382=DEFAULT
 Planning/Time To Date==#1122.0=DEFAULT
-Planning/Time==30.0
+Planning/Time==0.0
 Planning_Is_Done To Date==#1.0=DEFAULT
 Postmortem/Completed=@1412429182441
 Postmortem/Defect Density To Date==#0.0=DEFAULT
@@ -525,7 +525,7 @@ Test/Estimated Time To Date==#809.1185190424063=DEFAULT
 Test/Estimated Time==#16.589861751152075=DEFAULT
 Test/Started=@1412934700744
 Test/Time To Date==#1025.0=DEFAULT
-Test/Time==173.0
+Test/Time==0.0
 Time Estimating Error To Date==#0.36027131782945737=DEFAULT
 Time To Date==#7019.0=DEFAULT
 Total LOC To Date==#2734.0=DEFAULT

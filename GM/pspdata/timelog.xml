@@ -98,12 +98,12 @@
   <time id="112" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Base de datos-Atributos/Code" start="@1412640820608" delta="5" />
   <time id="113" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Base de datos-Atributos/Planning" start="@1412641133565" delta="7" />
   <time id="114" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(3)" start="@1412641530146" delta="2" />
-  <time id="115" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(3)" start="@1412641935144" delta="74" />
+  <time id="115" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(3)" start="@1412641935000" delta="74" />
   <time id="116" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Base de datos-Atributos/Code" start="@1412651805929" delta="50" />
-  <time id="117" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Base de datos-Atributos/Code" start="@1412656326969" delta="1398" />
+  <time id="117" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Base de datos-Atributos/Code" start="@1412656326969" delta="78" />
   <time id="118" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Base de datos-Atributos/Planning" start="@1412740233880" delta="21" />
   <time id="119" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Base de datos-Atributos/Test" start="@1412747717236" delta="24" />
-  <time id="120" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Base de datos-Atributos/Test" start="@1412751704362" delta="1279" />
+  <time id="120" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Base de datos-Atributos/Test" start="@1412751704362" delta="139" comment="hay un tiempo de 21 horas se dejo en 2 horas" />
   <time id="121" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P7: Crear campañas enfocadas a clientes con baja actividad./Base de datos-Atributos/Test" start="@1412809200000" delta="60" comment="Coreccion del tamaño de retorno del metodo consultarcampañas()" />
   <time id="122" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/Tarea de Rol/Seguimiento(4)" start="@1412933854542" delta="13" />
   <time id="123" path="/Proyecto/Proyecto3GM/Conocimiento de Cliente/P6: Crear servicio de consulta de transacciones en AP_BCS/Base de datos-Atributos/Test" start="@1412934700744" delta="94" interrupt="9" />
@@ -169,5 +169,7 @@
   <time id="186" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Informe" start="@1416715218000" delta="75" comment="Nuevo modelo canonico" />
   <time id="187" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT/Planning" start="@1416690888135" delta="1" />
   <time id="188" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT/Planning" start="@1416690972679" delta="367" interrupt="78" />
-  <time id="189" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT/Planning" start="@1416754588071" delta="59" />
+  <time id="189" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT/Postmortem" start="@1416754588071" delta="59" />
+  <time id="190" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT/Postmortem" start="@1416764837000" delta="81" />
+  <time id="191" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT/Postmortem" start="@1416778442000" delta="321" interrupt="180" />
 </timeLogEntries>

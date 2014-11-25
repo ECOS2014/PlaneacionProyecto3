@@ -1,8 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="190" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT/Postmortem" start="@1416764837000" delta="81" flag="A" />
-  <time id="191" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT/Postmortem" start="@1416778442000" delta="321" interrupt="180" flag="A" />
-  <time id="120" delta="-1140" comment="hay un tiempo de 21 horas se dejo en 2 horas" flag="M" />
-  <time id="192" flag="D" />
-  <time id="189" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/IntegracionFinal/Pruebas SAT/Postmortem" flag="M" />
+  <time id="189" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/Integracion/Planning" flag="M" />
+  <time id="190" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/Integracion/Planning" flag="M" />
+  <time id="191" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/Integracion/Planning" flag="M" />
+  <time id="188" flag="D" />
+  <time id="187" flag="D" />
+  <time id="55" flag="D" />
+  <time id="56" flag="D" />
+  <time id="110" flag="D" />
+  <time id="116" flag="D" />
+  <time id="117" flag="D" />
+  <time id="57" flag="D" />
+  <time id="53" flag="D" />
+  <time id="54" flag="D" />
+  <time id="123" flag="D" />
+  <time id="58" flag="D" />
+  <time id="126" flag="D" />
+  <time id="129" flag="D" />
+  <time id="124" flag="D" />
+  <time id="104" flag="D" />
+  <time id="122" flag="D" />
+  <time id="103" flag="D" />
+  <time id="102" flag="D" />
 </timeLogEntries>

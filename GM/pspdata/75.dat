@@ -427,7 +427,7 @@ Planning/Estimated Time To Date==#1320.8820581350528=DEFAULT
 Planning/Estimated Time==#27.43808237999588=DEFAULT
 Planning/Started=@1416673491999
 Planning/Time To Date==#2228.0=DEFAULT
-Planning/Time==368.0
+Planning/Time==0.0
 Planning_Is_Done To Date==#1.0=DEFAULT
 Postmortem/Completed=@1416801629798
 Postmortem/Defect Density To Date==#0.0=DEFAULT
@@ -451,7 +451,7 @@ Postmortem/Estimated Defects Removed==#NaN=DEFAULT
 Postmortem/Estimated Time To Date==#734.3129809850842=DEFAULT
 Postmortem/Estimated Time==#18.899883171834535=DEFAULT
 Postmortem/Time To Date==#881.0=DEFAULT
-Postmortem/Time==461.0
+Postmortem/Time==0.0
 Productivity To Date==#1.3398464759246336=DEFAULT
 Project_WBS_ID To Date==#null=DEFAULT
 Proxy Size To Date==#189.0=DEFAULT
