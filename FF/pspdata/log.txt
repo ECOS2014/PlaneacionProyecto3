@@ -1,15 +1,15 @@
-Process Dashboard - logging started at Mon Nov 24 22:32:30 COT 2014
+Process Dashboard - logging started at Mon Nov 24 22:46:12 COT 2014
 Oracle Corporation JRE 1.7.0_60-ea; Windows 8.1
 Using LocalWorkingDirectory[C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata]
 Created default translation engine.
-nov 24, 2014 10:32:33 PM net.sourceforge.processdash.ProcessDashboard <init>
+nov 24, 2014 10:46:14 PM net.sourceforge.processdash.ProcessDashboard <init>
 INFORMACIÓN: Process Dashboard version 2.0
-nov 24, 2014 10:32:35 PM net.sourceforge.processdash.tool.export.DataImporter importData
+nov 24, 2014 10:46:16 PM net.sourceforge.processdash.tool.export.DataImporter importData
 INFORMACIÓN: importing C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\Equipo\data\hyegb1b9\disseminate\team-data.pdash
 Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\64.dat
 Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\64.dat
 Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\64.dat
-nov 24, 2014 10:38:22 PM net.sourceforge.processdash.ProcessDashboard quit
+nov 24, 2014 10:48:28 PM net.sourceforge.processdash.ProcessDashboard quit
 INFORMACIÓN: Successfully saved all data.
 Completed user-scheduled data export.
 Saved C:\Users\felipe\Documents\GitHub\PlaneacionProyecto3\FF\pspdata\global.dat
