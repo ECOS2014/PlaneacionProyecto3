@@ -67,4 +67,57 @@
   <time id="75" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/Aplicaciones/Code" start="@1412831488275" delta="360" />
   <time id="76" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/Aplicaciones/Code Review" start="@1412831500690" delta="45" />
   <time id="77" path="/Proyecto/Proyecto3FF/Conocimiento de Cliente/P8: Integrar el subproceso de confirmar transacción/Aplicaciones/Compile" start="@1412831513029" delta="30" />
+  <time id="78" path="/Proyecto/Proyecto3FF/Ciclo3/Reputacion/Lanzamiento/Asignar roles y tareas" start="@1414591024000" delta="18" />
+  <time id="80" path="/Proyecto/Proyecto3FF/Ciclo3/Reputacion/Lanzamiento/Plan de pruebas" start="@1414591038000" delta="10" />
+  <time id="81" path="/Proyecto/Proyecto3FF/Ciclo3/Reputacion/Proceso/Seguimiento(1)" start="@1414591047000" delta="30" />
+  <time id="82" path="/Proyecto/Proyecto3FF/Ciclo3/Reputacion/Proceso/Seguimiento(2)" start="@1414677455000" delta="30" />
+  <time id="83" path="/Proyecto/Proyecto3FF/Ciclo3/Reputacion/Proceso/Seguimiento(3)" start="@1415282265000" delta="30" />
+  <time id="84" path="/Proyecto/Proyecto3FF/Ciclo3/Reputacion/Proceso/Seguimiento(4)" start="@1415887070000" delta="30" />
+  <time id="86" path="/Proyecto/Proyecto3FF/Ciclo3/Reputacion/Proceso/Seguimiento(5)" start="@1416491885000" delta="30" />
+  <time id="87" path="/Proyecto/Proyecto3FF/Ciclo3/Reputacion/P11: Reputacion/Aplicacion Lagado/Planning" start="@1414677752000" delta="11" />
+  <time id="88" path="/Proyecto/Proyecto3FF/Ciclo3/Reputacion/P11: Reputacion/Aplicacion Lagado/Design" start="@1414677760000" delta="53" />
+  <time id="89" path="/Proyecto/Proyecto3FF/Ciclo3/Reputacion/P11: Reputacion/Aplicacion Lagado/Design Review" start="@1414677768000" delta="5" />
+  <time id="91" path="/Proyecto/Proyecto3FF/Ciclo3/Reputacion/P11: Reputacion/Aplicacion Lagado/Code" start="@1414677784000" delta="120" />
+  <time id="92" path="/Proyecto/Proyecto3FF/Ciclo3/Reputacion/P11: Reputacion/Aplicacion Lagado/Code Review" start="@1414677813000" delta="6" />
+  <time id="93" path="/Proyecto/Proyecto3FF/Ciclo3/Reputacion/P11: Reputacion/Aplicacion Lagado/Test" start="@1414677835000" delta="45" />
+  <time id="94" path="/Proyecto/Proyecto3FF/Ciclo3/Reputacion/P11: Reputacion/Aplicacion Lagado/Postmortem" start="@1414677847000" delta="20" />
+  <time id="95" path="/Proyecto/Proyecto3FF/Ciclo3/Reputacion/P11: Reputacion/Integracion/Planning" start="@1414677870000" delta="5" />
+  <time id="96" path="/Proyecto/Proyecto3FF/Ciclo3/Reputacion/P11: Reputacion/Integracion/Design" start="@1414678589000" delta="22" />
+  <time id="97" path="/Proyecto/Proyecto3FF/Ciclo3/Reputacion/P11: Reputacion/Integracion/Design Review" start="@1414678765000" delta="5" />
+  <time id="98" path="/Proyecto/Proyecto3FF/Ciclo3/Reputacion/P11: Reputacion/Integracion/Code" start="@1414678788000" delta="150" />
+  <time id="99" path="/Proyecto/Proyecto3FF/Ciclo3/Reputacion/P11: Reputacion/Integracion/Code Review" start="@1414678805000" delta="10" />
+  <time id="100" path="/Proyecto/Proyecto3FF/Ciclo3/Reputacion/P11: Reputacion/Integracion/Compile" start="@1414678810000" />
+  <time id="101" path="/Proyecto/Proyecto3FF/Ciclo3/Reputacion/P11: Reputacion/Integracion/Test" start="@1414678824000" delta="45" />
+  <time id="102" path="/Proyecto/Proyecto3FF/Ciclo3/Reputacion/P11: Reputacion/Integracion/Postmortem" start="@1414678850000" delta="45" />
+  <time id="103" path="/Proyecto/Proyecto3FF/Ciclo3/P9: Crear Combos promocionales/Aplicacion Legado/Planning" start="@1415283876000" delta="10" />
+  <time id="104" path="/Proyecto/Proyecto3FF/Ciclo3/P9: Crear Combos promocionales/Aplicacion Legado/Design" start="@1415283896000" delta="15" />
+  <time id="105" path="/Proyecto/Proyecto3FF/Ciclo3/P9: Crear Combos promocionales/Aplicacion Legado/Design Review" start="@1415283934000" delta="5" />
+  <time id="106" path="/Proyecto/Proyecto3FF/Ciclo3/P9: Crear Combos promocionales/Aplicacion Legado/Code" start="@1415283940000" delta="80" />
+  <time id="107" path="/Proyecto/Proyecto3FF/Ciclo3/P9: Crear Combos promocionales/Aplicacion Legado/Code Review" start="@1415283952000" delta="10" />
+  <time id="108" path="/Proyecto/Proyecto3FF/Ciclo3/P9: Crear Combos promocionales/Aplicacion Legado/Test" start="@1415283987000" delta="15" />
+  <time id="109" path="/Proyecto/Proyecto3FF/Ciclo3/P9: Crear Combos promocionales/Aplicacion Legado/Postmortem" start="@1415283994000" delta="20" />
+  <time id="110" path="/Proyecto/Proyecto3FF/Ciclo3/P9: Crear Combos promocionales/Integracion/Planning" start="@1415284113000" delta="5" />
+  <time id="111" path="/Proyecto/Proyecto3FF/Ciclo3/P9: Crear Combos promocionales/Integracion/Design" start="@1415284137000" delta="5" />
+  <time id="112" path="/Proyecto/Proyecto3FF/Ciclo3/P9: Crear Combos promocionales/Integracion/Design Review" start="@1415284145000" delta="5" />
+  <time id="113" path="/Proyecto/Proyecto3FF/Ciclo3/P9: Crear Combos promocionales/Integracion/Code" start="@1415284155000" delta="30" />
+  <time id="114" path="/Proyecto/Proyecto3FF/Ciclo3/P9: Crear Combos promocionales/Integracion/Compile" start="@1415284207000" />
+  <time id="115" path="/Proyecto/Proyecto3FF/Ciclo3/P9: Crear Combos promocionales/Integracion/Code Review" start="@1415284216000" />
+  <time id="116" path="/Proyecto/Proyecto3FF/Ciclo3/P9: Crear Combos promocionales/Integracion/Test" start="@1415284222000" delta="10" />
+  <time id="117" path="/Proyecto/Proyecto3FF/Ciclo3/P9: Crear Combos promocionales/Integracion/Postmortem" start="@1415284227000" delta="10" />
+  <time id="118" path="/Proyecto/Proyecto3FF/Ciclo3/P10: Comprar combos/Aplicacion Legado/Planning" start="@1415716372000" delta="5" />
+  <time id="119" path="/Proyecto/Proyecto3FF/Ciclo3/P10: Comprar combos/Aplicacion Legado/Design" start="@1415716381000" delta="15" />
+  <time id="120" path="/Proyecto/Proyecto3FF/Ciclo3/P10: Comprar combos/Aplicacion Legado/Design Review" start="@1415716391000" />
+  <time id="121" path="/Proyecto/Proyecto3FF/Ciclo3/P10: Comprar combos/Aplicacion Legado/Code" start="@1415716401000" delta="80" />
+  <time id="122" path="/Proyecto/Proyecto3FF/Ciclo3/P10: Comprar combos/Aplicacion Legado/Code Review" start="@1415716427000" />
+  <time id="123" path="/Proyecto/Proyecto3FF/Ciclo3/P10: Comprar combos/Aplicacion Legado/Compile" start="@1415716434000" />
+  <time id="124" path="/Proyecto/Proyecto3FF/Ciclo3/P10: Comprar combos/Aplicacion Legado/Test" start="@1415716438000" delta="30" />
+  <time id="125" path="/Proyecto/Proyecto3FF/Ciclo3/P10: Comprar combos/Aplicacion Legado/Postmortem" start="@1415716451000" delta="20" />
+  <time id="126" path="/Proyecto/Proyecto3FF/Ciclo3/P10: Comprar combos/Integracion/Planning" start="@1415802965000" />
+  <time id="127" path="/Proyecto/Proyecto3FF/Ciclo3/P10: Comprar combos/Integracion/Design" start="@1415802972000" delta="5" />
+  <time id="128" path="/Proyecto/Proyecto3FF/Ciclo3/P10: Comprar combos/Integracion/Design Review" start="@1415803004000" />
+  <time id="129" path="/Proyecto/Proyecto3FF/Ciclo3/P10: Comprar combos/Integracion/Code" start="@1415803010000" delta="45" />
+  <time id="130" path="/Proyecto/Proyecto3FF/Ciclo3/P10: Comprar combos/Integracion/Code Review" start="@1415803016000" />
+  <time id="131" path="/Proyecto/Proyecto3FF/Ciclo3/P10: Comprar combos/Integracion/Compile" start="@1415803022000" />
+  <time id="132" path="/Proyecto/Proyecto3FF/Ciclo3/P10: Comprar combos/Integracion/Test" start="@1415803026000" delta="10" />
+  <time id="133" path="/Proyecto/Proyecto3FF/Ciclo3/P10: Comprar combos/Integracion/Postmortem" start="@1415803034000" delta="12" />
 </timeLogEntries>
