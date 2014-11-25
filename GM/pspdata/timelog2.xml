@@ -1,25 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <timeLogEntries>
-  <time id="189" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/Integracion/Planning" flag="M" />
-  <time id="190" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/Integracion/Planning" flag="M" />
-  <time id="191" path="/Proyecto/Proyecto3GM/Ciclo3/Reputacion/P11: Reputacion/Integracion/Planning" flag="M" />
-  <time id="188" flag="D" />
-  <time id="187" flag="D" />
-  <time id="55" flag="D" />
-  <time id="56" flag="D" />
-  <time id="110" flag="D" />
-  <time id="116" flag="D" />
-  <time id="117" flag="D" />
-  <time id="57" flag="D" />
-  <time id="53" flag="D" />
-  <time id="54" flag="D" />
-  <time id="123" flag="D" />
-  <time id="58" flag="D" />
-  <time id="126" flag="D" />
-  <time id="129" flag="D" />
-  <time id="124" flag="D" />
-  <time id="104" flag="D" />
-  <time id="122" flag="D" />
-  <time id="103" flag="D" />
-  <time id="102" flag="D" />
+  <time id="68" delta="-180" flag="M" />
+  <time id="66" flag="D" />
+  <time id="65" flag="D" />
+  <time id="70" delta="-140" flag="M" />
+  <time id="79" flag="D" />
+  <time id="80" flag="D" />
+  <time id="82" flag="D" />
+  <time id="83" flag="D" />
+  <time id="84" flag="D" />
+  <time id="90" delta="20" flag="M" />
+  <time id="67" flag="D" />
+  <time id="69" delta="-10" flag="M" />
+  <time id="99" flag="D" />
+  <time id="114" flag="D" />
+  <time id="115" flag="D" />
 </timeLogEntries>

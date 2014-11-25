@@ -70,7 +70,7 @@ Code Review/Estimated Defects Removed==#0.0=DEFAULT
 Code Review/Estimated Time To Date==#4.097494009477218=DEFAULT
 Code Review/Estimated Time==#10.697570759973257=DEFAULT
 Code Review/Time To Date==#65.0=DEFAULT
-Code Review/Time==15.0
+Code Review/Time==0.0
 Code/Combined Defects Injected To Date==#4.0=DEFAULT
 Code/Combined Defects Removed To Date==#1.0=DEFAULT
 Code/Combined Estimated Time To Date==#1153.4463654124665=DEFAULT
@@ -99,7 +99,7 @@ Code/Estimated Defects Removed==#0.16666666666666669=DEFAULT
 Code/Estimated Time To Date==#1149.3488714029893=DEFAULT
 Code/Estimated Time==#235.34655671941164=DEFAULT
 Code/Time To Date==#1220.0=DEFAULT
-Code/Time==120.0
+Code/Time==0.0
 Compile/Completed=@1412429252648
 Compile/Cumulative Defect Removal % To Date==#0.2=DEFAULT
 Compile/DRL To Date==#Infinity=DEFAULT
@@ -202,7 +202,7 @@ Design/Estimated Defects Removed==#0.0=DEFAULT
 Design/Estimated Time To Date==#329.05989148455984=DEFAULT
 Design/Estimated Time==#81.30153777579676=DEFAULT
 Design/Time To Date==#440.0=DEFAULT
-Design/Time==60.0
+Design/Time==0.0
 Design/Total Time To Date==#1125.0=DEFAULT
 ESTIMATED Time To Date==#4950.0=DEFAULT
 EV_Task_IDs=="hyegb1b9:14645733
@@ -439,7 +439,7 @@ Planning/Estimated Defects Removed==#0.0=DEFAULT
 Planning/Estimated Time To Date==#883.5789907924127=DEFAULT
 Planning/Estimated Time==#227.21640294183194=DEFAULT
 Planning/Time To Date==#1122.0=DEFAULT
-Planning/Time==60.0
+Planning/Time==0.0
 Planning_Is_Done To Date==#1.0=DEFAULT
 Postmortem/Completed=@1412429255264
 Postmortem/Defect Density To Date==#0.0=DEFAULT
@@ -520,7 +520,7 @@ Test/Estimated Defects Removed==#0.6666666666666667=DEFAULT
 Test/Estimated Time To Date==#653.6332351228461=DEFAULT
 Test/Estimated Time==#117.67327835970582=DEFAULT
 Test/Time To Date==#660.0=DEFAULT
-Test/Time==110.0
+Test/Time==0.0
 Time Estimating Error To Date==#-0.013737373737373737=DEFAULT
 Time To Date==#4882.0=DEFAULT
 Total LOC To Date==#2734.0=DEFAULT
